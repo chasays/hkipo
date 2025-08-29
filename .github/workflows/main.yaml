@@ -26,19 +26,6 @@ jobs:
           python-version: '3.11'
           cache: 'pip'
       
-      - name: 'Check and create requirements.txt if needed'
-        run: |
-          if [ ! -f "requirements.txt" ]; then
-            echo "Creating requirements.txt with necessary dependencies..."
-            cat > requirements.txt << EOF
-requests>=2.31.0
-ics>=0.7.2
-EOF
-            echo "requirements.txt created"
-          else
-            echo "requirements.txt already exists"
-          fi
-      
       - name: 'Install dependencies'
         run: |
           python -m pip install --upgrade pip

@@ -50,7 +50,7 @@ EOF
           python main.py
           if [ $? -eq 0 ]; then
             echo "✅ Hong Kong IPO ICS file generated successfully"
-            ls -la *.ics *.log *.json || echo "Some output files may not exist"
+            ls -la  || echo "Some output files may not exist"
           else
             echo "❌ Failed to generate Hong Kong IPO ICS file"
             exit 1

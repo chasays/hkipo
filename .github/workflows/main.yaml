@@ -60,31 +60,6 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add hkipo.ics hkipo.log hkipo_response.json
+          git add hkipo.ics 
           git commit -m "🤖 Auto-update Hong Kong IPO ICS file - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
           git push
-      
-      - name: 'Display Hong Kong IPO ICS content'
-        if: always()
-        run: |
-          if [ -f "hkipo.ics" ]; then
-            echo "=== Hong Kong IPO ICS File Content ==="
-            cat hkipo.ics
-            echo "=== End of Hong Kong IPO ICS File ==="
-          else
-            echo "❌ Hong Kong IPO ICS file not found!"
-          fi
-          
-          echo ""
-          echo "=== Generated Files Summary ==="
-          ls -la *.ics *.log *.json 2>/dev/null || echo "No output files found"
-          echo "================================"
-      
-      - name: 'Summary'
-        if: always()
-        run: |
-          if [ "${{ steps.check-changes.outputs.changes }}" == "true" ]; then
-            echo "✅ Hong Kong IPO ICS file updated and committed successfully"
-          else
-            echo "ℹ️ No changes detected, no commit needed"
-          fi

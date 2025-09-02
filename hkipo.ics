@@ -4,20 +4,15 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 奥克斯电气 (02580) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 奥克斯电气 (02580) [主板]
+DESCRIPTION:今天: HK IPO: 奥克斯电气 (02580) [主板]
 TRIGGER:PT30M
 END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2025-08-25 至 2025-09-02\n⏰ 申购截止: 2025-08-28\n💰 价格区间: 16-17.42\n📊 发行股数: 15.57亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2025-08-25 至 2025-09-02\n⏰ 申购截止: 2025-08-28\n💰 价格区间: 16-17.42\n💵 发行价: 17.420\n📊 发行股数: 15.57亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 格力电器\n🟢 绿鞋: 42.00%
 DURATION:P1D
 DTSTART:20250825T000000Z
 SUMMARY:HK IPO: 奥克斯电气 (02580) [主板]
-UID:e54776cc-25f8-4aad-a96f-6a38f10aee61@e547.org
+UID:09390766-5429-46bf-8e99-7057bcf8da81@0939.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -35,6 +30,6 @@ DESCRIPTION:📅 IPO周期: 2025-09-01 至 2025-09-09\n⏰ 申购截止: 2025-09
 DURATION:P1D
 DTSTART:20250901T000000Z
 SUMMARY:HK IPO: 大行科工 (02543) [主板]
-UID:ded76d74-edbc-4b88-8b19-c6d9364d3e71@ded7.org
+UID:9136bf1a-9539-4b88-bcad-bbb66044aa26@9136.org
 END:VEVENT
 END:VCALENDAR

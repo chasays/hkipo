@@ -13,11 +13,11 @@ DESCRIPTION:HK IPO: 禾赛-W (02525) [主板]
 TRIGGER:PT30M
 END:VALARM
 CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2025-09-08 至 2025-09-16\n⏰ 申购截止: 2025-09-11\n📊 发行股数: 1.50亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:📅 IPO周期: 2025-09-08 至 2025-09-16\n⏰ 申购截止: 2025-09-11\n💰 价格区间: 228\n📊 发行股数: 1.50亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
 DTSTART:20250908T000000Z
 SUMMARY:HK IPO: 禾赛-W (02525) [主板]
-UID:fc0dc008-180c-447d-a157-96c5c191c077@fc0d.org
+UID:7ca6f3b7-18d8-4007-9401-0ca6a599a01b@7ca6.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -35,6 +35,6 @@ DESCRIPTION:📅 IPO周期: 2025-09-01 至 2025-09-09\n⏰ 申购截止: 2025-09
 DURATION:P1D
 DTSTART:20250901T000000Z
 SUMMARY:HK IPO: 大行科工 (02543) [主板]
-UID:db5b7538-f216-4ac9-9119-cda5dde521fb@db5b.org
+UID:e60f1f10-1dd7-44d8-8db5-d2159b24126a@e60f.org
 END:VEVENT
 END:VCALENDAR

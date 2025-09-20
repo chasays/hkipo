@@ -4,31 +4,6 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 紫金黄金国际 (02259) [主板]\n   📅 IPO周期: 2025-09-19 至 2025-09-29\n⏰ 申购截止: 2025-09-24\n💰 价格区间: 71.59\n📊 发行股数: 26.23亿股\n🏢 市场: 主板\n🏛️ 保荐人: 大摩\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 西普尼 (02583) [主板]\n   📅 IPO周期: 2025-09-19 至 2025-09-29\n⏰ 申购截止: 2025-09-24\n💰 价格区间: 27-29.6\n📊 发行股数: 0.59亿股\n🏢 市场: 主板\n🏛️ 保荐人: 平安证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20250919T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:892a1d55-fe92-4442-b45a-df75fd0bbe78@892a.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:今天: HK IPO: 劲方医药-B (02595) [主板]
-TRIGGER:PT30M
-END:VALARM
-CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2025-09-11 至 2025-09-19\n⏰ 申购截止: 2025-09-16\n💰 价格区间: 20.39\n💵 发行价: 20.390\n📊 发行股数: 3.45亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: 银诺医药-B
-DURATION:P1D
-DTSTART:20250911T000000Z
-SUMMARY:HK IPO: 劲方医药-B (02595) [主板]
-UID:e6d26d6a-d683-415d-877d-bd63d2b82fdc@e6d2.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
 DESCRIPTION:提醒: HK IPO: 不同集团 (06090) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
@@ -42,7 +17,19 @@ DESCRIPTION:📅 IPO周期: 2025-09-15 至 2025-09-23\n⏰ 申购截止: 2025-09
 DURATION:P1D
 DTSTART:20250915T000000Z
 SUMMARY:HK IPO: 不同集团 (06090) [主板]
-UID:483f101c-1ec8-4a2b-99a1-8c9c4e37661d@483f.org
+UID:64535a49-2efb-41e1-b5c6-1f53981feaba@6453.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 紫金黄金国际 (02259) [主板]\n   📅 IPO周期: 2025-09-19 至 2025-09-29\n⏰ 申购截止: 2025-09-24\n💰 价格区间: 71.59\n📊 发行股数: 26.23亿股\n🏢 市场: 主板\n🏛️ 保荐人: 大摩\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 西普尼 (02583) [主板]\n   📅 IPO周期: 2025-09-19 至 2025-09-29\n⏰ 申购截止: 2025-09-24\n💰 价格区间: 27-29.6\n📊 发行股数: 0.59亿股\n🏢 市场: 主板\n🏛️ 保荐人: 平安证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20250919T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:54b54ccf-d284-4ecb-a95a-42ace159d444@54b5.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -60,6 +47,6 @@ DESCRIPTION:📅 IPO周期: 2025-09-17 至 2025-09-25\n⏰ 申购截止: 2025-09
 DURATION:P1D
 DTSTART:20250917T000000Z
 SUMMARY:HK IPO: 奇瑞汽车 (09973) [主板]
-UID:3c0c31cf-0c1d-45cb-b9c3-538b9790a385@3c0c.org
+UID:5e2dde71-9899-4682-b376-2c9fc0bd8950@5e2d.org
 END:VEVENT
 END:VCALENDAR

@@ -4,36 +4,6 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 不同集团 (06090) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 不同集团 (06090) [主板]
-TRIGGER:PT30M
-END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2025-09-15 至 2025-09-23\n⏰ 申购截止: 2025-09-18\n💰 价格区间: 62.01-71.2\n📊 发行股数: 0.90亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20250915T000000Z
-SUMMARY:HK IPO: 不同集团 (06090) [主板]
-UID:64535a49-2efb-41e1-b5c6-1f53981feaba@6453.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 紫金黄金国际 (02259) [主板]\n   📅 IPO周期: 2025-09-19 至 2025-09-29\n⏰ 申购截止: 2025-09-24\n💰 价格区间: 71.59\n📊 发行股数: 26.23亿股\n🏢 市场: 主板\n🏛️ 保荐人: 大摩\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 西普尼 (02583) [主板]\n   📅 IPO周期: 2025-09-19 至 2025-09-29\n⏰ 申购截止: 2025-09-24\n💰 价格区间: 27-29.6\n📊 发行股数: 0.59亿股\n🏢 市场: 主板\n🏛️ 保荐人: 平安证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20250919T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:54b54ccf-d284-4ecb-a95a-42ace159d444@54b5.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
 DESCRIPTION:提醒: HK IPO: 奇瑞汽车 (09973) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
@@ -47,6 +17,36 @@ DESCRIPTION:📅 IPO周期: 2025-09-17 至 2025-09-25\n⏰ 申购截止: 2025-09
 DURATION:P1D
 DTSTART:20250917T000000Z
 SUMMARY:HK IPO: 奇瑞汽车 (09973) [主板]
-UID:5e2dde71-9899-4682-b376-2c9fc0bd8950@5e2d.org
+UID:4a6dc45d-b059-47a2-a719-0085126ad456@4a6d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 紫金黄金国际 (02259) [主板]\n   📅 IPO周期: 2025-09-19 至 2025-09-29\n⏰ 申购截止: 2025-09-24\n💰 价格区间: 71.59\n📊 发行股数: 26.23亿股\n🏢 市场: 主板\n🏛️ 保荐人: 大摩\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 西普尼 (02583) [主板]\n   📅 IPO周期: 2025-09-19 至 2025-09-29\n⏰ 申购截止: 2025-09-24\n💰 价格区间: 27-29.6\n📊 发行股数: 0.59亿股\n🏢 市场: 主板\n🏛️ 保荐人: 平安证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20250919T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:5d1778c2-0848-4d57-acbf-a16e567ccc4f@5d17.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:提醒: HK IPO: 不同集团 (06090) [主板] 明天开始
+TRIGGER:P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO: 不同集团 (06090) [主板]
+TRIGGER:PT30M
+END:VALARM
+CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2025-09-15 至 2025-09-23\n⏰ 申购截止: 2025-09-18\n💰 价格区间: 62.01-71.2\n📊 发行股数: 0.90亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20250915T000000Z
+SUMMARY:HK IPO: 不同集团 (06090) [主板]
+UID:cf731897-8135-4a1f-a716-c38fb2dc1fb1@cf73.org
 END:VEVENT
 END:VCALENDAR

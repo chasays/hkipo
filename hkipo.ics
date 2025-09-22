@@ -4,36 +4,6 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 奇瑞汽车 (09973) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 奇瑞汽车 (09973) [主板]
-TRIGGER:PT30M
-END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2025-09-17 至 2025-09-25\n⏰ 申购截止: 2025-09-22\n💰 价格区间: 27.75-30.75\n📊 发行股数: 57.67亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20250917T000000Z
-SUMMARY:HK IPO: 奇瑞汽车 (09973) [主板]
-UID:4a6dc45d-b059-47a2-a719-0085126ad456@4a6d.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 紫金黄金国际 (02259) [主板]\n   📅 IPO周期: 2025-09-19 至 2025-09-29\n⏰ 申购截止: 2025-09-24\n💰 价格区间: 71.59\n📊 发行股数: 26.23亿股\n🏢 市场: 主板\n🏛️ 保荐人: 大摩\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 西普尼 (02583) [主板]\n   📅 IPO周期: 2025-09-19 至 2025-09-29\n⏰ 申购截止: 2025-09-24\n💰 价格区间: 27-29.6\n📊 发行股数: 0.59亿股\n🏢 市场: 主板\n🏛️ 保荐人: 平安证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20250919T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:5d1778c2-0848-4d57-acbf-a16e567ccc4f@5d17.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
 DESCRIPTION:提醒: HK IPO: 不同集团 (06090) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
@@ -47,6 +17,54 @@ DESCRIPTION:📅 IPO周期: 2025-09-15 至 2025-09-23\n⏰ 申购截止: 2025-09
 DURATION:P1D
 DTSTART:20250915T000000Z
 SUMMARY:HK IPO: 不同集团 (06090) [主板]
-UID:cf731897-8135-4a1f-a716-c38fb2dc1fb1@cf73.org
+UID:61ebb685-1a4f-4eaf-aaa4-9a634ea49caf@61eb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:提醒: HK IPO: 博泰车联 (02889) [主板] 明天开始
+TRIGGER:P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO: 博泰车联 (02889) [主板]
+TRIGGER:PT30M
+END:VALARM
+CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2025-09-22 至 2025-09-23\n⏰ 申购截止: 2025-09-25\n💰 价格区间: 102.23\n📊 发行股数: 1.50亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20250922T000000Z
+SUMMARY:HK IPO: 博泰车联 (02889) [主板]
+UID:46d1139a-99e4-4138-b50e-1c3f1dbdf13e@46d1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:提醒: HK IPO: 奇瑞汽车 (09973) [主板] 明天开始
+TRIGGER:P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO: 奇瑞汽车 (09973) [主板]
+TRIGGER:PT30M
+END:VALARM
+CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2025-09-17 至 2025-09-25\n⏰ 申购截止: 2025-09-22\n💰 价格区间: 27.75-30.75\n📊 发行股数: 57.67亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20250917T000000Z
+SUMMARY:HK IPO: 奇瑞汽车 (09973) [主板]
+UID:5014cd71-a39d-4f84-aec1-b387d40f7b73@5014.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 紫金黄金国际 (02259) [主板]\n   📅 IPO周期: 2025-09-19 至 2025-09-29\n⏰ 申购截止: 2025-09-24\n💰 价格区间: 71.59\n📊 发行股数: 26.23亿股\n🏢 市场: 主板\n🏛️ 保荐人: 大摩\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 西普尼 (02583) [主板]\n   📅 IPO周期: 2025-09-19 至 2025-09-29\n⏰ 申购截止: 2025-09-24\n💰 价格区间: 27-29.6\n📊 发行股数: 0.59亿股\n🏢 市场: 主板\n🏛️ 保荐人: 平安证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20250919T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:b3d04684-e508-48bc-b1d0-c6d4c2f95693@b3d0.org
 END:VEVENT
 END:VCALENDAR

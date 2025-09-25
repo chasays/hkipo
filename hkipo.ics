@@ -11,24 +11,19 @@ DESCRIPTION:共2家公司上市:\n1. 紫金黄金国际 (02259) [主板]\n   �
 DURATION:P1D
 DTSTART:20250919T000000Z
 SUMMARY:HK IPO Day: 2 Companies Listing
-UID:c048c76e-ffa3-4b45-9fc8-2947c6d92bdd@c048.org
+UID:ae4ea1ad-0805-4930-9b09-3d39ff65aa3e@ae4e.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 奇瑞汽车 (09973) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 奇瑞汽车 (09973) [主板]
+DESCRIPTION:今天: HK IPO: 奇瑞汽车 (09973) [主板]
 TRIGGER:PT30M
 END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2025-09-17 至 2025-09-25\n⏰ 申购截止: 2025-09-22\n💰 价格区间: 27.75-30.75\n📊 发行股数: 57.67亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2025-09-17 至 2025-09-25\n⏰ 申购截止: 2025-09-22\n💰 价格区间: 27.75-30.75\n💵 发行价: 30.750\n📊 发行股数: 57.67亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 零跑汽车\n🟢 绿鞋: 150.00%
 DURATION:P1D
 DTSTART:20250917T000000Z
 SUMMARY:HK IPO: 奇瑞汽车 (09973) [主板]
-UID:d78fb19e-8fd7-4039-9444-ed68aac32a5b@d78f.org
+UID:dcf5f79f-3b52-403b-9b17-e5cc93853079@dcf5.org
 END:VEVENT
 END:VCALENDAR

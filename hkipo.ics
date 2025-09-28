@@ -17,7 +17,19 @@ DESCRIPTION:📅 IPO周期: 2025-09-26 至 2025-10-08\n⏰ 申购截止: 2025-10
 DURATION:P1D
 DTSTART:20250926T000000Z
 SUMMARY:HK IPO: 长风药业 (02652) [主板]
-UID:57ad06da-06ef-480c-8dd5-d46e5a57fce0@57ad.org
+UID:200c3b33-9e1f-4ec1-b552-15abb46e2494@200c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 紫金黄金国际 (02259) [主板]\n   📅 IPO周期: 2025-09-19 至 2025-09-29\n⏰ 申购截止: 2025-09-24\n💰 价格区间: 71.59\n📊 发行股数: 26.23亿股\n🏢 市场: 主板\n🏛️ 保荐人: 大摩\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 西普尼 (02583) [主板]\n   📅 IPO周期: 2025-09-19 至 2025-09-29\n⏰ 申购截止: 2025-09-24\n💰 价格区间: 27-29.6\n📊 发行股数: 0.59亿股\n🏢 市场: 主板\n🏛️ 保荐人: 平安证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20250919T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:344c10a8-10e0-446a-9060-c071b5374797@344c.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -35,18 +47,6 @@ DESCRIPTION:📅 IPO周期: 2025-09-22 至 2025-09-30\n⏰ 申购截止: 2025-09
 DURATION:P1D
 DTSTART:20250922T000000Z
 SUMMARY:HK IPO: 博泰车联 (02889) [主板]
-UID:3ed0bdd1-d98c-4469-a4c5-bf12b07c438d@3ed0.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 紫金黄金国际 (02259) [主板]\n   📅 IPO周期: 2025-09-19 至 2025-09-29\n⏰ 申购截止: 2025-09-24\n💰 价格区间: 71.59\n📊 发行股数: 26.23亿股\n🏢 市场: 主板\n🏛️ 保荐人: 大摩\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 西普尼 (02583) [主板]\n   📅 IPO周期: 2025-09-19 至 2025-09-29\n⏰ 申购截止: 2025-09-24\n💰 价格区间: 27-29.6\n📊 发行股数: 0.59亿股\n🏢 市场: 主板\n🏛️ 保荐人: 平安证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20250919T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:50e1bcc9-91fb-4f9f-950b-2ea2e99e152b@50e1.org
+UID:70c2734c-eaea-4d82-b4d2-8d05ee4bb017@70c2.org
 END:VEVENT
 END:VCALENDAR

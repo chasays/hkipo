@@ -4,18 +4,6 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 挚达科技 (02650) [主板]\n   📅 IPO周期: 2025-09-30 至 2025-10-10\n⏰ 申购截止: 2025-10-06\n💰 价格区间: 66.92-83.63\n📊 发行股数: 0.60亿股\n🏢 市场: 主板\n🏛️ 保荐人: 申万宏源\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 金叶国际集团 (08549) [创业板]\n   📅 IPO周期: 2025-09-30 至 2025-10-10\n⏰ 申购截止: 2025-10-06\n💰 价格区间: 0.45-0.65\n📊 发行股数: 4.00亿股\n🏢 市场: 创业板\n🏛️ 保荐人: 同人融资\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20250930T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:479db9e9-3f18-4742-b01f-bf9df2de7f34@479d.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
 DESCRIPTION:提醒: HK IPO: 长风药业 (02652) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
@@ -29,6 +17,18 @@ DESCRIPTION:📅 IPO周期: 2025-09-26 至 2025-10-08\n⏰ 申购截止: 2025-10
 DURATION:P1D
 DTSTART:20250926T000000Z
 SUMMARY:HK IPO: 长风药业 (02652) [主板]
-UID:29fee1c9-99ca-4d44-87d6-6e1bcd0ac6b4@29fe.org
+UID:b3a6435f-70c7-476b-b5ab-d3cf31a8de17@b3a6.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 挚达科技 (02650) [主板]\n   📅 IPO周期: 2025-09-30 至 2025-10-10\n⏰ 申购截止: 2025-10-06\n💰 价格区间: 66.92-83.63\n📊 发行股数: 0.60亿股\n🏢 市场: 主板\n🏛️ 保荐人: 申万宏源\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 金叶国际集团 (08549) [创业板]\n   📅 IPO周期: 2025-09-30 至 2025-10-10\n⏰ 申购截止: 2025-10-06\n💰 价格区间: 0.45-0.65\n📊 发行股数: 4.00亿股\n🏢 市场: 创业板\n🏛️ 保荐人: 同人融资\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20250930T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:4d207867-d176-49f5-a7b6-97e6e83a8048@4d20.org
 END:VEVENT
 END:VCALENDAR

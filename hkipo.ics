@@ -4,20 +4,51 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 长风药业 (02652) [主板] 明天开始
+DESCRIPTION:提醒: HK IPO: 云迹 (02670) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO: 长风药业 (02652) [主板]
+DESCRIPTION:HK IPO: 云迹 (02670) [主板]
 TRIGGER:PT30M
 END:VALARM
 CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2025-09-26 至 2025-10-08\n⏰ 申购截止: 2025-10-02\n💰 价格区间: 14.75\n📊 发行股数: 4.11亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:📅 IPO周期: 2025-10-08 至 2025-10-16\n⏰ 申购截止: 2025-10-13\n💰 价格区间: 95.6\n📊 发行股数: 0.69亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20251008T000000Z
+SUMMARY:HK IPO: 云迹 (02670) [主板]
+UID:6481b604-a25d-497c-8337-4cac3b925ca7@6481.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:今天: HK IPO: 长风药业 (02652) [主板]
+TRIGGER:PT30M
+END:VALARM
+CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2025-09-26 至 2025-10-08\n⏰ 申购截止: 2025-10-02\n💰 价格区间: 14.75\n💵 发行价: 14.750\n📊 发行股数: 4.11亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: 绿竹生物-B
 DURATION:P1D
 DTSTART:20250926T000000Z
 SUMMARY:HK IPO: 长风药业 (02652) [主板]
-UID:9847b09b-b995-4795-b90c-64f460e366d4@9847.org
+UID:980f169d-5e23-492d-972b-f730d5c49983@980f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:提醒: HK IPO: 轩竹生物-B (02575) [主板] 明天开始
+TRIGGER:P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO: 轩竹生物-B (02575) [主板]
+TRIGGER:PT30M
+END:VALARM
+CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2025-10-06 至 2025-10-15\n⏰ 申购截止: 2025-10-10\n💰 价格区间: 11.6\n📊 发行股数: 5.18亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20251006T000000Z
+SUMMARY:HK IPO: 轩竹生物-B (02575) [主板]
+UID:17f48517-f549-49a2-9518-65a11d41a5ed@17f4.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -29,6 +60,6 @@ DESCRIPTION:共2家公司上市:\n1. 挚达科技 (02650) [主板]\n   📅 IPO�
 DURATION:P1D
 DTSTART:20250930T000000Z
 SUMMARY:HK IPO Day: 2 Companies Listing
-UID:7302fe9a-e6b4-4d8b-ba21-a731d697308d@7302.org
+UID:a45b0fa5-a107-407b-be84-f96432f5479e@a45b.org
 END:VEVENT
 END:VCALENDAR

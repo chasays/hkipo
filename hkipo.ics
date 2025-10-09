@@ -4,33 +4,14 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 云迹 (02670) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 云迹 (02670) [主板]
+DESCRIPTION:HK IPO Day: 2 Companies Listing
 TRIGGER:PT30M
 END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2025-10-08 至 2025-10-16\n⏰ 申购截止: 2025-10-13\n💰 价格区间: 95.6\n📊 发行股数: 0.69亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:共2家公司上市:\n1. 挚达科技 (02650) [主板]\n   📅 IPO周期: 2025-09-30 至 2025-10-10\n⏰ 申购截止: 2025-10-06\n💰 价格区间: 66.92-83.63\n📊 发行股数: 0.60亿股\n🏢 市场: 主板\n🏛️ 保荐人: 申万宏源\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 金叶国际集团 (08549) [创业板]\n   📅 IPO周期: 2025-09-30 至 2025-10-10\n⏰ 申购截止: 2025-10-06\n💰 价格区间: 0.45-0.65\n📊 发行股数: 4.00亿股\n🏢 市场: 创业板\n🏛️ 保荐人: 同人融资\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
-DTSTART:20251008T000000Z
-SUMMARY:HK IPO: 云迹 (02670) [主板]
-UID:6481b604-a25d-497c-8337-4cac3b925ca7@6481.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:今天: HK IPO: 长风药业 (02652) [主板]
-TRIGGER:PT30M
-END:VALARM
-CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2025-09-26 至 2025-10-08\n⏰ 申购截止: 2025-10-02\n💰 价格区间: 14.75\n💵 发行价: 14.750\n📊 发行股数: 4.11亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: 绿竹生物-B
-DURATION:P1D
-DTSTART:20250926T000000Z
-SUMMARY:HK IPO: 长风药业 (02652) [主板]
-UID:980f169d-5e23-492d-972b-f730d5c49983@980f.org
+DTSTART:20250930T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:5e996b85-8e3b-496c-a37d-e819bfd6707c@5e99.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -48,18 +29,24 @@ DESCRIPTION:📅 IPO周期: 2025-10-06 至 2025-10-15\n⏰ 申购截止: 2025-10
 DURATION:P1D
 DTSTART:20251006T000000Z
 SUMMARY:HK IPO: 轩竹生物-B (02575) [主板]
-UID:17f48517-f549-49a2-9518-65a11d41a5ed@17f4.org
+UID:de4db5b9-01b5-4bcd-b7e7-767766819d4f@de4d.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
+DESCRIPTION:提醒: HK IPO: 云迹 (02670) [主板] 明天开始
+TRIGGER:P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO: 云迹 (02670) [主板]
 TRIGGER:PT30M
 END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 挚达科技 (02650) [主板]\n   📅 IPO周期: 2025-09-30 至 2025-10-10\n⏰ 申购截止: 2025-10-06\n💰 价格区间: 66.92-83.63\n📊 发行股数: 0.60亿股\n🏢 市场: 主板\n🏛️ 保荐人: 申万宏源\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 金叶国际集团 (08549) [创业板]\n   📅 IPO周期: 2025-09-30 至 2025-10-10\n⏰ 申购截止: 2025-10-06\n💰 价格区间: 0.45-0.65\n📊 发行股数: 4.00亿股\n🏢 市场: 创业板\n🏛️ 保荐人: 同人融资\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2025-10-08 至 2025-10-16\n⏰ 申购截止: 2025-10-13\n💰 价格区间: 95.6\n📊 发行股数: 0.69亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
-DTSTART:20250930T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:a45b0fa5-a107-407b-be84-f96432f5479e@a45b.org
+DTSTART:20251008T000000Z
+SUMMARY:HK IPO: 云迹 (02670) [主板]
+UID:789905de-4598-4625-bf3d-dc78cbc04645@7899.org
 END:VEVENT
 END:VCALENDAR

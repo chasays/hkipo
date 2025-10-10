@@ -7,29 +7,11 @@ ACTION:DISPLAY
 DESCRIPTION:HK IPO Day: 2 Companies Listing
 TRIGGER:PT30M
 END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 挚达科技 (02650) [主板]\n   📅 IPO周期: 2025-09-30 至 2025-10-10\n⏰ 申购截止: 2025-10-06\n💰 价格区间: 66.92-83.63\n📊 发行股数: 0.60亿股\n🏢 市场: 主板\n🏛️ 保荐人: 申万宏源\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 金叶国际集团 (08549) [创业板]\n   📅 IPO周期: 2025-09-30 至 2025-10-10\n⏰ 申购截止: 2025-10-06\n💰 价格区间: 0.45-0.65\n📊 发行股数: 4.00亿股\n🏢 市场: 创业板\n🏛️ 保荐人: 同人融资\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:共2家公司上市:\n1. 挚达科技 (02650) [主板]\n   📅 IPO周期: 2025-09-30 至 2025-10-10\n⏰ 申购截止: 2025-10-06\n💰 价格区间: 66.92-83.63\n💵 发行价: 66.920\n📊 发行股数: 0.60亿股\n🏢 市场: 主板\n🏛️ 保荐人: 申万宏源\n🔗 参考公司: 特锐德\n2. 金叶国际集团 (08549) [创业板]\n   📅 IPO周期: 2025-09-30 至 2025-10-10\n⏰ 申购截止: 2025-10-06\n💰 价格区间: 0.45-0.65\n💵 发行价: 0.500\n📊 发行股数: 4.00亿股\n🏢 市场: 创业板\n🏛️ 保荐人: 同人融资\n🔗 参考公司: 惠生工程
 DURATION:P1D
 DTSTART:20250930T000000Z
 SUMMARY:HK IPO Day: 2 Companies Listing
-UID:5e996b85-8e3b-496c-a37d-e819bfd6707c@5e99.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 轩竹生物-B (02575) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 轩竹生物-B (02575) [主板]
-TRIGGER:PT30M
-END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2025-10-06 至 2025-10-15\n⏰ 申购截止: 2025-10-10\n💰 价格区间: 11.6\n📊 发行股数: 5.18亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20251006T000000Z
-SUMMARY:HK IPO: 轩竹生物-B (02575) [主板]
-UID:de4db5b9-01b5-4bcd-b7e7-767766819d4f@de4d.org
+UID:4e452ad1-383e-4792-b7b9-8d0c3c8c56ea@4e45.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -47,6 +29,42 @@ DESCRIPTION:📅 IPO周期: 2025-10-08 至 2025-10-16\n⏰ 申购截止: 2025-10
 DURATION:P1D
 DTSTART:20251008T000000Z
 SUMMARY:HK IPO: 云迹 (02670) [主板]
-UID:789905de-4598-4625-bf3d-dc78cbc04645@7899.org
+UID:39656f48-212e-4e53-985e-d53604abac90@3965.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:提醒: HK IPO: 海西新药 (02637) [主板] 明天开始
+TRIGGER:P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO: 海西新药 (02637) [主板]
+TRIGGER:PT30M
+END:VALARM
+CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2025-10-09 至 2025-10-17\n⏰ 申购截止: 2025-10-14\n💰 价格区间: 69.88-86.40\n📊 发行股数: 0.79亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20251009T000000Z
+SUMMARY:HK IPO: 海西新药 (02637) [主板]
+UID:fc6568b2-cde9-4d29-a588-27e5e508b4a3@fc65.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:提醒: HK IPO: 轩竹生物-B (02575) [主板] 明天开始
+TRIGGER:P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO: 轩竹生物-B (02575) [主板]
+TRIGGER:PT30M
+END:VALARM
+CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2025-10-06 至 2025-10-15\n⏰ 申购截止: 2025-10-10\n💰 价格区间: 11.6\n📊 发行股数: 5.18亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20251006T000000Z
+SUMMARY:HK IPO: 轩竹生物-B (02575) [主板]
+UID:dd3a1633-dd25-49eb-9b2d-3f414fcbdde7@dd3a.org
 END:VEVENT
 END:VCALENDAR

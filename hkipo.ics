@@ -4,38 +4,33 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 海西新药 (02637) [主板] 明天开始
+DESCRIPTION:提醒: HK IPO: 广和通 (00638) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO: 海西新药 (02637) [主板]
+DESCRIPTION:HK IPO: 广和通 (00638) [主板]
 TRIGGER:PT30M
 END:VALARM
 CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2025-10-09 至 2025-10-17\n⏰ 申购截止: 2025-10-14\n💰 价格区间: 69.88-86.40\n📊 发行股数: 0.79亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:📅 IPO周期: 2025-10-14 至 2025-10-22\n⏰ 申购截止: 2025-10-17\n💰 价格区间: 19.88-21.5\n📊 发行股数: 9.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
-DTSTART:20251009T000000Z
-SUMMARY:HK IPO: 海西新药 (02637) [主板]
-UID:16cba508-5166-4610-8c3b-049b82549ebb@16cb.org
+DTSTART:20251014T000000Z
+SUMMARY:HK IPO: 广和通 (00638) [主板]
+UID:a8eeb9c9-cf35-43ac-a8b1-5b479adad60f@a8ee.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 云迹 (02670) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 云迹 (02670) [主板]
+DESCRIPTION:今天: HK IPO: 轩竹生物-B (02575) [主板]
 TRIGGER:PT30M
 END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2025-10-08 至 2025-10-16\n⏰ 申购截止: 2025-10-13\n💰 价格区间: 95.6\n📊 发行股数: 0.69亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2025-10-06 至 2025-10-15\n⏰ 申购截止: 2025-10-10\n💰 价格区间: 11.6\n💵 发行价: 11.600\n📊 发行股数: 5.18亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 维昇药业-B
 DURATION:P1D
-DTSTART:20251008T000000Z
-SUMMARY:HK IPO: 云迹 (02670) [主板]
-UID:eb2591c4-b931-45ba-ba82-932ae9122e9e@eb25.org
+DTSTART:20251006T000000Z
+SUMMARY:HK IPO: 轩竹生物-B (02575) [主板]
+UID:a1364ccc-3459-4622-8def-c87e555ccd20@a136.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -53,42 +48,42 @@ DESCRIPTION:📅 IPO周期: 2025-10-13 至 2025-10-21\n⏰ 申购截止: 2025-10
 DURATION:P1D
 DTSTART:20251013T000000Z
 SUMMARY:HK IPO: 聚水潭 (06687) [主板]
-UID:6e178e95-3ffc-4b0d-b0ec-5ce29474c866@6e17.org
+UID:14a22ef9-209a-418a-b54e-da0f731d7636@14a2.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 广和通 (00638) [主板] 明天开始
+DESCRIPTION:提醒: HK IPO: 海西新药 (02637) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO: 广和通 (00638) [主板]
+DESCRIPTION:HK IPO: 海西新药 (02637) [主板]
 TRIGGER:PT30M
 END:VALARM
 CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2025-10-14 至 2025-10-22\n⏰ 申购截止: 2025-10-17\n💰 价格区间: 19.88-21.5\n📊 发行股数: 9.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:📅 IPO周期: 2025-10-09 至 2025-10-17\n⏰ 申购截止: 2025-10-14\n💰 价格区间: 69.88-86.40\n📊 发行股数: 0.79亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
-DTSTART:20251014T000000Z
-SUMMARY:HK IPO: 广和通 (00638) [主板]
-UID:70a69744-b376-4e64-9c87-c2da02e3cf54@70a6.org
+DTSTART:20251009T000000Z
+SUMMARY:HK IPO: 海西新药 (02637) [主板]
+UID:d3b95bc3-3e6e-4081-8326-0a72e2b50b8a@d3b9.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 轩竹生物-B (02575) [主板] 明天开始
+DESCRIPTION:提醒: HK IPO: 云迹 (02670) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO: 轩竹生物-B (02575) [主板]
+DESCRIPTION:HK IPO: 云迹 (02670) [主板]
 TRIGGER:PT30M
 END:VALARM
 CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2025-10-06 至 2025-10-15\n⏰ 申购截止: 2025-10-10\n💰 价格区间: 11.6\n📊 发行股数: 5.18亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:📅 IPO周期: 2025-10-08 至 2025-10-16\n⏰ 申购截止: 2025-10-13\n💰 价格区间: 95.6\n📊 发行股数: 0.69亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
-DTSTART:20251006T000000Z
-SUMMARY:HK IPO: 轩竹生物-B (02575) [主板]
-UID:72aa16f0-8d47-44fb-a76f-bc20009c8d11@72aa.org
+DTSTART:20251008T000000Z
+SUMMARY:HK IPO: 云迹 (02670) [主板]
+UID:dd341ea0-2aca-4a19-afde-0ee6d8c660d4@dd34.org
 END:VEVENT
 END:VCALENDAR

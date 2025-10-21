@@ -13,11 +13,11 @@ DESCRIPTION:HK IPO: 广和通 (00638) [主板]
 TRIGGER:PT30M
 END:VALARM
 CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2025-10-14 至 2025-10-22\n⏰ 申购截止: 2025-10-17\n💰 价格区间: 19.88-21.5\n📊 发行股数: 9.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:📅 IPO周期: 2025-10-14 至 2025-10-22\n⏰ 申购截止: 2025-10-17\n💰 价格区间: 19.88-21.5\n💵 发行价: 21.500\n📊 发行股数: 9.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: 中兴通讯\n🟢 绿鞋: 150.00%
 DURATION:P1D
 DTSTART:20251014T000000Z
 SUMMARY:HK IPO: 广和通 (00638) [主板]
-UID:d5abc9ad-a163-4865-80c5-f3b4fe145af4@d5ab.org
+UID:bc87b002-0ce3-4a8f-ba6c-f4c15a258f1d@bc87.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -29,24 +29,19 @@ DESCRIPTION:共4家公司上市:\n1. 滴普科技 (01384) [主板]\n   📅 IPO�
 DURATION:P1D
 DTSTART:20251020T000000Z
 SUMMARY:HK IPO Day: 4 Companies Listing
-UID:6b41f586-2d86-4760-b9bf-db1ebd0b50a6@6b41.org
+UID:7f7a71d7-f8ae-426a-b85a-c27fc559b6a5@7f7a.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 聚水潭 (06687) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 聚水潭 (06687) [主板]
+DESCRIPTION:今天: HK IPO: 聚水潭 (06687) [主板]
 TRIGGER:PT30M
 END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2025-10-13 至 2025-10-21\n⏰ 申购截止: 2025-10-16\n💰 价格区间: 30.6\n📊 发行股数: 4.26亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2025-10-13 至 2025-10-21\n⏰ 申购截止: 2025-10-16\n💰 价格区间: 30.6\n💵 发行价: 30.600\n📊 发行股数: 4.26亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 金蝶国际\n🟢 绿鞋: 208.00%
 DURATION:P1D
 DTSTART:20251013T000000Z
 SUMMARY:HK IPO: 聚水潭 (06687) [主板]
-UID:6d8238f7-fbb7-43f3-b27e-b3e6d6039f9f@6d82.org
+UID:d8e504b2-9c6f-48ac-a0b8-b1bd85196743@d8e5.org
 END:VEVENT
 END:VCALENDAR

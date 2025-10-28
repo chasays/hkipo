@@ -17,7 +17,7 @@ DESCRIPTION:📅 IPO周期: 2025-10-23 至 2025-11-03\n⏰ 申购截止: 2025-10
 DURATION:P1D
 DTSTART:20251023T000000Z
 SUMMARY:HK IPO: 明略科技-W (02718) [主板]
-UID:f8e4d0df-c1fc-40ec-8f4b-228413547662@f8e4.org
+UID:03aaf64b-f801-4adc-ad44-6b4ade2803b5@03aa.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -35,7 +35,7 @@ DESCRIPTION:📅 IPO周期: 2025-10-27 至 2025-11-05\n⏰ 申购截止: 2025-10
 DURATION:P1D
 DTSTART:20251027T000000Z
 SUMMARY:HK IPO: 赛力斯 (09927) [主板]
-UID:dc6529ba-5f77-4c1e-9e35-fd933270c1bd@dc65.org
+UID:6d23f95c-478e-4eb3-91a4-edb95763c1fd@6d23.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -43,10 +43,22 @@ ACTION:DISPLAY
 DESCRIPTION:HK IPO Day: 4 Companies Listing
 TRIGGER:PT30M
 END:VALARM
-DESCRIPTION:共4家公司上市:\n1. 滴普科技 (01384) [主板]\n   📅 IPO周期: 2025-10-20 至 2025-10-28\n⏰ 申购截止: 2025-10-23\n💰 价格区间: 26.66\n📊 发行股数: 3.26亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 三一重工 (06031) [主板]\n   📅 IPO周期: 2025-10-20 至 2025-10-28\n⏰ 申购截止: 2025-10-23\n💰 价格区间: 20.3-21.3\n📊 发行股数: 90.54亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 剑桥科技 (06166) [主板]\n   📅 IPO周期: 2025-10-20 至 2025-10-28\n⏰ 申购截止: 2025-10-23\n💰 价格区间: 68.88\n📊 发行股数: 3.35亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰君安\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n4. 八马茶业 (06980) [主板]\n   📅 IPO周期: 2025-10-20 至 2025-10-28\n⏰ 申购截止: 2025-10-23\n💰 价格区间: 45-50\n📊 发行股数: 0.85亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:共4家公司上市:\n1. 均胜电子 (00699) [主板]\n   📅 IPO周期: 2025-10-28 至 2025-11-06\n⏰ 申购截止: 2025-11-03\n💰 价格区间: 23.60\n📊 发行股数: 15.50亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 文远知行-W (00800) [主板]\n   📅 IPO周期: 2025-10-28 至 2025-11-06\n⏰ 申购截止: 2025-11-03\n💰 价格区间: 35\n📊 发行股数: 10.26亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 小马智行-W (02026) [主板]\n   📅 IPO周期: 2025-10-28 至 2025-11-06\n⏰ 申购截止: 2025-11-03\n💰 价格区间: 180\n📊 发行股数: 4.27亿股\n🏢 市场: 主板\n🏛️ 保荐人: 高盛\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n4. 旺山旺水-B (02630) [主板]\n   📅 IPO周期: 2025-10-28 至 2025-11-06\n⏰ 申购截止: 2025-11-03\n💰 价格区间: 32-34\n📊 发行股数: 1.67亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20251028T000000Z
+SUMMARY:HK IPO Day: 4 Companies Listing
+UID:401ee2f4-223f-47ff-870e-953e806a49da@401e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 4 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共4家公司上市:\n1. 滴普科技 (01384) [主板]\n   📅 IPO周期: 2025-10-20 至 2025-10-28\n⏰ 申购截止: 2025-10-23\n💰 价格区间: 26.66\n💵 发行价: 26.660\n📊 发行股数: 3.26亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: 云迹\n2. 三一重工 (06031) [主板]\n   📅 IPO周期: 2025-10-20 至 2025-10-28\n⏰ 申购截止: 2025-10-23\n💰 价格区间: 20.3-21.3\n💵 发行价: 21.300\n📊 发行股数: 90.54亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: 中联重科\n🟢 绿鞋: 163.00%\n3. 剑桥科技 (06166) [主板]\n   📅 IPO周期: 2025-10-20 至 2025-10-28\n⏰ 申购截止: 2025-10-23\n💰 价格区间: 68.88\n💵 发行价: 68.880\n📊 发行股数: 3.35亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰君安\n🔗 参考公司: 移为通信\n🟢 绿鞋: 150.00%\n4. 八马茶业 (06980) [主板]\n   📅 IPO周期: 2025-10-20 至 2025-10-28\n⏰ 申购截止: 2025-10-23\n💰 价格区间: 45-50\n💵 发行价: 50.000\n📊 发行股数: 0.85亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: 茶百道
 DURATION:P1D
 DTSTART:20251020T000000Z
 SUMMARY:HK IPO Day: 4 Companies Listing
-UID:e9695fd2-aa57-4265-8ac0-bf7171b944a4@e969.org
+UID:f75fb365-8672-4690-945b-b2a161e1a7e2@f75f.org
 END:VEVENT
 END:VCALENDAR

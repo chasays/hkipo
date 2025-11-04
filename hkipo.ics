@@ -4,6 +4,18 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 4 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共4家公司上市:\n1. 均胜电子 (00699) [主板]\n   📅 IPO周期: 2025-10-28 至 2025-11-06\n⏰ 申购截止: 2025-11-03\n💰 价格区间: 23.60\n📊 发行股数: 15.50亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 文远知行-W (00800) [主板]\n   📅 IPO周期: 2025-10-28 至 2025-11-06\n⏰ 申购截止: 2025-11-03\n💰 价格区间: 35\n📊 发行股数: 10.26亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 小马智行-W (02026) [主板]\n   📅 IPO周期: 2025-10-28 至 2025-11-06\n⏰ 申购截止: 2025-11-03\n💰 价格区间: 180\n📊 发行股数: 4.27亿股\n🏢 市场: 主板\n🏛️ 保荐人: 高盛\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n4. 旺山旺水-B (02630) [主板]\n   📅 IPO周期: 2025-10-28 至 2025-11-06\n⏰ 申购截止: 2025-11-03\n💰 价格区间: 32-34\n📊 发行股数: 1.67亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20251028T000000Z
+SUMMARY:HK IPO Day: 4 Companies Listing
+UID:7e7330c7-1b0a-4e16-9a2c-fa717a2bee4a@7e73.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
 DESCRIPTION:提醒: HK IPO: 赛力斯 (09927) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
@@ -13,36 +25,11 @@ DESCRIPTION:HK IPO: 赛力斯 (09927) [主板]
 TRIGGER:PT30M
 END:VALARM
 CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2025-10-27 至 2025-11-05\n⏰ 申购截止: 2025-10-31\n💰 价格区间: 131.50\n📊 发行股数: 17.33亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:📅 IPO周期: 2025-10-27 至 2025-11-05\n⏰ 申购截止: 2025-10-31\n💰 价格区间: 131.50\n💵 发行价: 131.500\n📊 发行股数: 17.33亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 理想汽车\n🟢 绿鞋: 150.00%
 DURATION:P1D
 DTSTART:20251027T000000Z
 SUMMARY:HK IPO: 赛力斯 (09927) [主板]
-UID:dd3d06a8-7781-4d7b-9a71-b7a15ed40f8d@dd3d.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:今天: HK IPO: 明略科技-W (02718) [主板]
-TRIGGER:PT30M
-END:VALARM
-CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2025-10-23 至 2025-11-03\n⏰ 申购截止: 2025-10-28\n💰 价格区间: 141.0\n💵 发行价: 141.000\n📊 发行股数: 1.44亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 金山软件\n🟢 绿鞋: 150.00%
-DURATION:P1D
-DTSTART:20251023T000000Z
-SUMMARY:HK IPO: 明略科技-W (02718) [主板]
-UID:91187f26-2d28-4682-a089-42ad5ffcd976@9118.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 4 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共4家公司上市:\n1. 均胜电子 (00699) [主板]\n   📅 IPO周期: 2025-10-28 至 2025-11-06\n⏰ 申购截止: 2025-11-03\n💰 价格区间: 23.60\n📊 发行股数: 15.50亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 文远知行-W (00800) [主板]\n   📅 IPO周期: 2025-10-28 至 2025-11-06\n⏰ 申购截止: 2025-11-03\n💰 价格区间: 35\n📊 发行股数: 10.26亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 小马智行-W (02026) [主板]\n   📅 IPO周期: 2025-10-28 至 2025-11-06\n⏰ 申购截止: 2025-11-03\n💰 价格区间: 180\n📊 发行股数: 4.27亿股\n🏢 市场: 主板\n🏛️ 保荐人: 高盛\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n4. 旺山旺水-B (02630) [主板]\n   📅 IPO周期: 2025-10-28 至 2025-11-06\n⏰ 申购截止: 2025-11-03\n💰 价格区间: 32-34\n📊 发行股数: 1.67亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20251028T000000Z
-SUMMARY:HK IPO Day: 4 Companies Listing
-UID:6331e959-c951-4c4b-860e-558191c716e4@6331.org
+UID:723737d8-af02-4acb-b200-5384de6c5531@7237.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -60,6 +47,6 @@ DESCRIPTION:📅 IPO周期: 2025-10-31 至 2025-11-10\n⏰ 申购截止: 2025-11
 DURATION:P1D
 DTSTART:20251031T000000Z
 SUMMARY:HK IPO: 乐舒适 (02698) [主板]
-UID:14c89454-c542-4ecd-8aab-93ea2335cccf@14c8.org
+UID:24f263ab-2e70-4da7-be8b-e1e5e94f0f4e@24f2.org
 END:VEVENT
 END:VCALENDAR

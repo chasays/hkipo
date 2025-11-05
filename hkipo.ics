@@ -7,29 +7,24 @@ ACTION:DISPLAY
 DESCRIPTION:HK IPO Day: 4 Companies Listing
 TRIGGER:PT30M
 END:VALARM
-DESCRIPTION:共4家公司上市:\n1. 均胜电子 (00699) [主板]\n   📅 IPO周期: 2025-10-28 至 2025-11-06\n⏰ 申购截止: 2025-11-03\n💰 价格区间: 23.60\n📊 发行股数: 15.50亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 文远知行-W (00800) [主板]\n   📅 IPO周期: 2025-10-28 至 2025-11-06\n⏰ 申购截止: 2025-11-03\n💰 价格区间: 35\n📊 发行股数: 10.26亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 小马智行-W (02026) [主板]\n   📅 IPO周期: 2025-10-28 至 2025-11-06\n⏰ 申购截止: 2025-11-03\n💰 价格区间: 180\n📊 发行股数: 4.27亿股\n🏢 市场: 主板\n🏛️ 保荐人: 高盛\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n4. 旺山旺水-B (02630) [主板]\n   📅 IPO周期: 2025-10-28 至 2025-11-06\n⏰ 申购截止: 2025-11-03\n💰 价格区间: 32-34\n📊 发行股数: 1.67亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:共4家公司上市:\n1. 均胜电子 (00699) [主板]\n   📅 IPO周期: 2025-10-28 至 2025-11-06\n⏰ 申购截止: 2025-11-03\n💰 价格区间: 23.60\n💵 发行价: 22.000\n📊 发行股数: 15.50亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 壹连科技\n🟢 绿鞋: 150.00%\n2. 文远知行-W (00800) [主板]\n   📅 IPO周期: 2025-10-28 至 2025-11-06\n⏰ 申购截止: 2025-11-03\n💰 价格区间: 35\n💵 发行价: 27.100\n📊 发行股数: 10.26亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 小马智行\n🟢 绿鞋: 75.00%\n3. 小马智行-W (02026) [主板]\n   📅 IPO周期: 2025-10-28 至 2025-11-06\n⏰ 申购截止: 2025-11-03\n💰 价格区间: 180\n💵 发行价: 139.000\n📊 发行股数: 4.27亿股\n🏢 市场: 主板\n🏛️ 保荐人: 高盛\n🔗 参考公司: 文远知行\n🟢 绿鞋: 172.00%\n4. 旺山旺水-B (02630) [主板]\n   📅 IPO周期: 2025-10-28 至 2025-11-06\n⏰ 申购截止: 2025-11-03\n💰 价格区间: 32-34\n💵 发行价: 33.370\n📊 发行股数: 1.67亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: 映恩生物-Ｂ
 DURATION:P1D
 DTSTART:20251028T000000Z
 SUMMARY:HK IPO Day: 4 Companies Listing
-UID:7e7330c7-1b0a-4e16-9a2c-fa717a2bee4a@7e73.org
+UID:fff172f0-7241-48f4-8b63-7e8cc08e925e@fff1.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 赛力斯 (09927) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 赛力斯 (09927) [主板]
+DESCRIPTION:今天: HK IPO: 赛力斯 (09927) [主板]
 TRIGGER:PT30M
 END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
 DESCRIPTION:📅 IPO周期: 2025-10-27 至 2025-11-05\n⏰ 申购截止: 2025-10-31\n💰 价格区间: 131.50\n💵 发行价: 131.500\n📊 发行股数: 17.33亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 理想汽车\n🟢 绿鞋: 150.00%
 DURATION:P1D
 DTSTART:20251027T000000Z
 SUMMARY:HK IPO: 赛力斯 (09927) [主板]
-UID:723737d8-af02-4acb-b200-5384de6c5531@7237.org
+UID:b974efa1-f002-4908-9a3b-fd3d2bd5c69a@b974.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -47,6 +42,6 @@ DESCRIPTION:📅 IPO周期: 2025-10-31 至 2025-11-10\n⏰ 申购截止: 2025-11
 DURATION:P1D
 DTSTART:20251031T000000Z
 SUMMARY:HK IPO: 乐舒适 (02698) [主板]
-UID:24f263ab-2e70-4da7-be8b-e1e5e94f0f4e@24f2.org
+UID:60fa91b2-1b84-43d6-acc3-7a5204ef2970@60fa.org
 END:VEVENT
 END:VCALENDAR

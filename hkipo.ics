@@ -4,14 +4,14 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 4 Companies Listing
+DESCRIPTION:HK IPO Day: 2 Companies Listing
 TRIGGER:PT30M
 END:VALARM
-DESCRIPTION:共4家公司上市:\n1. 均胜电子 (00699) [主板]\n   📅 IPO周期: 2025-10-28 至 2025-11-06\n⏰ 申购截止: 2025-11-03\n💰 价格区间: 23.60\n💵 发行价: 22.000\n📊 发行股数: 15.50亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 壹连科技\n🟢 绿鞋: 150.00%\n2. 文远知行-W (00800) [主板]\n   📅 IPO周期: 2025-10-28 至 2025-11-06\n⏰ 申购截止: 2025-11-03\n💰 价格区间: 35\n💵 发行价: 27.100\n📊 发行股数: 10.26亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 小马智行\n🟢 绿鞋: 75.00%\n3. 小马智行-W (02026) [主板]\n   📅 IPO周期: 2025-10-28 至 2025-11-06\n⏰ 申购截止: 2025-11-03\n💰 价格区间: 180\n💵 发行价: 139.000\n📊 发行股数: 4.27亿股\n🏢 市场: 主板\n🏛️ 保荐人: 高盛\n🔗 参考公司: 文远知行\n🟢 绿鞋: 172.00%\n4. 旺山旺水-B (02630) [主板]\n   📅 IPO周期: 2025-10-28 至 2025-11-06\n⏰ 申购截止: 2025-11-03\n💰 价格区间: 32-34\n💵 发行价: 33.370\n📊 发行股数: 1.67亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: 映恩生物-Ｂ
+DESCRIPTION:共2家公司上市:\n1. 中伟新材 (02579) [主板]\n   📅 IPO周期: 2025-11-07 至 2025-11-17\n⏰ 申购截止: 2025-11-12\n💰 价格区间: 34-37.8\n📊 发行股数: 10.42亿股\n🏢 市场: 主板\n🏛️ 保荐人: 大摩\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 百利天恒 (02615) [主板]\n   📅 IPO周期: 2025-11-07 至 2025-11-17\n⏰ 申购截止: 2025-11-12\n💰 价格区间: 347.50-389\n📊 发行股数: 4.21亿股\n🏢 市场: 主板\n🏛️ 保荐人: 高盛\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
-DTSTART:20251028T000000Z
-SUMMARY:HK IPO Day: 4 Companies Listing
-UID:51d3daec-c6ad-4d6c-a7b5-11be4f081dae@51d3.org
+DTSTART:20251107T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:1e74a7d8-b194-41f9-9a68-804ca4b9a20f@1e74.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -29,6 +29,6 @@ DESCRIPTION:📅 IPO周期: 2025-10-31 至 2025-11-10\n⏰ 申购截止: 2025-11
 DURATION:P1D
 DTSTART:20251031T000000Z
 SUMMARY:HK IPO: 乐舒适 (02698) [主板]
-UID:aabc28fa-af26-4a3a-81d0-c527f6e115e2@aabc.org
+UID:18020313-edeb-410c-b7f5-bbd82c230b16@1802.org
 END:VEVENT
 END:VCALENDAR

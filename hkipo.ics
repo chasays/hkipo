@@ -4,18 +4,6 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 中伟新材 (02579) [主板]\n   📅 IPO周期: 2025-11-07 至 2025-11-17\n⏰ 申购截止: 2025-11-12\n💰 价格区间: 34-37.8\n📊 发行股数: 10.42亿股\n🏢 市场: 主板\n🏛️ 保荐人: 大摩\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 百利天恒 (02615) [主板]\n   📅 IPO周期: 2025-11-07 至 2025-11-17\n⏰ 申购截止: 2025-11-12\n💰 价格区间: 347.50-389\n📊 发行股数: 4.21亿股\n🏢 市场: 主板\n🏛️ 保荐人: 高盛\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20251107T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:a17f651e-4de8-4013-848c-9d74f995df8e@a17f.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
 DESCRIPTION:提醒: HK IPO: 创新实业 (02788) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
@@ -29,6 +17,18 @@ DESCRIPTION:📅 IPO周期: 2025-11-14 至 2025-11-24\n⏰ 申购截止: 2025-11
 DURATION:P1D
 DTSTART:20251114T000000Z
 SUMMARY:HK IPO: 创新实业 (02788) [主板]
-UID:f5cd2d79-030e-4032-b936-f1652bbd19d6@f5cd.org
+UID:7fd8b7e0-5414-4bbc-a25b-8430a359bc13@7fd8.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 中伟新材 (02579) [主板]\n   📅 IPO周期: 2025-11-07 至 2025-11-17\n⏰ 申购截止: 2025-11-12\n💰 价格区间: 34-37.8\n📊 发行股数: 10.42亿股\n🏢 市场: 主板\n🏛️ 保荐人: 大摩\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 百利天恒 (02615) [主板]\n   📅 IPO周期: 2025-11-07 至 2025-11-17\n⏰ 申购截止: 2025-11-12\n💰 价格区间: 347.50-389\n📊 发行股数: 4.21亿股\n🏢 市场: 主板\n🏛️ 保荐人: 高盛\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20251107T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:290c062a-7cda-49e6-b869-3106fd6dfa45@290c.org
 END:VEVENT
 END:VCALENDAR

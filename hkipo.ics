@@ -4,20 +4,20 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 创新实业 (02788) [主板] 明天开始
+DESCRIPTION:提醒: HK IPO: 海伟股份 (09609) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO: 创新实业 (02788) [主板]
+DESCRIPTION:HK IPO: 海伟股份 (09609) [主板]
 TRIGGER:PT30M
 END:VALARM
 CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2025-11-14 至 2025-11-24\n⏰ 申购截止: 2025-11-19\n💰 价格区间: 10.18-10.99\n📊 发行股数: 20.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:📅 IPO周期: 2025-11-20 至 2025-11-28\n⏰ 申购截止: 2025-11-25\n💰 价格区间: 14.28\n📊 发行股数: 1.54亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
-DTSTART:20251114T000000Z
-SUMMARY:HK IPO: 创新实业 (02788) [主板]
-UID:6ec957dc-3e2b-4205-abe6-f9c5cd5cb6f8@6ec9.org
+DTSTART:20251120T000000Z
+SUMMARY:HK IPO: 海伟股份 (09609) [主板]
+UID:e949fb90-d589-47fa-88df-806720283f5e@e949.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -35,24 +35,24 @@ DESCRIPTION:📅 IPO周期: 2025-11-19 至 2025-11-27\n⏰ 申购截止: 2025-11
 DURATION:P1D
 DTSTART:20251119T000000Z
 SUMMARY:HK IPO: 量化派 (02685) [主板]
-UID:832aa755-8e58-4838-8e93-6860c4344a11@832a.org
+UID:ba44d1de-07c5-4d4a-a9fb-6be38ea05504@ba44.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 海伟股份 (09609) [主板] 明天开始
+DESCRIPTION:提醒: HK IPO: 创新实业 (02788) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO: 海伟股份 (09609) [主板]
+DESCRIPTION:HK IPO: 创新实业 (02788) [主板]
 TRIGGER:PT30M
 END:VALARM
 CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2025-11-20 至 2025-11-28\n⏰ 申购截止: 2025-11-25\n💰 价格区间: 14.28\n📊 发行股数: 1.54亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:📅 IPO周期: 2025-11-14 至 2025-11-24\n⏰ 申购截止: 2025-11-19\n💰 价格区间: 10.18-10.99\n📊 发行股数: 20.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
-DTSTART:20251120T000000Z
-SUMMARY:HK IPO: 海伟股份 (09609) [主板]
-UID:8176ae26-ca89-4f8c-8cc8-effcadadbef2@8176.org
+DTSTART:20251114T000000Z
+SUMMARY:HK IPO: 创新实业 (02788) [主板]
+UID:ab7d8975-f753-4b66-9180-5d8c33baf79d@ab7d.org
 END:VEVENT
 END:VCALENDAR

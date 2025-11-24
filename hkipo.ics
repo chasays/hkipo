@@ -4,24 +4,6 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 海伟股份 (09609) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 海伟股份 (09609) [主板]
-TRIGGER:PT30M
-END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2025-11-20 至 2025-11-28\n⏰ 申购截止: 2025-11-25\n💰 价格区间: 14.28\n📊 发行股数: 1.54亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20251120T000000Z
-SUMMARY:HK IPO: 海伟股份 (09609) [主板]
-UID:e5d68958-53f5-4e56-aeaa-dd52b664665e@e5d6.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
 DESCRIPTION:提醒: HK IPO: 量化派 (02685) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
@@ -35,24 +17,37 @@ DESCRIPTION:📅 IPO周期: 2025-11-19 至 2025-11-27\n⏰ 申购截止: 2025-11
 DURATION:P1D
 DTSTART:20251119T000000Z
 SUMMARY:HK IPO: 量化派 (02685) [主板]
-UID:154bad26-a907-4c90-b28b-e0759cd1dac8@154b.org
+UID:1f9df5dd-8e5d-4719-a8f0-ee6c519d2d5f@1f9d.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 创新实业 (02788) [主板] 明天开始
+DESCRIPTION:提醒: HK IPO: 海伟股份 (09609) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO: 创新实业 (02788) [主板]
+DESCRIPTION:HK IPO: 海伟股份 (09609) [主板]
 TRIGGER:PT30M
 END:VALARM
 CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2025-11-14 至 2025-11-24\n⏰ 申购截止: 2025-11-19\n💰 价格区间: 10.18-10.99\n📊 发行股数: 20.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:📅 IPO周期: 2025-11-20 至 2025-11-28\n⏰ 申购截止: 2025-11-25\n💰 价格区间: 14.28\n📊 发行股数: 1.54亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20251120T000000Z
+SUMMARY:HK IPO: 海伟股份 (09609) [主板]
+UID:f04a0f11-67bb-4cdf-b40b-baa51fb299fb@f04a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:今天: HK IPO: 创新实业 (02788) [主板]
+TRIGGER:PT30M
+END:VALARM
+CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2025-11-14 至 2025-11-24\n⏰ 申购截止: 2025-11-19\n💰 价格区间: 10.18-10.99\n💵 发行价: 10.990\n📊 发行股数: 20.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 南山铝业\n🟢 绿鞋: 150.00%
 DURATION:P1D
 DTSTART:20251114T000000Z
 SUMMARY:HK IPO: 创新实业 (02788) [主板]
-UID:16ca62cd-1441-4b4a-a80c-2656fe793009@16ca.org
+UID:cb3158ed-87f4-47ad-b3d7-1b9a2c71c978@cb31.org
 END:VEVENT
 END:VCALENDAR

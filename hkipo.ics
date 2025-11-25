@@ -4,6 +4,18 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 乐摩科技 (02539) [主板]\n   📅 IPO周期: 2025-11-25 至 2025-12-03\n⏰ 申购截止: 2025-11-28\n💰 价格区间: 27-40\n📊 发行股数: 0.56亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信建投\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 金岩高岭新材 (02693) [主板]\n   📅 IPO周期: 2025-11-25 至 2025-12-03\n⏰ 申购截止: 2025-11-28\n💰 价格区间: 7.3\n📊 发行股数: 0.97亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国元国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20251125T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:f43a0500-422e-494d-b417-ccd1e0da7a76@f43a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
 DESCRIPTION:提醒: HK IPO: 量化派 (02685) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
@@ -17,7 +29,7 @@ DESCRIPTION:📅 IPO周期: 2025-11-19 至 2025-11-27\n⏰ 申购截止: 2025-11
 DURATION:P1D
 DTSTART:20251119T000000Z
 SUMMARY:HK IPO: 量化派 (02685) [主板]
-UID:1f9df5dd-8e5d-4719-a8f0-ee6c519d2d5f@1f9d.org
+UID:b76d07cb-2d25-45bb-94ac-a3c1aca31dc2@b76d.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -35,19 +47,6 @@ DESCRIPTION:📅 IPO周期: 2025-11-20 至 2025-11-28\n⏰ 申购截止: 2025-11
 DURATION:P1D
 DTSTART:20251120T000000Z
 SUMMARY:HK IPO: 海伟股份 (09609) [主板]
-UID:f04a0f11-67bb-4cdf-b40b-baa51fb299fb@f04a.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:今天: HK IPO: 创新实业 (02788) [主板]
-TRIGGER:PT30M
-END:VALARM
-CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2025-11-14 至 2025-11-24\n⏰ 申购截止: 2025-11-19\n💰 价格区间: 10.18-10.99\n💵 发行价: 10.990\n📊 发行股数: 20.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 南山铝业\n🟢 绿鞋: 150.00%
-DURATION:P1D
-DTSTART:20251114T000000Z
-SUMMARY:HK IPO: 创新实业 (02788) [主板]
-UID:cb3158ed-87f4-47ad-b3d7-1b9a2c71c978@cb31.org
+UID:69b40ec7-7ad9-437e-a76b-54902610e6a3@69b4.org
 END:VEVENT
 END:VCALENDAR

@@ -4,20 +4,15 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 海伟股份 (09609) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 海伟股份 (09609) [主板]
+DESCRIPTION:今天: HK IPO: 海伟股份 (09609) [主板]
 TRIGGER:PT30M
 END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
 DESCRIPTION:📅 IPO周期: 2025-11-20 至 2025-11-28\n⏰ 申购截止: 2025-11-25\n💰 价格区间: 14.28\n💵 发行价: 14.280\n📊 发行股数: 1.54亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 江海股份\n🟢 绿鞋: 150.00%
 DURATION:P1D
 DTSTART:20251120T000000Z
 SUMMARY:HK IPO: 海伟股份 (09609) [主板]
-UID:aabaebd2-9d22-4b9b-96c3-62cecbee1921@aaba.org
+UID:b540bccf-679e-436e-bff8-4995df15dafd@b540.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -29,20 +24,19 @@ DESCRIPTION:共2家公司上市:\n1. 遇见小面 (02408) [主板]\n   📅 IPO�
 DURATION:P1D
 DTSTART:20251127T000000Z
 SUMMARY:HK IPO Day: 2 Companies Listing
-UID:34511773-df0b-4247-b145-1de3939cf48f@3451.org
+UID:11dc2f22-2df0-45a3-96cb-68649040c928@11dc.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:今天: HK IPO: 量化派 (02685) [主板]
+DESCRIPTION:HK IPO Day: 2 Companies Listing
 TRIGGER:PT30M
 END:VALARM
-CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2025-11-19 至 2025-11-27\n⏰ 申购截止: 2025-11-24\n💰 价格区间: 8.80-9.8\n💵 发行价: 9.800\n📊 发行股数: 5.13亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 中升集团\n🟢 绿鞋: 131.00%
+DESCRIPTION:共2家公司上市:\n1. 纳芯微 (02676) [主板]\n   📅 IPO周期: 2025-11-28 至 2025-12-08\n⏰ 申购截止: 2025-12-03\n💰 价格区间: 116.00\n📊 发行股数: 1.61亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 卓越睿新 (02687) [主板]\n   📅 IPO周期: 2025-11-28 至 2025-12-08\n⏰ 申购截止: 2025-12-03\n💰 价格区间: 62.26-76.1\n📊 发行股数: 0.67亿股\n🏢 市场: 主板\n🏛️ 保荐人: 农银国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
-DTSTART:20251119T000000Z
-SUMMARY:HK IPO: 量化派 (02685) [主板]
-UID:8ece9d51-4795-46c6-baa6-ca8a94c821aa@8ece.org
+DTSTART:20251128T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:e61e40fe-7d44-410c-a7ba-219f4bae19b5@e61e.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -54,6 +48,6 @@ DESCRIPTION:共2家公司上市:\n1. 乐摩科技 (02539) [主板]\n   📅 IPO�
 DURATION:P1D
 DTSTART:20251125T000000Z
 SUMMARY:HK IPO Day: 2 Companies Listing
-UID:e4fcfa05-5599-449e-9b9f-9b76430d4a1e@e4fc.org
+UID:7ff5a78f-5e0f-4154-beda-c06cd3d35e2c@7ff5.org
 END:VEVENT
 END:VCALENDAR

@@ -7,23 +7,11 @@ ACTION:DISPLAY
 DESCRIPTION:HK IPO Day: 2 Companies Listing
 TRIGGER:PT30M
 END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 纳芯微 (02676) [主板]\n   📅 IPO周期: 2025-11-28 至 2025-12-08\n⏰ 申购截止: 2025-12-03\n💰 价格区间: 116.00\n📊 发行股数: 1.61亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 卓越睿新 (02687) [主板]\n   📅 IPO周期: 2025-11-28 至 2025-12-08\n⏰ 申购截止: 2025-12-03\n💰 价格区间: 62.26-76.1\n📊 发行股数: 0.67亿股\n🏢 市场: 主板\n🏛️ 保荐人: 农银国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20251128T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:4ef6e71c-641d-4946-b30c-aadc65147a4e@4ef6.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
 DESCRIPTION:共2家公司上市:\n1. 乐摩科技 (02539) [主板]\n   📅 IPO周期: 2025-11-25 至 2025-12-03\n⏰ 申购截止: 2025-11-28\n💰 价格区间: 27-40\n📊 发行股数: 0.56亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信建投\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 金岩高岭新材 (02693) [主板]\n   📅 IPO周期: 2025-11-25 至 2025-12-03\n⏰ 申购截止: 2025-11-28\n💰 价格区间: 7.3\n📊 发行股数: 0.97亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国元国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
 DTSTART:20251125T000000Z
 SUMMARY:HK IPO Day: 2 Companies Listing
-UID:92def112-55da-4403-b5d7-0808d365a68e@92de.org
+UID:e7a9b0ea-314d-4122-baa4-047939d320fa@e7a9.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -35,6 +23,18 @@ DESCRIPTION:共2家公司上市:\n1. 遇见小面 (02408) [主板]\n   📅 IPO�
 DURATION:P1D
 DTSTART:20251127T000000Z
 SUMMARY:HK IPO Day: 2 Companies Listing
-UID:76cbaec3-d1f8-42dd-9672-753635eda052@76cb.org
+UID:b5208fee-9b5b-4329-9bf6-ab44cd589fb5@b520.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 纳芯微 (02676) [主板]\n   📅 IPO周期: 2025-11-28 至 2025-12-08\n⏰ 申购截止: 2025-12-03\n💰 价格区间: 116.00\n📊 发行股数: 1.61亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 卓越睿新 (02687) [主板]\n   📅 IPO周期: 2025-11-28 至 2025-12-08\n⏰ 申购截止: 2025-12-03\n💰 价格区间: 62.26-76.1\n📊 发行股数: 0.67亿股\n🏢 市场: 主板\n🏛️ 保荐人: 农银国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20251128T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:a8583fb1-4444-48ce-9714-ac361cb1f897@a858.org
 END:VEVENT
 END:VCALENDAR

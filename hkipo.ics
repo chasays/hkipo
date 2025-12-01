@@ -11,19 +11,7 @@ DESCRIPTION:共2家公司上市:\n1. 乐摩科技 (02539) [主板]\n   📅 IPO�
 DURATION:P1D
 DTSTART:20251125T000000Z
 SUMMARY:HK IPO Day: 2 Companies Listing
-UID:e7a9b0ea-314d-4122-baa4-047939d320fa@e7a9.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 遇见小面 (02408) [主板]\n   📅 IPO周期: 2025-11-27 至 2025-12-05\n⏰ 申购截止: 2025-12-02\n💰 价格区间: 5.64-7.04\n📊 发行股数: 7.10亿股\n🏢 市场: 主板\n🏛️ 保荐人: 招银国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 天域半导体 (02658) [主板]\n   📅 IPO周期: 2025-11-27 至 2025-12-05\n⏰ 申购截止: 2025-12-02\n💰 价格区间: 58\n📊 发行股数: 3.93亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20251127T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:b5208fee-9b5b-4329-9bf6-ab44cd589fb5@b520.org
+UID:a86a642b-5838-4fd1-a53e-2359703fb008@a86a.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -35,6 +23,18 @@ DESCRIPTION:共2家公司上市:\n1. 纳芯微 (02676) [主板]\n   📅 IPO周�
 DURATION:P1D
 DTSTART:20251128T000000Z
 SUMMARY:HK IPO Day: 2 Companies Listing
-UID:a8583fb1-4444-48ce-9714-ac361cb1f897@a858.org
+UID:a5b055a7-c4fa-4f91-b36a-98d18d7eca29@a5b0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 遇见小面 (02408) [主板]\n   📅 IPO周期: 2025-11-27 至 2025-12-05\n⏰ 申购截止: 2025-12-02\n💰 价格区间: 5.64-7.04\n📊 发行股数: 7.10亿股\n🏢 市场: 主板\n🏛️ 保荐人: 招银国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 天域半导体 (02658) [主板]\n   📅 IPO周期: 2025-11-27 至 2025-12-05\n⏰ 申购截止: 2025-12-02\n💰 价格区间: 58\n📊 发行股数: 3.93亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20251127T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:45ca6aa5-26ff-4ef1-b64f-58cb1275e1d7@45ca.org
 END:VEVENT
 END:VCALENDAR

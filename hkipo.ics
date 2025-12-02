@@ -7,23 +7,11 @@ ACTION:DISPLAY
 DESCRIPTION:HK IPO Day: 2 Companies Listing
 TRIGGER:PT30M
 END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 乐摩科技 (02539) [主板]\n   📅 IPO周期: 2025-11-25 至 2025-12-03\n⏰ 申购截止: 2025-11-28\n💰 价格区间: 27-40\n📊 发行股数: 0.56亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信建投\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 金岩高岭新材 (02693) [主板]\n   📅 IPO周期: 2025-11-25 至 2025-12-03\n⏰ 申购截止: 2025-11-28\n💰 价格区间: 7.3\n📊 发行股数: 0.97亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国元国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20251125T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:a86a642b-5838-4fd1-a53e-2359703fb008@a86a.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
 DESCRIPTION:共2家公司上市:\n1. 纳芯微 (02676) [主板]\n   📅 IPO周期: 2025-11-28 至 2025-12-08\n⏰ 申购截止: 2025-12-03\n💰 价格区间: 116.00\n📊 发行股数: 1.61亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 卓越睿新 (02687) [主板]\n   📅 IPO周期: 2025-11-28 至 2025-12-08\n⏰ 申购截止: 2025-12-03\n💰 价格区间: 62.26-76.1\n📊 发行股数: 0.67亿股\n🏢 市场: 主板\n🏛️ 保荐人: 农银国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
 DTSTART:20251128T000000Z
 SUMMARY:HK IPO Day: 2 Companies Listing
-UID:a5b055a7-c4fa-4f91-b36a-98d18d7eca29@a5b0.org
+UID:2f6dedb8-8bce-4eba-ae99-3081b8cf3383@2f6d.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -35,6 +23,18 @@ DESCRIPTION:共2家公司上市:\n1. 遇见小面 (02408) [主板]\n   📅 IPO�
 DURATION:P1D
 DTSTART:20251127T000000Z
 SUMMARY:HK IPO Day: 2 Companies Listing
-UID:45ca6aa5-26ff-4ef1-b64f-58cb1275e1d7@45ca.org
+UID:e94a8a17-552e-4647-b949-41124b8412d9@e94a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 乐摩科技 (02539) [主板]\n   📅 IPO周期: 2025-11-25 至 2025-12-03\n⏰ 申购截止: 2025-11-28\n💰 价格区间: 27-40\n📊 发行股数: 0.56亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信建投\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 金岩高岭新材 (02693) [主板]\n   📅 IPO周期: 2025-11-25 至 2025-12-03\n⏰ 申购截止: 2025-11-28\n💰 价格区间: 7.3\n📊 发行股数: 0.97亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国元国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20251125T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:099aecbb-5977-4e38-8284-b198d7f3da67@099a.org
 END:VEVENT
 END:VCALENDAR

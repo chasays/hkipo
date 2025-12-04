@@ -7,29 +7,11 @@ ACTION:DISPLAY
 DESCRIPTION:HK IPO Day: 2 Companies Listing
 TRIGGER:PT30M
 END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 纳芯微 (02676) [主板]\n   📅 IPO周期: 2025-11-28 至 2025-12-08\n⏰ 申购截止: 2025-12-03\n💰 价格区间: 116.00\n📊 发行股数: 1.61亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 卓越睿新 (02687) [主板]\n   📅 IPO周期: 2025-11-28 至 2025-12-08\n⏰ 申购截止: 2025-12-03\n💰 价格区间: 62.26-76.1\n📊 发行股数: 0.67亿股\n🏢 市场: 主板\n🏛️ 保荐人: 农银国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:共2家公司上市:\n1. 遇见小面 (02408) [主板]\n   📅 IPO周期: 2025-11-27 至 2025-12-05\n⏰ 申购截止: 2025-12-02\n💰 价格区间: 5.64-7.04\n📊 发行股数: 7.10亿股\n🏢 市场: 主板\n🏛️ 保荐人: 招银国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 天域半导体 (02658) [主板]\n   📅 IPO周期: 2025-11-27 至 2025-12-05\n⏰ 申购截止: 2025-12-02\n💰 价格区间: 58\n📊 发行股数: 3.93亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
-DTSTART:20251128T000000Z
+DTSTART:20251127T000000Z
 SUMMARY:HK IPO Day: 2 Companies Listing
-UID:b7dce57f-819a-4e8c-bc00-fcd62b68cf9d@b7dc.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 京东工业 (07618) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 京东工业 (07618) [主板]
-TRIGGER:PT30M
-END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2025-12-03 至 2025-12-11\n⏰ 申购截止: 2025-12-08\n💰 价格区间: 12.70-15.5\n📊 发行股数: 26.77亿股\n🏢 市场: 主板\n🏛️ 保荐人: 美银美林\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20251203T000000Z
-SUMMARY:HK IPO: 京东工业 (07618) [主板]
-UID:ccb2f984-acee-49bc-b9b0-b83613de95fb@ccb2.org
+UID:9ef7b772-5d7b-4c41-b1fe-2b23e473db52@9ef7.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -47,7 +29,25 @@ DESCRIPTION:📅 IPO周期: 2025-12-02 至 2025-12-10\n⏰ 申购截止: 2025-12
 DURATION:P1D
 DTSTART:20251202T000000Z
 SUMMARY:HK IPO: 宝济药业-B (02659) [主板]
-UID:c348cca4-1a80-443e-b0d7-6cac7ca41468@c348.org
+UID:4cf2f7be-cd6c-4371-be6e-aca36a6dbddf@4cf2.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:提醒: HK IPO: 京东工业 (07618) [主板] 明天开始
+TRIGGER:P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO: 京东工业 (07618) [主板]
+TRIGGER:PT30M
+END:VALARM
+CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2025-12-03 至 2025-12-11\n⏰ 申购截止: 2025-12-08\n💰 价格区间: 12.70-15.5\n📊 发行股数: 26.77亿股\n🏢 市场: 主板\n🏛️ 保荐人: 美银美林\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20251203T000000Z
+SUMMARY:HK IPO: 京东工业 (07618) [主板]
+UID:1e1d98f4-2aaf-420f-ae8e-2291ce0dd2a7@1e1d.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -55,22 +55,10 @@ ACTION:DISPLAY
 DESCRIPTION:HK IPO Day: 2 Companies Listing
 TRIGGER:PT30M
 END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 遇见小面 (02408) [主板]\n   📅 IPO周期: 2025-11-27 至 2025-12-05\n⏰ 申购截止: 2025-12-02\n💰 价格区间: 5.64-7.04\n📊 发行股数: 7.10亿股\n🏢 市场: 主板\n🏛️ 保荐人: 招银国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 天域半导体 (02658) [主板]\n   📅 IPO周期: 2025-11-27 至 2025-12-05\n⏰ 申购截止: 2025-12-02\n💰 价格区间: 58\n📊 发行股数: 3.93亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:共2家公司上市:\n1. 纳芯微 (02676) [主板]\n   📅 IPO周期: 2025-11-28 至 2025-12-08\n⏰ 申购截止: 2025-12-03\n💰 价格区间: 116.00\n📊 发行股数: 1.61亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 卓越睿新 (02687) [主板]\n   📅 IPO周期: 2025-11-28 至 2025-12-08\n⏰ 申购截止: 2025-12-03\n💰 价格区间: 62.26-76.1\n📊 发行股数: 0.67亿股\n🏢 市场: 主板\n🏛️ 保荐人: 农银国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
-DTSTART:20251127T000000Z
+DTSTART:20251128T000000Z
 SUMMARY:HK IPO Day: 2 Companies Listing
-UID:76510396-fcca-406e-a4cf-e773e9803cd7@7651.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 乐摩科技 (02539) [主板]\n   📅 IPO周期: 2025-11-25 至 2025-12-03\n⏰ 申购截止: 2025-11-28\n💰 价格区间: 27-40\n💵 发行价: 40.000\n📊 发行股数: 0.56亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信建投\n🔗 参考公司: 奥佳华\n2. 金岩高岭新材 (02693) [主板]\n   📅 IPO周期: 2025-11-25 至 2025-12-03\n⏰ 申购截止: 2025-11-28\n💰 价格区间: 7.3\n💵 发行价: 7.300\n📊 发行股数: 0.97亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国元国际\n🔗 参考公司: 中煤能源\n🟢 绿鞋: 61.00%
-DURATION:P1D
-DTSTART:20251125T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:d98b90a0-633c-4766-8702-a19d1a88d549@d98b.org
+UID:de97e3a5-50d5-4064-9e65-e82bd8c6f325@de97.org
 END:VEVENT
 END:VCALENDAR

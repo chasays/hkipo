@@ -4,24 +4,6 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 宝济药业-B (02659) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 宝济药业-B (02659) [主板]
-TRIGGER:PT30M
-END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2025-12-02 至 2025-12-10\n⏰ 申购截止: 2025-12-05\n💰 价格区间: 26.38\n📊 发行股数: 3.25亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20251202T000000Z
-SUMMARY:HK IPO: 宝济药业-B (02659) [主板]
-UID:9ed09e8e-ade1-4dd7-b41f-09c170749340@9ed0.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
 DESCRIPTION:提醒: HK IPO: 京东工业 (07618) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
@@ -35,7 +17,25 @@ DESCRIPTION:📅 IPO周期: 2025-12-03 至 2025-12-11\n⏰ 申购截止: 2025-12
 DURATION:P1D
 DTSTART:20251203T000000Z
 SUMMARY:HK IPO: 京东工业 (07618) [主板]
-UID:d31a9f18-fd57-4f2f-9203-63b2211db6f8@d31a.org
+UID:914c2660-7676-49ac-b684-b9d2cd2544c9@914c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:提醒: HK IPO: 宝济药业-B (02659) [主板] 明天开始
+TRIGGER:P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO: 宝济药业-B (02659) [主板]
+TRIGGER:PT30M
+END:VALARM
+CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2025-12-02 至 2025-12-10\n⏰ 申购截止: 2025-12-05\n💰 价格区间: 26.38\n📊 发行股数: 3.25亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20251202T000000Z
+SUMMARY:HK IPO: 宝济药业-B (02659) [主板]
+UID:6f05a31d-d7b4-4a13-b79c-941835e804d8@6f05.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -47,18 +47,6 @@ DESCRIPTION:共2家公司上市:\n1. 纳芯微 (02676) [主板]\n   📅 IPO周�
 DURATION:P1D
 DTSTART:20251128T000000Z
 SUMMARY:HK IPO Day: 2 Companies Listing
-UID:45fea576-730e-4cc2-b42a-3b3388c7577d@45fe.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 遇见小面 (02408) [主板]\n   📅 IPO周期: 2025-11-27 至 2025-12-05\n⏰ 申购截止: 2025-12-02\n💰 价格区间: 5.64-7.04\n💵 发行价: 7.040\n📊 发行股数: 7.10亿股\n🏢 市场: 主板\n🏛️ 保荐人: 招银国际\n🔗 参考公司: 海底捞\n🟢 绿鞋: 50.00%\n2. 天域半导体 (02658) [主板]\n   📅 IPO周期: 2025-11-27 至 2025-12-05\n⏰ 申购截止: 2025-12-02\n💰 价格区间: 58\n💵 发行价: 58.000\n📊 发行股数: 3.93亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: 闻泰科技
-DURATION:P1D
-DTSTART:20251127T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:70fb5aab-39ac-4b15-a800-7b75ef6d38b7@70fb.org
+UID:3e76cb64-fd60-40b7-bd68-1c3bd2d5c017@3e76.org
 END:VEVENT
 END:VCALENDAR

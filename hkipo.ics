@@ -17,7 +17,19 @@ DESCRIPTION:📅 IPO周期: 2025-12-09 至 2025-12-17\n⏰ 申购截止: 2025-12
 DURATION:P1D
 DTSTART:20251209T000000Z
 SUMMARY:HK IPO: HASHKEY HLDGS (03887) [主板]
-UID:547c90c0-2d35-4825-bc1e-a7fabe988401@547c.org
+UID:e44e4ae3-c8dc-4b14-826d-93328015900c@e44e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 智汇矿业 (02546) [主板]\n   📅 IPO周期: 2025-12-11 至 2025-12-19\n⏰ 申购截止: 2025-12-16\n💰 价格区间: 4.1-4.51\n📊 发行股数: 4.87亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国金证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 希迪智驾 (03881) [主板]\n   📅 IPO周期: 2025-12-11 至 2025-12-19\n⏰ 申购截止: 2025-12-16\n💰 价格区间: 263.00\n📊 发行股数: 0.44亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20251211T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:293b0281-f2b4-47c1-a528-7dd28f7567ef@293b.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -29,7 +41,7 @@ DESCRIPTION:共4家公司上市:\n1. 华芢生物-B (02396) [主板]\n   📅 IP
 DURATION:P1D
 DTSTART:20251212T000000Z
 SUMMARY:HK IPO Day: 4 Companies Listing
-UID:5d586a08-c6de-4d84-8243-3496a68c965f@5d58.org
+UID:dc77c5c2-3968-48ab-863f-3061f5cdd5f6@dc77.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -47,18 +59,6 @@ DESCRIPTION:📅 IPO周期: 2025-12-08 至 2025-12-16\n⏰ 申购截止: 2025-12
 DURATION:P1D
 DTSTART:20251208T000000Z
 SUMMARY:HK IPO: 果下科技 (02655) [主板]
-UID:6ba8ae12-a7c1-4c63-8f7a-78e07b85ad2e@6ba8.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 智汇矿业 (02546) [主板]\n   📅 IPO周期: 2025-12-11 至 2025-12-19\n⏰ 申购截止: 2025-12-16\n💰 价格区间: 4.1-4.51\n📊 发行股数: 4.87亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国金证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 希迪智驾 (03881) [主板]\n   📅 IPO周期: 2025-12-11 至 2025-12-19\n⏰ 申购截止: 2025-12-16\n💰 价格区间: 263.00\n📊 发行股数: 0.44亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20251211T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:5cc51566-ecd3-40f9-b888-d6bf0404c3c7@5cc5.org
+UID:b4bcb142-cfba-43fe-b9d5-5f8a8f089f28@b4bc.org
 END:VEVENT
 END:VCALENDAR

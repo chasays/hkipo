@@ -4,6 +4,18 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 智汇矿业 (02546) [主板]\n   📅 IPO周期: 2025-12-11 至 2025-12-19\n⏰ 申购截止: 2025-12-16\n💰 价格区间: 4.1-4.51\n📊 发行股数: 4.87亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国金证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 希迪智驾 (03881) [主板]\n   📅 IPO周期: 2025-12-11 至 2025-12-19\n⏰ 申购截止: 2025-12-16\n💰 价格区间: 263.00\n📊 发行股数: 0.44亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20251211T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:7c47b9b0-2df1-4a0c-9969-27d7c49bc2ff@7c47.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
 DESCRIPTION:提醒: HK IPO: HASHKEY HLDGS (03887) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
@@ -17,37 +29,7 @@ DESCRIPTION:📅 IPO周期: 2025-12-09 至 2025-12-17\n⏰ 申购截止: 2025-12
 DURATION:P1D
 DTSTART:20251209T000000Z
 SUMMARY:HK IPO: HASHKEY HLDGS (03887) [主板]
-UID:7ed47982-7adf-4a06-8b6d-179694d3df7d@7ed4.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 果下科技 (02655) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 果下科技 (02655) [主板]
-TRIGGER:PT30M
-END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2025-12-08 至 2025-12-16\n⏰ 申购截止: 2025-12-11\n💰 价格区间: 20.1\n📊 发行股数: 5.06亿股\n🏢 市场: 主板\n🏛️ 保荐人: 光大证券\n🔗 参考公司: 海博思创
-DURATION:P1D
-DTSTART:20251208T000000Z
-SUMMARY:HK IPO: 果下科技 (02655) [主板]
-UID:df03dccb-bd05-41e6-94cd-c7ccbe82bfc4@df03.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 4 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共4家公司上市:\n1. 华芢生物-B (02396) [主板]\n   📅 IPO周期: 2025-12-12 至 2025-12-22\n⏰ 申购截止: 2025-12-17\n💰 价格区间: 38.2-51.0\n📊 发行股数: 1.17亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 明基医院 (02581) [主板]\n   📅 IPO周期: 2025-12-12 至 2025-12-22\n⏰ 申购截止: 2025-12-17\n💰 价格区间: 9.34-11.68\n📊 发行股数: 3.11亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 南华期货股份 (02691) [主板]\n   📅 IPO周期: 2025-12-12 至 2025-12-22\n⏰ 申购截止: 2025-12-17\n💰 价格区间: 12-16\n📊 发行股数: 7.17亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n4. 印象大红袍 (02695) [主板]\n   📅 IPO周期: 2025-12-12 至 2025-12-22\n⏰ 申购截止: 2025-12-17\n💰 价格区间: 3.47-4.1\n📊 发行股数: 1.44亿股\n🏢 市场: 主板\n🏛️ 保荐人: 兴证国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20251212T000000Z
-SUMMARY:HK IPO Day: 4 Companies Listing
-UID:6fd4465e-0b04-4dff-baee-1851889d566d@6fd4.org
+UID:e30d1296-c1bd-495b-bf2a-712f594059e8@e30d.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -59,18 +41,31 @@ DESCRIPTION:共3家公司上市:\n1. 诺比侃 (02635) [主板]\n   📅 IPO周�
 DURATION:P1D
 DTSTART:20251215T000000Z
 SUMMARY:HK IPO Day: 3 Companies Listing
-UID:b0712ace-8fd3-4ee7-8cba-abfb5337a299@b071.org
+UID:73a98763-c1a2-415c-b41d-9bce6c34d648@73a9.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
+DESCRIPTION:HK IPO Day: 4 Companies Listing
 TRIGGER:PT30M
 END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 智汇矿业 (02546) [主板]\n   📅 IPO周期: 2025-12-11 至 2025-12-19\n⏰ 申购截止: 2025-12-16\n💰 价格区间: 4.1-4.51\n📊 发行股数: 4.87亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国金证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 希迪智驾 (03881) [主板]\n   📅 IPO周期: 2025-12-11 至 2025-12-19\n⏰ 申购截止: 2025-12-16\n💰 价格区间: 263.00\n📊 发行股数: 0.44亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:共4家公司上市:\n1. 华芢生物-B (02396) [主板]\n   📅 IPO周期: 2025-12-12 至 2025-12-22\n⏰ 申购截止: 2025-12-17\n💰 价格区间: 38.2-51.0\n📊 发行股数: 1.17亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 明基医院 (02581) [主板]\n   📅 IPO周期: 2025-12-12 至 2025-12-22\n⏰ 申购截止: 2025-12-17\n💰 价格区间: 9.34-11.68\n📊 发行股数: 3.11亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 南华期货股份 (02691) [主板]\n   📅 IPO周期: 2025-12-12 至 2025-12-22\n⏰ 申购截止: 2025-12-17\n💰 价格区间: 12-16\n📊 发行股数: 7.17亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n4. 印象大红袍 (02695) [主板]\n   📅 IPO周期: 2025-12-12 至 2025-12-22\n⏰ 申购截止: 2025-12-17\n💰 价格区间: 3.47-4.1\n📊 发行股数: 1.44亿股\n🏢 市场: 主板\n🏛️ 保荐人: 兴证国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
-DTSTART:20251211T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:a61df05f-0c7f-4ca8-b8a1-0a3d35d6c247@a61d.org
+DTSTART:20251212T000000Z
+SUMMARY:HK IPO Day: 4 Companies Listing
+UID:8eb09890-8f7c-4a8b-8db1-262f8d1ebab4@8eb0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:今天: HK IPO: 果下科技 (02655) [主板]
+TRIGGER:PT30M
+END:VALARM
+CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2025-12-08 至 2025-12-16\n⏰ 申购截止: 2025-12-11\n💰 价格区间: 20.1\n💵 发行价: 20.100\n📊 发行股数: 5.06亿股\n🏢 市场: 主板\n🏛️ 保荐人: 光大证券\n🔗 参考公司: 海博思创\n🟢 绿鞋: 172.00%
+DURATION:P1D
+DTSTART:20251208T000000Z
+SUMMARY:HK IPO: 果下科技 (02655) [主板]
+UID:2b36482f-374b-4262-95d0-7f9e775bfd46@2b36.org
 END:VEVENT
 END:VCALENDAR

@@ -11,31 +11,7 @@ DESCRIPTION:共6家公司上市:\n1. 林清轩 (02657) [主板]\n   📅 IPO周�
 DURATION:P1D
 DTSTART:20251218T000000Z
 SUMMARY:HK IPO Day: 6 Companies Listing
-UID:a4701dac-18ea-4d52-bc7c-fd487835ab05@a470.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 3 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共3家公司上市:\n1. 诺比侃 (02635) [主板]\n   📅 IPO周期: 2025-12-15 至 2025-12-23\n⏰ 申购截止: 2025-12-18\n💰 价格区间: 80-106\n📊 发行股数: 0.38亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 轻松健康 (02661) [主板]\n   📅 IPO周期: 2025-12-15 至 2025-12-23\n⏰ 申购截止: 2025-12-18\n💰 价格区间: 22.68\n📊 发行股数: 2.06亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 翰思艾泰-B (03378) [主板]\n   📅 IPO周期: 2025-12-15 至 2025-12-23\n⏰ 申购截止: 2025-12-18\n💰 价格区间: 28-32\n📊 发行股数: 1.36亿股\n🏢 市场: 主板\n🏛️ 保荐人: 工银国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20251215T000000Z
-SUMMARY:HK IPO Day: 3 Companies Listing
-UID:b96b28bc-ff03-45f0-be06-5d21ec0b73d4@b96b.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 智汇矿业 (02546) [主板]\n   📅 IPO周期: 2025-12-11 至 2025-12-19\n⏰ 申购截止: 2025-12-16\n💰 价格区间: 4.1-4.51\n💵 发行价: 4.510\n📊 发行股数: 4.87亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国金证券\n🔗 参考公司: 中铝矿业\n2. 希迪智驾 (03881) [主板]\n   📅 IPO周期: 2025-12-11 至 2025-12-19\n⏰ 申购截止: 2025-12-16\n💰 价格区间: 263.00\n💵 发行价: 263.000\n📊 发行股数: 0.44亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 小马智行
-DURATION:P1D
-DTSTART:20251211T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:687dbbf8-8c91-4212-a9ae-3801a8e382d3@687d.org
+UID:1c6506b3-6288-4914-a264-9bfc12a5bcf5@1c65.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -47,6 +23,18 @@ DESCRIPTION:共4家公司上市:\n1. 华芢生物-B (02396) [主板]\n   📅 IP
 DURATION:P1D
 DTSTART:20251212T000000Z
 SUMMARY:HK IPO Day: 4 Companies Listing
-UID:084f73a9-ee9a-4f94-a941-996e774a651d@084f.org
+UID:300c3b21-23de-4244-8dd1-844bfbacae3d@300c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 3 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共3家公司上市:\n1. 诺比侃 (02635) [主板]\n   📅 IPO周期: 2025-12-15 至 2025-12-23\n⏰ 申购截止: 2025-12-18\n💰 价格区间: 80-106\n📊 发行股数: 0.38亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 轻松健康 (02661) [主板]\n   📅 IPO周期: 2025-12-15 至 2025-12-23\n⏰ 申购截止: 2025-12-18\n💰 价格区间: 22.68\n📊 发行股数: 2.06亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 翰思艾泰-B (03378) [主板]\n   📅 IPO周期: 2025-12-15 至 2025-12-23\n⏰ 申购截止: 2025-12-18\n💰 价格区间: 28-32\n📊 发行股数: 1.36亿股\n🏢 市场: 主板\n🏛️ 保荐人: 工银国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20251215T000000Z
+SUMMARY:HK IPO Day: 3 Companies Listing
+UID:8cbfba49-edee-421e-abe3-deab6f8cbb7c@8cbf.org
 END:VEVENT
 END:VCALENDAR

@@ -4,30 +4,6 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 6 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共6家公司上市:\n1. 林清轩 (02657) [主板]\n   📅 IPO周期: 2025-12-18 至 2025-12-30\n⏰ 申购截止: 2025-12-23\n💰 价格区间: 77.77\n📊 发行股数: 1.39亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 美联股份 (02671) [主板]\n   📅 IPO周期: 2025-12-18 至 2025-12-30\n⏰ 申购截止: 2025-12-23\n💰 价格区间: 7.1-9.16\n📊 发行股数: 1.20亿股\n🏢 市场: 主板\n🏛️ 保荐人: 申万宏源\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 迅策 (03317) [主板]\n   📅 IPO周期: 2025-12-18 至 2025-12-30\n⏰ 申购截止: 2025-12-23\n💰 价格区间: 48-55\n📊 发行股数: 3.22亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰海通\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n4. 英矽智能 (03696) [主板]\n   📅 IPO周期: 2025-12-18 至 2025-12-30\n⏰ 申购截止: 2025-12-23\n💰 价格区间: 24.05\n📊 发行股数: 5.57亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n5. 卧安机器人 (06600) [主板]\n   📅 IPO周期: 2025-12-18 至 2025-12-30\n⏰ 申购截止: 2025-12-23\n💰 价格区间: 63-81\n📊 发行股数: 2.22亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰海通\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n6. 五一视界 (06651) [主板]\n   📅 IPO周期: 2025-12-18 至 2025-12-30\n⏰ 申购截止: 2025-12-23\n💰 价格区间: 30.5\n📊 发行股数: 4.06亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20251218T000000Z
-SUMMARY:HK IPO Day: 6 Companies Listing
-UID:2f284a66-beaa-460d-b55e-1aacded64f60@2f28.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 3 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共3家公司上市:\n1. 诺比侃 (02635) [主板]\n   📅 IPO周期: 2025-12-15 至 2025-12-23\n⏰ 申购截止: 2025-12-18\n💰 价格区间: 80-106\n💵 发行价: 80.000\n📊 发行股数: 0.38亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: ‌开普检测\n2. 轻松健康 (02661) [主板]\n   📅 IPO周期: 2025-12-15 至 2025-12-23\n⏰ 申购截止: 2025-12-18\n💰 价格区间: 22.68\n💵 发行价: 22.680\n📊 发行股数: 2.06亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 有家保险\n3. 翰思艾泰-B (03378) [主板]\n   📅 IPO周期: 2025-12-15 至 2025-12-23\n⏰ 申购截止: 2025-12-18\n💰 价格区间: 28-32\n💵 发行价: 32.000\n📊 发行股数: 1.36亿股\n🏢 市场: 主板\n🏛️ 保荐人: 工银国际\n🔗 参考公司: 银诺医药-B
-DURATION:P1D
-DTSTART:20251215T000000Z
-SUMMARY:HK IPO Day: 3 Companies Listing
-UID:dd278e69-cf1f-46fa-b0a7-e76937e43f8d@dd27.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
 DESCRIPTION:提醒: HK IPO: 璧仞科技 (06082) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
@@ -41,6 +17,18 @@ DESCRIPTION:📅 IPO周期: 2025-12-22 至 2026-01-02\n⏰ 申购截止: 2025-12
 DURATION:P1D
 DTSTART:20251222T000000Z
 SUMMARY:HK IPO: 璧仞科技 (06082) [主板]
-UID:b656b72a-fd73-427b-b30f-cd09ab6f8286@b656.org
+UID:32902820-f0c7-4c6d-b110-3789ba99dbe0@3290.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 6 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共6家公司上市:\n1. 林清轩 (02657) [主板]\n   📅 IPO周期: 2025-12-18 至 2025-12-30\n⏰ 申购截止: 2025-12-23\n💰 价格区间: 77.77\n📊 发行股数: 1.39亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 美联股份 (02671) [主板]\n   📅 IPO周期: 2025-12-18 至 2025-12-30\n⏰ 申购截止: 2025-12-23\n💰 价格区间: 7.1-9.16\n📊 发行股数: 1.20亿股\n🏢 市场: 主板\n🏛️ 保荐人: 申万宏源\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 迅策 (03317) [主板]\n   📅 IPO周期: 2025-12-18 至 2025-12-30\n⏰ 申购截止: 2025-12-23\n💰 价格区间: 48-55\n📊 发行股数: 3.22亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰海通\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n4. 英矽智能 (03696) [主板]\n   📅 IPO周期: 2025-12-18 至 2025-12-30\n⏰ 申购截止: 2025-12-23\n💰 价格区间: 24.05\n📊 发行股数: 5.57亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n5. 卧安机器人 (06600) [主板]\n   📅 IPO周期: 2025-12-18 至 2025-12-30\n⏰ 申购截止: 2025-12-23\n💰 价格区间: 63-81\n📊 发行股数: 2.22亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰海通\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n6. 五一视界 (06651) [主板]\n   📅 IPO周期: 2025-12-18 至 2025-12-30\n⏰ 申购截止: 2025-12-23\n💰 价格区间: 30.5\n📊 发行股数: 4.06亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20251218T000000Z
+SUMMARY:HK IPO Day: 6 Companies Listing
+UID:48b33221-e299-4f6c-babd-b7a574731ee7@48b3.org
 END:VEVENT
 END:VCALENDAR

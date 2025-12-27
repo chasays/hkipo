@@ -4,6 +4,18 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 6 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共6家公司上市:\n1. 林清轩 (02657) [主板]\n   📅 IPO周期: 2025-12-18 至 2025-12-30\n⏰ 申购截止: 2025-12-23\n💰 价格区间: 77.77\n📊 发行股数: 1.39亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 美联股份 (02671) [主板]\n   📅 IPO周期: 2025-12-18 至 2025-12-30\n⏰ 申购截止: 2025-12-23\n💰 价格区间: 7.1-9.16\n📊 发行股数: 1.20亿股\n🏢 市场: 主板\n🏛️ 保荐人: 申万宏源\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 迅策 (03317) [主板]\n   📅 IPO周期: 2025-12-18 至 2025-12-30\n⏰ 申购截止: 2025-12-23\n💰 价格区间: 48-55\n📊 发行股数: 3.22亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰海通\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n4. 英矽智能 (03696) [主板]\n   📅 IPO周期: 2025-12-18 至 2025-12-30\n⏰ 申购截止: 2025-12-23\n💰 价格区间: 24.05\n📊 发行股数: 5.57亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n5. 卧安机器人 (06600) [主板]\n   📅 IPO周期: 2025-12-18 至 2025-12-30\n⏰ 申购截止: 2025-12-23\n💰 价格区间: 63-81\n📊 发行股数: 2.22亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰海通\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n6. 五一视界 (06651) [主板]\n   📅 IPO周期: 2025-12-18 至 2025-12-30\n⏰ 申购截止: 2025-12-23\n💰 价格区间: 30.5\n📊 发行股数: 4.06亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20251218T000000Z
+SUMMARY:HK IPO Day: 6 Companies Listing
+UID:a17f3f9b-78c6-4f4f-971f-f4d3e2ab7a80@a17f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
 DESCRIPTION:提醒: HK IPO: 璧仞科技 (06082) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
@@ -17,18 +29,6 @@ DESCRIPTION:📅 IPO周期: 2025-12-22 至 2026-01-02\n⏰ 申购截止: 2025-12
 DURATION:P1D
 DTSTART:20251222T000000Z
 SUMMARY:HK IPO: 璧仞科技 (06082) [主板]
-UID:2d18e9c8-592f-4224-8508-2688a581a8ce@2d18.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 6 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共6家公司上市:\n1. 林清轩 (02657) [主板]\n   📅 IPO周期: 2025-12-18 至 2025-12-30\n⏰ 申购截止: 2025-12-23\n💰 价格区间: 77.77\n📊 发行股数: 1.39亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 美联股份 (02671) [主板]\n   📅 IPO周期: 2025-12-18 至 2025-12-30\n⏰ 申购截止: 2025-12-23\n💰 价格区间: 7.1-9.16\n📊 发行股数: 1.20亿股\n🏢 市场: 主板\n🏛️ 保荐人: 申万宏源\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 迅策 (03317) [主板]\n   📅 IPO周期: 2025-12-18 至 2025-12-30\n⏰ 申购截止: 2025-12-23\n💰 价格区间: 48-55\n📊 发行股数: 3.22亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰海通\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n4. 英矽智能 (03696) [主板]\n   📅 IPO周期: 2025-12-18 至 2025-12-30\n⏰ 申购截止: 2025-12-23\n💰 价格区间: 24.05\n📊 发行股数: 5.57亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n5. 卧安机器人 (06600) [主板]\n   📅 IPO周期: 2025-12-18 至 2025-12-30\n⏰ 申购截止: 2025-12-23\n💰 价格区间: 63-81\n📊 发行股数: 2.22亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰海通\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n6. 五一视界 (06651) [主板]\n   📅 IPO周期: 2025-12-18 至 2025-12-30\n⏰ 申购截止: 2025-12-23\n💰 价格区间: 30.5\n📊 发行股数: 4.06亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20251218T000000Z
-SUMMARY:HK IPO Day: 6 Companies Listing
-UID:bc42ff9d-1c60-4a10-a8eb-ed364ff96e5d@bc42.org
+UID:9f608499-0d69-4741-844d-d385aeceabf4@9f60.org
 END:VEVENT
 END:VCALENDAR

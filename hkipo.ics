@@ -4,26 +4,14 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 3 Companies Listing
+DESCRIPTION:HK IPO Day: 7 Companies Listing
 TRIGGER:PT30M
 END:VALARM
-DESCRIPTION:共3家公司上市:\n1. 智谱 (02513) [主板]\n   📅 IPO周期: 2025-12-30 至 2026-01-08\n⏰ 申购截止: 2026-01-05\n💰 价格区间: 116.20\n📊 发行股数: 4.40亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 精锋医疗-B (02675) [主板]\n   📅 IPO周期: 2025-12-30 至 2026-01-08\n⏰ 申购截止: 2026-01-05\n💰 价格区间: 43.24\n📊 发行股数: 3.87亿股\n🏢 市场: 主板\n🏛️ 保荐人: 大摩\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 天数智芯 (09903) [主板]\n   📅 IPO周期: 2025-12-30 至 2026-01-08\n⏰ 申购截止: 2026-01-05\n💰 价格区间: 144.6\n📊 发行股数: 2.54亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:共7家公司上市:\n1. 红星冷链 (01641) [主板]\n   📅 IPO周期: 2025-12-31 至 2026-01-13\n⏰ 申购截止: 2026-01-08\n💰 价格区间: 12.26\n📊 发行股数: 0.98亿股\n🏢 市场: 主板\n🏛️ 保荐人: 建银国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 兆易创新 (03986) [主板]\n   📅 IPO周期: 2025-12-31 至 2026-01-13\n⏰ 申购截止: 2026-01-08\n💰 价格区间: 162\n📊 发行股数: 6.96亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. BBSB INTL (08610) [创业板]\n   📅 IPO周期: 2025-12-31 至 2026-01-13\n⏰ 申购截止: 2026-01-08\n💰 价格区间: 0.6-0.7\n📊 发行股数: 5.00亿股\n🏢 市场: 创业板\n🏛️ 保荐人: 力高企业\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n4. 豪威集团 (00501) [主板]\n   📅 IPO周期: 2025-12-31 至 2026-01-12\n⏰ 申购截止: 2026-01-07\n💰 价格区间: 104.80\n📊 发行股数: 12.55亿股\n🏢 市场: 主板\n🏛️ 保荐人: UBS\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n5. MINIMAX-WP (00100) [主板]\n   📅 IPO周期: 2025-12-31 至 2026-01-09\n⏰ 申购截止: 2026-01-06\n💰 价格区间: 151-165\n📊 发行股数: 3.05亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n6. 金浔资源 (03636) [主板]\n   📅 IPO周期: 2025-12-31 至 2026-01-09\n⏰ 申购截止: 2026-01-06\n💰 价格区间: 30\n📊 发行股数: 1.47亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n7. 瑞博生物-B (06938) [主板]\n   📅 IPO周期: 2025-12-31 至 2026-01-09\n⏰ 申购截止: 2026-01-06\n💰 价格区间: 57.97\n📊 发行股数: 1.61亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
-DTSTART:20251230T000000Z
-SUMMARY:HK IPO Day: 3 Companies Listing
-UID:96c78dcc-a9d6-450b-94bf-237a9a553b77@96c7.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 6 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共6家公司上市:\n1. 林清轩 (02657) [主板]\n   📅 IPO周期: 2025-12-18 至 2025-12-30\n⏰ 申购截止: 2025-12-23\n💰 价格区间: 77.77\n💵 发行价: 77.770\n📊 发行股数: 1.39亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: 珀莱雅\n🟢 绿鞋: 150.00%\n2. 美联股份 (02671) [主板]\n   📅 IPO周期: 2025-12-18 至 2025-12-30\n⏰ 申购截止: 2025-12-23\n💰 价格区间: 7.1-9.16\n💵 发行价: 7.100\n📊 发行股数: 1.20亿股\n🏢 市场: 主板\n🏛️ 保荐人: 申万宏源\n🔗 参考公司: 东南集团\n3. 迅策 (03317) [主板]\n   📅 IPO周期: 2025-12-18 至 2025-12-30\n⏰ 申购截止: 2025-12-23\n💰 价格区间: 48-55\n💵 发行价: 48.000\n📊 发行股数: 3.22亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰海通\n🔗 参考公司: 微盟集团\n🟢 绿鞋: 150.00%\n4. 英矽智能 (03696) [主板]\n   📅 IPO周期: 2025-12-18 至 2025-12-30\n⏰ 申购截止: 2025-12-23\n💰 价格区间: 24.05\n💵 发行价: 24.050\n📊 发行股数: 5.57亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 药明生物\n🟢 绿鞋: 150.00%\n5. 卧安机器人 (06600) [主板]\n   📅 IPO周期: 2025-12-18 至 2025-12-30\n⏰ 申购截止: 2025-12-23\n💰 价格区间: 63-81\n💵 发行价: 73.800\n📊 发行股数: 2.22亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰海通\n🔗 参考公司: 云迹科技‌\n🟢 绿鞋: 150.00%\n6. 五一视界 (06651) [主板]\n   📅 IPO周期: 2025-12-18 至 2025-12-30\n⏰ 申购截止: 2025-12-23\n💰 价格区间: 30.5\n💵 发行价: 30.500\n📊 发行股数: 4.06亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 风语筑
-DURATION:P1D
-DTSTART:20251218T000000Z
-SUMMARY:HK IPO Day: 6 Companies Listing
-UID:6bf5c281-56f7-4277-ae9c-3fcb40998ef7@6bf5.org
+DTSTART:20251231T000000Z
+SUMMARY:HK IPO Day: 7 Companies Listing
+UID:56121ae4-df9d-4670-9fab-d3c974dfb990@5612.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -41,6 +29,18 @@ DESCRIPTION:📅 IPO周期: 2025-12-22 至 2026-01-02\n⏰ 申购截止: 2025-12
 DURATION:P1D
 DTSTART:20251222T000000Z
 SUMMARY:HK IPO: 璧仞科技 (06082) [主板]
-UID:86a59690-59db-476e-9d03-627119eae9fb@86a5.org
+UID:86627b66-bc01-45bd-ae76-44847dd5da7e@8662.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 3 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共3家公司上市:\n1. 智谱 (02513) [主板]\n   📅 IPO周期: 2025-12-30 至 2026-01-08\n⏰ 申购截止: 2026-01-05\n💰 价格区间: 116.20\n📊 发行股数: 4.40亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 精锋医疗-B (02675) [主板]\n   📅 IPO周期: 2025-12-30 至 2026-01-08\n⏰ 申购截止: 2026-01-05\n💰 价格区间: 43.24\n📊 发行股数: 3.87亿股\n🏢 市场: 主板\n🏛️ 保荐人: 大摩\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 天数智芯 (09903) [主板]\n   📅 IPO周期: 2025-12-30 至 2026-01-08\n⏰ 申购截止: 2026-01-05\n💰 价格区间: 144.6\n📊 发行股数: 2.54亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20251230T000000Z
+SUMMARY:HK IPO Day: 3 Companies Listing
+UID:923bad58-d990-499b-92c3-1ad289fe8da6@923b.org
 END:VEVENT
 END:VCALENDAR

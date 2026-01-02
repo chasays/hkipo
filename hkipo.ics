@@ -4,36 +4,6 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 3 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共3家公司上市:\n1. 智谱 (02513) [主板]\n   📅 IPO周期: 2025-12-30 至 2026-01-08\n⏰ 申购截止: 2026-01-05\n💰 价格区间: 116.20\n📊 发行股数: 4.40亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 精锋医疗-B (02675) [主板]\n   📅 IPO周期: 2025-12-30 至 2026-01-08\n⏰ 申购截止: 2026-01-05\n💰 价格区间: 43.24\n📊 发行股数: 3.87亿股\n🏢 市场: 主板\n🏛️ 保荐人: 大摩\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 天数智芯 (09903) [主板]\n   📅 IPO周期: 2025-12-30 至 2026-01-08\n⏰ 申购截止: 2026-01-05\n💰 价格区间: 144.6\n📊 发行股数: 2.54亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20251230T000000Z
-SUMMARY:HK IPO Day: 3 Companies Listing
-UID:b7d117b8-3d5c-4316-a683-dcd307ff46dc@b7d1.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 璧仞科技 (06082) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 璧仞科技 (06082) [主板]
-TRIGGER:PT30M
-END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2025-12-22 至 2026-01-02\n⏰ 申购截止: 2025-12-29\n💰 价格区间: 17-19.6\n📊 发行股数: 23.58亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20251222T000000Z
-SUMMARY:HK IPO: 璧仞科技 (06082) [主板]
-UID:5c4754b3-52e8-4d0d-a7da-79839cd20185@5c47.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
 DESCRIPTION:HK IPO Day: 7 Companies Listing
 TRIGGER:PT30M
 END:VALARM
@@ -41,6 +11,31 @@ DESCRIPTION:共7家公司上市:\n1. 红星冷链 (01641) [主板]\n   📅 IPO�
 DURATION:P1D
 DTSTART:20251231T000000Z
 SUMMARY:HK IPO Day: 7 Companies Listing
-UID:d2122d56-4a29-4784-9b3e-38e183cf4641@d212.org
+UID:e45f8b9f-f1a9-4cf4-b067-0f47026fbfd0@e45f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 3 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共3家公司上市:\n1. 智谱 (02513) [主板]\n   📅 IPO周期: 2025-12-30 至 2026-01-08\n⏰ 申购截止: 2026-01-05\n💰 价格区间: 116.20\n📊 发行股数: 4.40亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 精锋医疗-B (02675) [主板]\n   📅 IPO周期: 2025-12-30 至 2026-01-08\n⏰ 申购截止: 2026-01-05\n💰 价格区间: 43.24\n📊 发行股数: 3.87亿股\n🏢 市场: 主板\n🏛️ 保荐人: 大摩\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 天数智芯 (09903) [主板]\n   📅 IPO周期: 2025-12-30 至 2026-01-08\n⏰ 申购截止: 2026-01-05\n💰 价格区间: 144.6\n📊 发行股数: 2.54亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20251230T000000Z
+SUMMARY:HK IPO Day: 3 Companies Listing
+UID:b938afaf-7f43-458a-88f0-aa2f0c401932@b938.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:今天: HK IPO: 璧仞科技 (06082) [主板]
+TRIGGER:PT30M
+END:VALARM
+CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2025-12-22 至 2026-01-02\n⏰ 申购截止: 2025-12-29\n💰 价格区间: 17-19.6\n📊 发行股数: 23.58亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20251222T000000Z
+SUMMARY:HK IPO: 璧仞科技 (06082) [主板]
+UID:43465cd1-9c04-4346-9994-e1ae6b64ea13@4346.org
 END:VEVENT
 END:VCALENDAR

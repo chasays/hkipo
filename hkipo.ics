@@ -11,7 +11,7 @@ DESCRIPTION:共7家公司上市:\n1. 红星冷链 (01641) [主板]\n   📅 IPO�
 DURATION:P1D
 DTSTART:20251231T000000Z
 SUMMARY:HK IPO Day: 7 Companies Listing
-UID:0864bb2c-9ad1-4793-8552-0057d410fdce@0864.org
+UID:9bfdbe3c-597e-4b89-8062-c97ffe8b1f67@9bfd.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -19,10 +19,10 @@ ACTION:DISPLAY
 DESCRIPTION:HK IPO Day: 3 Companies Listing
 TRIGGER:PT30M
 END:VALARM
-DESCRIPTION:共3家公司上市:\n1. 智谱 (02513) [主板]\n   📅 IPO周期: 2025-12-30 至 2026-01-08\n⏰ 申购截止: 2026-01-05\n💰 价格区间: 116.20\n📊 发行股数: 4.40亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 精锋医疗-B (02675) [主板]\n   📅 IPO周期: 2025-12-30 至 2026-01-08\n⏰ 申购截止: 2026-01-05\n💰 价格区间: 43.24\n📊 发行股数: 3.87亿股\n🏢 市场: 主板\n🏛️ 保荐人: 大摩\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 天数智芯 (09903) [主板]\n   📅 IPO周期: 2025-12-30 至 2026-01-08\n⏰ 申购截止: 2026-01-05\n💰 价格区间: 144.6\n📊 发行股数: 2.54亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:共3家公司上市:\n1. 智谱 (02513) [主板]\n   📅 IPO周期: 2025-12-30 至 2026-01-08\n⏰ 申购截止: 2026-01-05\n💰 价格区间: 116.20\n💵 发行价: 116.200\n📊 发行股数: 4.40亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 科大讯飞\n🟢 绿鞋: 75.00%\n2. 精锋医疗-B (02675) [主板]\n   📅 IPO周期: 2025-12-30 至 2026-01-08\n⏰ 申购截止: 2026-01-05\n💰 价格区间: 43.24\n💵 发行价: 43.240\n📊 发行股数: 3.87亿股\n🏢 市场: 主板\n🏛️ 保荐人: 大摩\n🔗 参考公司: 中慧生物-B\n🟢 绿鞋: 150.00%\n3. 天数智芯 (09903) [主板]\n   📅 IPO周期: 2025-12-30 至 2026-01-08\n⏰ 申购截止: 2026-01-05\n💰 价格区间: 144.6\n💵 发行价: 144.600\n📊 发行股数: 2.54亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: 摩尔线程
 DURATION:P1D
 DTSTART:20251230T000000Z
 SUMMARY:HK IPO Day: 3 Companies Listing
-UID:107d06d0-4d4f-4fe6-b154-a42164d69efa@107d.org
+UID:4250a4b3-006b-4a8d-a721-5bca5857904e@4250.org
 END:VEVENT
 END:VCALENDAR

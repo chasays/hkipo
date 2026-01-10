@@ -4,13 +4,13 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 7 Companies Listing
+DESCRIPTION:HK IPO Day: 4 Companies Listing
 TRIGGER:PT30M
 END:VALARM
-DESCRIPTION:共7家公司上市:\n1. 红星冷链 (01641) [主板]\n   📅 IPO周期: 2025-12-31 至 2026-01-13\n⏰ 申购截止: 2026-01-08\n💰 价格区间: 12.26\n📊 发行股数: 0.98亿股\n🏢 市场: 主板\n🏛️ 保荐人: 建银国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 兆易创新 (03986) [主板]\n   📅 IPO周期: 2025-12-31 至 2026-01-13\n⏰ 申购截止: 2026-01-08\n💰 价格区间: 162\n📊 发行股数: 6.96亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. BBSB INTL (08610) [创业板]\n   📅 IPO周期: 2025-12-31 至 2026-01-13\n⏰ 申购截止: 2026-01-08\n💰 价格区间: 0.6-0.7\n📊 发行股数: 5.00亿股\n🏢 市场: 创业板\n🏛️ 保荐人: 力高企业\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n4. 豪威集团 (00501) [主板]\n   📅 IPO周期: 2025-12-31 至 2026-01-12\n⏰ 申购截止: 2026-01-07\n💰 价格区间: 104.80\n📊 发行股数: 12.55亿股\n🏢 市场: 主板\n🏛️ 保荐人: UBS\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n5. MINIMAX-WP (00100) [主板]\n   📅 IPO周期: 2025-12-31 至 2026-01-09\n⏰ 申购截止: 2026-01-06\n💰 价格区间: 151-165\n💵 发行价: 165.000\n📊 发行股数: 3.05亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 科大讯飞\n🟢 绿鞋: 86.00%\n6. 金浔资源 (03636) [主板]\n   📅 IPO周期: 2025-12-31 至 2026-01-09\n⏰ 申购截止: 2026-01-06\n💰 价格区间: 30\n💵 发行价: 30.000\n📊 发行股数: 1.47亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: 江西铜业\n🟢 绿鞋: 150.00%\n7. 瑞博生物-B (06938) [主板]\n   📅 IPO周期: 2025-12-31 至 2026-01-09\n⏰ 申购截止: 2026-01-06\n💰 价格区间: 57.97\n💵 发行价: 57.970\n📊 发行股数: 1.61亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 华芢生物-B\n🟢 绿鞋: 172.00%
+DESCRIPTION:共4家公司上市:\n1. 红星冷链 (01641) [主板]\n   📅 IPO周期: 2025-12-31 至 2026-01-13\n⏰ 申购截止: 2026-01-08\n💰 价格区间: 12.26\n📊 发行股数: 0.98亿股\n🏢 市场: 主板\n🏛️ 保荐人: 建银国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 兆易创新 (03986) [主板]\n   📅 IPO周期: 2025-12-31 至 2026-01-13\n⏰ 申购截止: 2026-01-08\n💰 价格区间: 162\n📊 发行股数: 6.96亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. BBSB INTL (08610) [创业板]\n   📅 IPO周期: 2025-12-31 至 2026-01-13\n⏰ 申购截止: 2026-01-08\n💰 价格区间: 0.6-0.7\n📊 发行股数: 5.00亿股\n🏢 市场: 创业板\n🏛️ 保荐人: 力高企业\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n4. 豪威集团 (00501) [主板]\n   📅 IPO周期: 2025-12-31 至 2026-01-12\n⏰ 申购截止: 2026-01-07\n💰 价格区间: 104.80\n📊 发行股数: 12.55亿股\n🏢 市场: 主板\n🏛️ 保荐人: UBS\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
 DTSTART:20251231T000000Z
-SUMMARY:HK IPO Day: 7 Companies Listing
-UID:c7f98154-cca4-4ade-8613-5238a04cc1f3@c7f9.org
+SUMMARY:HK IPO Day: 4 Companies Listing
+UID:9dff6bc8-5ffa-4ff1-9ee3-63fd50ff08a6@9dff.org
 END:VEVENT
 END:VCALENDAR

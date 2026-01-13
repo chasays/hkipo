@@ -4,13 +4,13 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 4 Companies Listing
+DESCRIPTION:HK IPO Day: 3 Companies Listing
 TRIGGER:PT30M
 END:VALARM
-DESCRIPTION:共4家公司上市:\n1. 红星冷链 (01641) [主板]\n   📅 IPO周期: 2025-12-31 至 2026-01-13\n⏰ 申购截止: 2026-01-08\n💰 价格区间: 12.26\n📊 发行股数: 0.98亿股\n🏢 市场: 主板\n🏛️ 保荐人: 建银国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 兆易创新 (03986) [主板]\n   📅 IPO周期: 2025-12-31 至 2026-01-13\n⏰ 申购截止: 2026-01-08\n💰 价格区间: 162\n📊 发行股数: 6.96亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. BBSB INTL (08610) [创业板]\n   📅 IPO周期: 2025-12-31 至 2026-01-13\n⏰ 申购截止: 2026-01-08\n💰 价格区间: 0.6-0.7\n📊 发行股数: 5.00亿股\n🏢 市场: 创业板\n🏛️ 保荐人: 力高企业\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n4. 豪威集团 (00501) [主板]\n   📅 IPO周期: 2025-12-31 至 2026-01-12\n⏰ 申购截止: 2026-01-07\n💰 价格区间: 104.80\n💵 发行价: 104.800\n📊 发行股数: 12.55亿股\n🏢 市场: 主板\n🏛️ 保荐人: UBS\n🔗 参考公司: 闻泰科技\n🟢 绿鞋: 150.00%
+DESCRIPTION:共3家公司上市:\n1. 红星冷链 (01641) [主板]\n   📅 IPO周期: 2025-12-31 至 2026-01-13\n⏰ 申购截止: 2026-01-08\n💰 价格区间: 12.26\n💵 发行价: 12.260\n📊 发行股数: 0.98亿股\n🏢 市场: 主板\n🏛️ 保荐人: 建银国际\n🔗 参考公司: 顺丰\n2. 兆易创新 (03986) [主板]\n   📅 IPO周期: 2025-12-31 至 2026-01-13\n⏰ 申购截止: 2026-01-08\n💰 价格区间: 162\n💵 发行价: 162.000\n📊 发行股数: 6.96亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 闻泰科技\n🟢 绿鞋: 150.00%\n3. BBSB INTL (08610) [创业板]\n   📅 IPO周期: 2025-12-31 至 2026-01-13\n⏰ 申购截止: 2026-01-08\n💰 价格区间: 0.6-0.7\n💵 发行价: 0.600\n📊 发行股数: 5.00亿股\n🏢 市场: 创业板\n🏛️ 保荐人: 力高企业\n🔗 参考公司: 荣利营造
 DURATION:P1D
 DTSTART:20251231T000000Z
-SUMMARY:HK IPO Day: 4 Companies Listing
-UID:7897a0aa-ae41-407b-88d5-d76bb0408a1f@7897.org
+SUMMARY:HK IPO Day: 3 Companies Listing
+UID:dc9bd05a-12b4-4bee-b11a-1f30f782a2b3@dc9b.org
 END:VEVENT
 END:VCALENDAR

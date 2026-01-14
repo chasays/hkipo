@@ -4,13 +4,19 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 3 Companies Listing
+DESCRIPTION:提醒: HK IPO: 龙旗科技 (09611) [主板] 明天开始
+TRIGGER:P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO: 龙旗科技 (09611) [主板]
 TRIGGER:PT30M
 END:VALARM
-DESCRIPTION:共3家公司上市:\n1. 红星冷链 (01641) [主板]\n   📅 IPO周期: 2025-12-31 至 2026-01-13\n⏰ 申购截止: 2026-01-08\n💰 价格区间: 12.26\n💵 发行价: 12.260\n📊 发行股数: 0.98亿股\n🏢 市场: 主板\n🏛️ 保荐人: 建银国际\n🔗 参考公司: 顺丰\n2. 兆易创新 (03986) [主板]\n   📅 IPO周期: 2025-12-31 至 2026-01-13\n⏰ 申购截止: 2026-01-08\n💰 价格区间: 162\n💵 发行价: 162.000\n📊 发行股数: 6.96亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 闻泰科技\n🟢 绿鞋: 150.00%\n3. BBSB INTL (08610) [创业板]\n   📅 IPO周期: 2025-12-31 至 2026-01-13\n⏰ 申购截止: 2026-01-08\n💰 价格区间: 0.6-0.7\n💵 发行价: 0.600\n📊 发行股数: 5.00亿股\n🏢 市场: 创业板\n🏛️ 保荐人: 力高企业\n🔗 参考公司: 荣利营造
+CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-01-14 至 2026-01-22\n⏰ 申购截止: 2026-01-19\n💰 价格区间: 31\n📊 发行股数: 5.22亿股\n🏢 市场: 主板\n🏛️ 保荐人: 花旗\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
-DTSTART:20251231T000000Z
-SUMMARY:HK IPO Day: 3 Companies Listing
-UID:dc9bd05a-12b4-4bee-b11a-1f30f782a2b3@dc9b.org
+DTSTART:20260114T000000Z
+SUMMARY:HK IPO: 龙旗科技 (09611) [主板]
+UID:1d7c033b-35dd-48dc-92d2-d06bd71dcf14@1d7c.org
 END:VEVENT
 END:VCALENDAR

@@ -4,20 +4,15 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 龙旗科技 (09611) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 龙旗科技 (09611) [主板]
+DESCRIPTION:今天: HK IPO: 龙旗科技 (09611) [主板]
 TRIGGER:PT30M
 END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2026-01-14 至 2026-01-22\n⏰ 申购截止: 2026-01-19\n💰 价格区间: 31\n📊 发行股数: 5.22亿股\n🏢 市场: 主板\n🏛️ 保荐人: 花旗\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-01-14 至 2026-01-22\n⏰ 申购截止: 2026-01-19\n💰 价格区间: 31\n💵 发行价: 31.000\n📊 发行股数: 5.22亿股\n🏢 市场: 主板\n🏛️ 保荐人: 花旗\n🔗 参考公司: 富士康\n🟢 绿鞋: 150.00%
 DURATION:P1D
 DTSTART:20260114T000000Z
 SUMMARY:HK IPO: 龙旗科技 (09611) [主板]
-UID:fe81b5cb-622b-4c70-b9c7-e74053f1d334@fe81.org
+UID:77189fb8-cd80-414b-b7c6-b19d12ac6744@7718.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -35,6 +30,6 @@ DESCRIPTION:📅 IPO周期: 2026-01-20 至 2026-01-28\n⏰ 申购截止: 2026-01
 DURATION:P1D
 DTSTART:20260120T000000Z
 SUMMARY:HK IPO: 鸣鸣很忙 (01768) [主板]
-UID:d0729014-816c-4b61-8d10-cba17e8a2cf6@d072.org
+UID:a25b060e-db36-4b0c-a2b6-38e9b370b8ce@a25b.org
 END:VEVENT
 END:VCALENDAR

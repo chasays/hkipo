@@ -17,7 +17,25 @@ DESCRIPTION:📅 IPO周期: 2026-01-26 至 2026-02-03\n⏰ 申购截止: 2026-01
 DURATION:P1D
 DTSTART:20260126T000000Z
 SUMMARY:HK IPO: 东鹏饮料 (09980) [主板]
-UID:df966147-7d71-4db8-b7c5-5615469b6b53@df96.org
+UID:e98594f4-a7d9-4f61-91d9-b38f414d386a@e985.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:提醒: HK IPO: 国恩科技 (02768) [主板] 明天开始
+TRIGGER:P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO: 国恩科技 (02768) [主板]
+TRIGGER:PT30M
+END:VALARM
+CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-01-27 至 2026-02-04\n⏰ 申购截止: 2026-01-30\n💰 价格区间: 42\n📊 发行股数: 3.01亿股\n🏢 市场: 主板\n🏛️ 保荐人: 招商证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260127T000000Z
+SUMMARY:HK IPO: 国恩科技 (02768) [主板]
+UID:1de98eda-4017-4e23-aebd-a81a8a6823f7@1de9.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -31,10 +49,10 @@ DESCRIPTION:HK IPO: 鸣鸣很忙 (01768) [主板]
 TRIGGER:PT30M
 END:VALARM
 CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2026-01-20 至 2026-01-28\n⏰ 申购截止: 2026-01-23\n💰 价格区间: 229.6-236.6\n📊 发行股数: 2.14亿股\n🏢 市场: 主板\n🏛️ 保荐人: 高盛\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:📅 IPO周期: 2026-01-20 至 2026-01-28\n⏰ 申购截止: 2026-01-23\n💰 价格区间: 229.6-236.6\n💵 发行价: 236.600\n📊 发行股数: 2.14亿股\n🏢 市场: 主板\n🏛️ 保荐人: 高盛\n🔗 参考公司: 家家悦\n🟢 绿鞋: 165.00%
 DURATION:P1D
 DTSTART:20260120T000000Z
 SUMMARY:HK IPO: 鸣鸣很忙 (01768) [主板]
-UID:7710c121-f27a-4c4b-90b4-d9b08d95f310@7710.org
+UID:9eacf522-b40d-4bae-9f2b-cf13f95309ea@9eac.org
 END:VEVENT
 END:VCALENDAR

@@ -4,20 +4,15 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 东鹏饮料 (09980) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 东鹏饮料 (09980) [主板]
+DESCRIPTION:今天: HK IPO: 鸣鸣很忙 (01768) [主板]
 TRIGGER:PT30M
 END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2026-01-26 至 2026-02-03\n⏰ 申购截止: 2026-01-29\n💰 价格区间: 248\n📊 发行股数: 5.60亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-01-20 至 2026-01-28\n⏰ 申购截止: 2026-01-23\n💰 价格区间: 229.6-236.6\n💵 发行价: 236.600\n📊 发行股数: 2.14亿股\n🏢 市场: 主板\n🏛️ 保荐人: 高盛\n🔗 参考公司: 家家悦\n🟢 绿鞋: 165.00%
 DURATION:P1D
-DTSTART:20260126T000000Z
-SUMMARY:HK IPO: 东鹏饮料 (09980) [主板]
-UID:e98594f4-a7d9-4f61-91d9-b38f414d386a@e985.org
+DTSTART:20260120T000000Z
+SUMMARY:HK IPO: 鸣鸣很忙 (01768) [主板]
+UID:39942358-bdc5-4ad7-9af2-c620c1d84c7a@3994.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -35,24 +30,36 @@ DESCRIPTION:📅 IPO周期: 2026-01-27 至 2026-02-04\n⏰ 申购截止: 2026-01
 DURATION:P1D
 DTSTART:20260127T000000Z
 SUMMARY:HK IPO: 国恩科技 (02768) [主板]
-UID:1de98eda-4017-4e23-aebd-a81a8a6823f7@1de9.org
+UID:a0bb4f76-decc-4940-91f4-cc3a86be5901@a0bb.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 鸣鸣很忙 (01768) [主板] 明天开始
+DESCRIPTION:提醒: HK IPO: 东鹏饮料 (09980) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO: 鸣鸣很忙 (01768) [主板]
+DESCRIPTION:HK IPO: 东鹏饮料 (09980) [主板]
 TRIGGER:PT30M
 END:VALARM
 CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2026-01-20 至 2026-01-28\n⏰ 申购截止: 2026-01-23\n💰 价格区间: 229.6-236.6\n💵 发行价: 236.600\n📊 发行股数: 2.14亿股\n🏢 市场: 主板\n🏛️ 保荐人: 高盛\n🔗 参考公司: 家家悦\n🟢 绿鞋: 165.00%
+DESCRIPTION:📅 IPO周期: 2026-01-26 至 2026-02-03\n⏰ 申购截止: 2026-01-29\n💰 价格区间: 248\n📊 发行股数: 5.60亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
-DTSTART:20260120T000000Z
-SUMMARY:HK IPO: 鸣鸣很忙 (01768) [主板]
-UID:9eacf522-b40d-4bae-9f2b-cf13f95309ea@9eac.org
+DTSTART:20260126T000000Z
+SUMMARY:HK IPO: 东鹏饮料 (09980) [主板]
+UID:03d17764-67fc-4394-baa5-50d9fc8794b2@03d1.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 3 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共3家公司上市:\n1. 卓正医疗 (02677) [主板]\n   📅 IPO周期: 2026-01-29 至 2026-02-06\n⏰ 申购截止: 2026-02-03\n💰 价格区间: 57.7-66.6\n📊 发行股数: 0.64亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰海通\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 牧原股份 (02714) [主板]\n   📅 IPO周期: 2026-01-29 至 2026-02-06\n⏰ 申购截止: 2026-02-03\n💰 价格区间: 39\n🏢 市场: 主板\n🏛️ 保荐人: 大摩\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 大族数控 (03200) [主板]\n   📅 IPO周期: 2026-01-29 至 2026-02-06\n⏰ 申购截止: 2026-02-03\n💰 价格区间: 95.80\n📊 发行股数: 4.75亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260129T000000Z
+SUMMARY:HK IPO Day: 3 Companies Listing
+UID:699461b8-15e8-46f7-bd6d-863de804d4df@6994.org
 END:VEVENT
 END:VCALENDAR

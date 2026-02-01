@@ -17,7 +17,7 @@ DESCRIPTION:📅 IPO周期: 2026-01-26 至 2026-02-03\n⏰ 申购截止: 2026-01
 DURATION:P1D
 DTSTART:20260126T000000Z
 SUMMARY:HK IPO: 东鹏饮料 (09980) [主板]
-UID:36e2db1e-7645-4b6a-82a4-1aa4337d9792@36e2.org
+UID:e834a86e-64d7-4857-b295-1b3f1141df57@e834.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -35,19 +35,7 @@ DESCRIPTION:📅 IPO周期: 2026-01-27 至 2026-02-04\n⏰ 申购截止: 2026-01
 DURATION:P1D
 DTSTART:20260127T000000Z
 SUMMARY:HK IPO: 国恩科技 (02768) [主板]
-UID:a53a7b05-41dc-4226-82df-57a249e62fe1@a53a.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 爱芯元智 (00600) [主板]\n   📅 IPO周期: 2026-01-30 至 2026-02-10\n⏰ 申购截止: 2026-02-05\n💰 价格区间: 28.2\n📊 发行股数: 5.87亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 澜起科技 (06809) [主板]\n   📅 IPO周期: 2026-01-30 至 2026-02-09\n⏰ 申购截止: 2026-02-04\n💰 价格区间: 106.89\n📊 发行股数: 12.12亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260130T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:1f0867a9-07ec-4c7d-88b8-1d5f0713c9c9@1f08.org
+UID:244f8282-faef-4bf3-af13-8b2fb5c8ecbb@244f.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -59,6 +47,18 @@ DESCRIPTION:共3家公司上市:\n1. 卓正医疗 (02677) [主板]\n   📅 IPO�
 DURATION:P1D
 DTSTART:20260129T000000Z
 SUMMARY:HK IPO Day: 3 Companies Listing
-UID:d5832f42-8f7f-4f55-a247-89dd291fdb26@d583.org
+UID:0e808b95-0098-444c-b8eb-e7b299452bb4@0e80.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 爱芯元智 (00600) [主板]\n   📅 IPO周期: 2026-01-30 至 2026-02-10\n⏰ 申购截止: 2026-02-05\n💰 价格区间: 28.2\n📊 发行股数: 5.87亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 澜起科技 (06809) [主板]\n   📅 IPO周期: 2026-01-30 至 2026-02-09\n⏰ 申购截止: 2026-02-04\n💰 价格区间: 106.89\n📊 发行股数: 12.12亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260130T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:3ffc4fe9-5812-4da3-92cf-271a40a259a0@3ffc.org
 END:VEVENT
 END:VCALENDAR

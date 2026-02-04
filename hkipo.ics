@@ -4,18 +4,6 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 爱芯元智 (00600) [主板]\n   📅 IPO周期: 2026-01-30 至 2026-02-10\n⏰ 申购截止: 2026-02-05\n💰 价格区间: 28.2\n📊 发行股数: 5.87亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 澜起科技 (06809) [主板]\n   📅 IPO周期: 2026-01-30 至 2026-02-09\n⏰ 申购截止: 2026-02-04\n💰 价格区间: 106.89\n📊 发行股数: 12.12亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260130T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:e2418e39-3868-49e7-9a6a-976049c0884a@e241.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
 DESCRIPTION:提醒: HK IPO: 先导智能 (00470) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
@@ -29,25 +17,7 @@ DESCRIPTION:📅 IPO周期: 2026-02-03 至 2026-02-11\n⏰ 申购截止: 2026-02
 DURATION:P1D
 DTSTART:20260203T000000Z
 SUMMARY:HK IPO: 先导智能 (00470) [主板]
-UID:fc8b3fde-945b-4619-b5c0-f237034edc76@fc8b.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 国恩科技 (02768) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 国恩科技 (02768) [主板]
-TRIGGER:PT30M
-END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2026-01-27 至 2026-02-04\n⏰ 申购截止: 2026-01-30\n💰 价格区间: 42\n💵 发行价: 36.000\n📊 发行股数: 3.01亿股\n🏢 市场: 主板\n🏛️ 保荐人: 招商证券\n🔗 参考公司: 道恩股份
-DURATION:P1D
-DTSTART:20260127T000000Z
-SUMMARY:HK IPO: 国恩科技 (02768) [主板]
-UID:fc2effc1-88da-4999-9b12-63bc0de560a1@fc2e.org
+UID:1ab9fb48-79be-43dc-b44a-beee7b49b95a@1ab9.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -59,7 +29,7 @@ DESCRIPTION:共3家公司上市:\n1. 卓正医疗 (02677) [主板]\n   📅 IPO�
 DURATION:P1D
 DTSTART:20260129T000000Z
 SUMMARY:HK IPO Day: 3 Companies Listing
-UID:a2aab88e-f4c9-46e7-a80c-7b10334a5c6f@a2aa.org
+UID:3d9e1945-e8b0-4287-8ba7-c2ef62095bf1@3d9e.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -77,19 +47,31 @@ DESCRIPTION:📅 IPO周期: 2026-02-02 至 2026-02-10\n⏰ 申购截止: 2026-02
 DURATION:P1D
 DTSTART:20260202T000000Z
 SUMMARY:HK IPO: 乐欣户外 (02720) [主板]
-UID:64545f80-0bee-45e1-8030-bf28f448fbbb@6454.org
+UID:4b824583-591c-4790-93dd-34febdbcfc8f@4b82.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:今天: HK IPO: 东鹏饮料 (09980) [主板]
+DESCRIPTION:今天: HK IPO: 国恩科技 (02768) [主板]
 TRIGGER:PT30M
 END:VALARM
 CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2026-01-26 至 2026-02-03\n⏰ 申购截止: 2026-01-29\n💰 价格区间: 248\n💵 发行价: 248.000\n📊 发行股数: 5.60亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: 农夫山泉\n🟢 绿鞋: 150.00%
+DESCRIPTION:📅 IPO周期: 2026-01-27 至 2026-02-04\n⏰ 申购截止: 2026-01-30\n💰 价格区间: 42\n💵 发行价: 36.000\n📊 发行股数: 3.01亿股\n🏢 市场: 主板\n🏛️ 保荐人: 招商证券\n🔗 参考公司: 道恩股份
 DURATION:P1D
-DTSTART:20260126T000000Z
-SUMMARY:HK IPO: 东鹏饮料 (09980) [主板]
-UID:5609183a-5e43-4df9-9794-1ce7b7554bee@5609.org
+DTSTART:20260127T000000Z
+SUMMARY:HK IPO: 国恩科技 (02768) [主板]
+UID:4539e801-c8a1-48c1-9658-de2a90eaade7@4539.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 爱芯元智 (00600) [主板]\n   📅 IPO周期: 2026-01-30 至 2026-02-10\n⏰ 申购截止: 2026-02-05\n💰 价格区间: 28.2\n📊 发行股数: 5.87亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 澜起科技 (06809) [主板]\n   📅 IPO周期: 2026-01-30 至 2026-02-09\n⏰ 申购截止: 2026-02-04\n💰 价格区间: 106.89\n📊 发行股数: 12.12亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260130T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:ea80e652-6f29-44ee-ae4d-fd8f1b48382f@ea80.org
 END:VEVENT
 END:VCALENDAR

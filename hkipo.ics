@@ -4,36 +4,6 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 乐欣户外 (02720) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 乐欣户外 (02720) [主板]
-TRIGGER:PT30M
-END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2026-02-02 至 2026-02-10\n⏰ 申购截止: 2026-02-05\n💰 价格区间: 11.25-12.25\n📊 发行股数: 1.28亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260202T000000Z
-SUMMARY:HK IPO: 乐欣户外 (02720) [主板]
-UID:59197281-1517-4490-8c72-6a414db676ca@5919.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 海致科技集团 (02706) [主板]\n   📅 IPO周期: 2026-02-05 至 2026-02-13\n⏰ 申购截止: 2026-02-10\n💰 价格区间: 25.6-28\n📊 发行股数: 4.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 招银国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 沃尔核材 (09981) [主板]\n   📅 IPO周期: 2026-02-05 至 2026-02-13\n⏰ 申购截止: 2026-02-10\n💰 价格区间: 20.09\n📊 发行股数: 13.99亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信建投\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260205T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:c0cb2a5e-90a4-490a-8df5-ef9c9b360ae3@c0cb.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
 DESCRIPTION:提醒: HK IPO: 先导智能 (00470) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
@@ -47,19 +17,7 @@ DESCRIPTION:📅 IPO周期: 2026-02-03 至 2026-02-11\n⏰ 申购截止: 2026-02
 DURATION:P1D
 DTSTART:20260203T000000Z
 SUMMARY:HK IPO: 先导智能 (00470) [主板]
-UID:435ea08f-9355-42aa-8958-a784fd5e792c@435e.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 3 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共3家公司上市:\n1. 卓正医疗 (02677) [主板]\n   📅 IPO周期: 2026-01-29 至 2026-02-06\n⏰ 申购截止: 2026-02-03\n💰 价格区间: 57.7-66.6\n💵 发行价: 59.900\n📊 发行股数: 0.64亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰海通\n🔗 参考公司: 康宁医院\n🟢 绿鞋: 150.00%\n2. 牧原股份 (02714) [主板]\n   📅 IPO周期: 2026-01-29 至 2026-02-06\n⏰ 申购截止: 2026-02-03\n💰 价格区间: 39\n💵 发行价: 39.000\n📊 发行股数: 57.36亿股\n🏢 市场: 主板\n🏛️ 保荐人: 大摩\n🔗 参考公司: 新希望\n🟢 绿鞋: 150.00%\n3. 大族数控 (03200) [主板]\n   📅 IPO周期: 2026-01-29 至 2026-02-06\n⏰ 申购截止: 2026-02-03\n💰 价格区间: 95.80\n💵 发行价: 95.800\n📊 发行股数: 4.75亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 豪迈科技\n🟢 绿鞋: 150.00%
-DURATION:P1D
-DTSTART:20260129T000000Z
-SUMMARY:HK IPO Day: 3 Companies Listing
-UID:02d585fe-bb86-4168-a15f-330b01456a14@02d5.org
+UID:e00741c6-7d2a-4297-8841-f5d8306d163d@e007.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -71,6 +29,48 @@ DESCRIPTION:共2家公司上市:\n1. 爱芯元智 (00600) [主板]\n   📅 IPO�
 DURATION:P1D
 DTSTART:20260130T000000Z
 SUMMARY:HK IPO Day: 2 Companies Listing
-UID:5bdc27da-dee5-492c-ab62-56d32171c82e@5bdc.org
+UID:f7151c16-b2aa-4a3c-9e8d-b1c97b27b4bd@f715.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:提醒: HK IPO: 乐欣户外 (02720) [主板] 明天开始
+TRIGGER:P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO: 乐欣户外 (02720) [主板]
+TRIGGER:PT30M
+END:VALARM
+CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-02-02 至 2026-02-10\n⏰ 申购截止: 2026-02-05\n💰 价格区间: 11.25-12.25\n📊 发行股数: 1.28亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260202T000000Z
+SUMMARY:HK IPO: 乐欣户外 (02720) [主板]
+UID:e71f6df2-2e45-48fb-b8e5-18a3f57c0a7e@e71f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 3 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共3家公司上市:\n1. 卓正医疗 (02677) [主板]\n   📅 IPO周期: 2026-01-29 至 2026-02-06\n⏰ 申购截止: 2026-02-03\n💰 价格区间: 57.7-66.6\n💵 发行价: 59.900\n📊 发行股数: 0.64亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰海通\n🔗 参考公司: 康宁医院\n🟢 绿鞋: 150.00%\n2. 牧原股份 (02714) [主板]\n   📅 IPO周期: 2026-01-29 至 2026-02-06\n⏰ 申购截止: 2026-02-03\n💰 价格区间: 39\n💵 发行价: 39.000\n📊 发行股数: 57.36亿股\n🏢 市场: 主板\n🏛️ 保荐人: 大摩\n🔗 参考公司: 新希望\n🟢 绿鞋: 150.00%\n3. 大族数控 (03200) [主板]\n   📅 IPO周期: 2026-01-29 至 2026-02-06\n⏰ 申购截止: 2026-02-03\n💰 价格区间: 95.80\n💵 发行价: 95.800\n📊 发行股数: 4.75亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 豪迈科技\n🟢 绿鞋: 150.00%
+DURATION:P1D
+DTSTART:20260129T000000Z
+SUMMARY:HK IPO Day: 3 Companies Listing
+UID:ecbefabc-b3f3-41e0-9297-df020ac8b325@ecbe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 海致科技集团 (02706) [主板]\n   📅 IPO周期: 2026-02-05 至 2026-02-13\n⏰ 申购截止: 2026-02-10\n💰 价格区间: 25.6-28\n📊 发行股数: 4.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 招银国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 沃尔核材 (09981) [主板]\n   📅 IPO周期: 2026-02-05 至 2026-02-13\n⏰ 申购截止: 2026-02-10\n💰 价格区间: 20.09\n📊 发行股数: 13.99亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信建投\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260205T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:736cb1d4-eea9-4155-ab3c-4e02c17b0ae0@736c.org
 END:VEVENT
 END:VCALENDAR

@@ -4,24 +4,6 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 乐欣户外 (02720) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 乐欣户外 (02720) [主板]
-TRIGGER:PT30M
-END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2026-02-02 至 2026-02-10\n⏰ 申购截止: 2026-02-05\n💰 价格区间: 11.25-12.25\n📊 发行股数: 1.28亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260202T000000Z
-SUMMARY:HK IPO: 乐欣户外 (02720) [主板]
-UID:dce837fb-f22b-4f19-bbee-5cbf6e90a4c8@dce8.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
 DESCRIPTION:HK IPO Day: 2 Companies Listing
 TRIGGER:PT30M
 END:VALARM
@@ -29,19 +11,7 @@ DESCRIPTION:共2家公司上市:\n1. 海致科技集团 (02706) [主板]\n   �
 DURATION:P1D
 DTSTART:20260205T000000Z
 SUMMARY:HK IPO Day: 2 Companies Listing
-UID:87afead4-ce7c-4b8b-a5e9-7dd9bf12db98@87af.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 爱芯元智 (00600) [主板]\n   📅 IPO周期: 2026-01-30 至 2026-02-10\n⏰ 申购截止: 2026-02-05\n💰 价格区间: 28.2\n📊 发行股数: 5.87亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 澜起科技 (06809) [主板]\n   📅 IPO周期: 2026-01-30 至 2026-02-09\n⏰ 申购截止: 2026-02-04\n💰 价格区间: 106.89\n📊 发行股数: 12.12亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260130T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:c4a98fc6-d0f8-4052-9fe6-8af5588a50b9@c4a9.org
+UID:24865163-d558-49fb-8c90-6c7da2300a84@2486.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -59,6 +29,36 @@ DESCRIPTION:📅 IPO周期: 2026-02-03 至 2026-02-11\n⏰ 申购截止: 2026-02
 DURATION:P1D
 DTSTART:20260203T000000Z
 SUMMARY:HK IPO: 先导智能 (00470) [主板]
-UID:52bacedc-d0c8-49e0-a5ea-fffdba7d5912@52ba.org
+UID:ce2c7011-bd3c-43e5-87cf-fe9c04fe98d4@ce2c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:提醒: HK IPO: 乐欣户外 (02720) [主板] 明天开始
+TRIGGER:P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO: 乐欣户外 (02720) [主板]
+TRIGGER:PT30M
+END:VALARM
+CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-02-02 至 2026-02-10\n⏰ 申购截止: 2026-02-05\n💰 价格区间: 11.25-12.25\n💵 发行价: 12.250\n📊 发行股数: 1.28亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 光威复材
+DURATION:P1D
+DTSTART:20260202T000000Z
+SUMMARY:HK IPO: 乐欣户外 (02720) [主板]
+UID:ac7f2853-dcd7-4951-8efa-ed35a23174f5@ac7f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 爱芯元智 (00600) [主板]\n   📅 IPO周期: 2026-01-30 至 2026-02-10\n⏰ 申购截止: 2026-02-05\n💰 价格区间: 28.2\n💵 发行价: 28.200\n📊 发行股数: 5.87亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 中微半导\n🟢 绿鞋: 150.00%\n2. 澜起科技 (06809) [主板]\n   📅 IPO周期: 2026-01-30 至 2026-02-09\n⏰ 申购截止: 2026-02-04\n💰 价格区间: 106.89\n💵 发行价: 106.890\n📊 发行股数: 12.12亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 中微半导\n🟢 绿鞋: 150.00%
+DURATION:P1D
+DTSTART:20260130T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:30042795-363c-418d-a8f8-05dff28ec474@3004.org
 END:VEVENT
 END:VCALENDAR

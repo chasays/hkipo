@@ -7,10 +7,10 @@ ACTION:DISPLAY
 DESCRIPTION:HK IPO Day: 2 Companies Listing
 TRIGGER:PT30M
 END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 海致科技集团 (02706) [主板]\n   📅 IPO周期: 2026-02-05 至 2026-02-13\n⏰ 申购截止: 2026-02-10\n💰 价格区间: 25.6-28\n📊 发行股数: 4.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 招银国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 沃尔核材 (09981) [主板]\n   📅 IPO周期: 2026-02-05 至 2026-02-13\n⏰ 申购截止: 2026-02-10\n💰 价格区间: 20.09\n📊 发行股数: 13.99亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信建投\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:共2家公司上市:\n1. 海致科技集团 (02706) [主板]\n   📅 IPO周期: 2026-02-05 至 2026-02-13\n⏰ 申购截止: 2026-02-10\n💰 价格区间: 25.6-28\n💵 发行价: 27.060\n📊 发行股数: 4.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 招银国际\n🔗 参考公司: MINIMAX-WP\n2. 沃尔核材 (09981) [主板]\n   📅 IPO周期: 2026-02-05 至 2026-02-13\n⏰ 申购截止: 2026-02-10\n💰 价格区间: 20.09\n💵 发行价: 20.090\n📊 发行股数: 13.99亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信建投\n🔗 参考公司: 伊戈尔
 DURATION:P1D
 DTSTART:20260205T000000Z
 SUMMARY:HK IPO Day: 2 Companies Listing
-UID:8fbe1126-c84f-4df2-a95e-a1d028834937@8fbe.org
+UID:af9132a9-c2a0-4984-917d-e561028621b9@af91.org
 END:VEVENT
 END:VCALENDAR

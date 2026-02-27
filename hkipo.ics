@@ -4,13 +4,13 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
+DESCRIPTION:HK IPO Day: 4 Companies Listing
 TRIGGER:PT30M
 END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 海致科技集团 (02706) [主板]\n   📅 IPO周期: 2026-02-05 至 2026-02-13\n⏰ 申购截止: 2026-02-10\n💰 价格区间: 25.6-28\n💵 发行价: 27.060\n📊 发行股数: 4.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 招银国际\n🔗 参考公司: MINIMAX-WP\n2. 沃尔核材 (09981) [主板]\n   📅 IPO周期: 2026-02-05 至 2026-02-13\n⏰ 申购截止: 2026-02-10\n💰 价格区间: 20.09\n💵 发行价: 20.090\n📊 发行股数: 13.99亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信建投\n🔗 参考公司: 伊戈尔
+DESCRIPTION:共4家公司上市:\n1. 美格智能 (03268) [主板]\n   📅 IPO周期: 2026-02-27 至 2026-03-10\n⏰ 申购截止: 2026-03-05\n💰 价格区间: 28.86\n📊 发行股数: 2.96亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 优乐赛共享 (02649) [主板]\n   📅 IPO周期: 2026-02-27 至 2026-03-09\n⏰ 申购截止: 2026-03-04\n💰 价格区间: 11-14\n📊 发行股数: 0.90亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信建投\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 兆威机电 (02692) [主板]\n   📅 IPO周期: 2026-02-27 至 2026-03-09\n⏰ 申购截止: 2026-03-04\n💰 价格区间: 73.68\n📊 发行股数: 2.67亿股\n🏢 市场: 主板\n🏛️ 保荐人: 招商证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n4. 埃斯顿 (02715) [主板]\n   📅 IPO周期: 2026-02-27 至 2026-03-09\n⏰ 申购截止: 2026-03-04\n💰 价格区间: 15.36-17\n📊 发行股数: 9.67亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
-DTSTART:20260205T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:af9132a9-c2a0-4984-917d-e561028621b9@af91.org
+DTSTART:20260227T000000Z
+SUMMARY:HK IPO Day: 4 Companies Listing
+UID:937d8282-ab34-4dde-aab5-d5c63ddda985@937d.org
 END:VEVENT
 END:VCALENDAR

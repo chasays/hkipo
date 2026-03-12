@@ -4,14 +4,19 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:今天: HK IPO: 美格智能 (03268) [主板]
+DESCRIPTION:提醒: HK IPO: 广合科技 (01989) [主板] 明天开始
+TRIGGER:P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO: 广合科技 (01989) [主板]
 TRIGGER:PT30M
 END:VALARM
-CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2026-02-27 至 2026-03-10\n⏰ 申购截止: 2026-03-05\n💰 价格区间: 28.86\n💵 发行价: 28.860\n📊 发行股数: 2.96亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 剑桥科技\n🟢 绿鞋: 150.00%
+CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-03-12 至 2026-03-20\n⏰ 申购截止: 2026-03-17\n💰 价格区间: 71.88\n📊 发行股数: 4.72亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
-DTSTART:20260227T000000Z
-SUMMARY:HK IPO: 美格智能 (03268) [主板]
-UID:fd82cca0-0c9a-4b82-8dca-97462616db44@fd82.org
+DTSTART:20260312T000000Z
+SUMMARY:HK IPO: 广合科技 (01989) [主板]
+UID:d31e7325-6b37-471c-9af9-c1a055bd0b2b@d31e.org
 END:VEVENT
 END:VCALENDAR

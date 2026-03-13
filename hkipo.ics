@@ -17,6 +17,18 @@ DESCRIPTION:📅 IPO周期: 2026-03-12 至 2026-03-20\n⏰ 申购截止: 2026-03
 DURATION:P1D
 DTSTART:20260312T000000Z
 SUMMARY:HK IPO: 广合科技 (01989) [主板]
-UID:d31e7325-6b37-471c-9af9-c1a055bd0b2b@d31e.org
+UID:3f2e8aae-9d36-4b11-96ad-165a5a32843f@3f2e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 国民技术 (02701) [主板]\n   📅 IPO周期: 2026-03-13 至 2026-03-23\n⏰ 申购截止: 2026-03-18\n💰 价格区间: 10.80\n📊 发行股数: 6.78亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 飞速创新 (03355) [主板]\n   📅 IPO周期: 2026-03-13 至 2026-03-23\n⏰ 申购截止: 2026-03-18\n💰 价格区间: 35.20-41.6\n📊 发行股数: 4.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260313T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:a8cc3fdd-d4b5-4391-b0bd-ea71ae1300e8@a8cc.org
 END:VEVENT
 END:VCALENDAR

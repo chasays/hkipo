@@ -4,6 +4,18 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 国民技术 (02701) [主板]\n   📅 IPO周期: 2026-03-13 至 2026-03-23\n⏰ 申购截止: 2026-03-18\n💰 价格区间: 10.80\n📊 发行股数: 6.78亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 飞速创新 (03355) [主板]\n   📅 IPO周期: 2026-03-13 至 2026-03-23\n⏰ 申购截止: 2026-03-18\n💰 价格区间: 35.20-41.6\n📊 发行股数: 4.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260313T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:c74e909c-c6d3-47b3-b9c4-f150a98acaac@c74e.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
 DESCRIPTION:提醒: HK IPO: 广合科技 (01989) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
@@ -17,18 +29,6 @@ DESCRIPTION:📅 IPO周期: 2026-03-12 至 2026-03-20\n⏰ 申购截止: 2026-03
 DURATION:P1D
 DTSTART:20260312T000000Z
 SUMMARY:HK IPO: 广合科技 (01989) [主板]
-UID:f063d904-0992-4e2f-b5fb-8ba510788a43@f063.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 国民技术 (02701) [主板]\n   📅 IPO周期: 2026-03-13 至 2026-03-23\n⏰ 申购截止: 2026-03-18\n💰 价格区间: 10.80\n📊 发行股数: 6.78亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 飞速创新 (03355) [主板]\n   📅 IPO周期: 2026-03-13 至 2026-03-23\n⏰ 申购截止: 2026-03-18\n💰 价格区间: 35.20-41.6\n📊 发行股数: 4.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260313T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:60a2e73e-94c3-4e94-98cb-3dacf66697e0@60a2.org
+UID:d64fee12-6ba6-4fcd-bab5-64b682cb8f21@d64f.org
 END:VEVENT
 END:VCALENDAR

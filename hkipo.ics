@@ -7,11 +7,23 @@ ACTION:DISPLAY
 DESCRIPTION:HK IPO Day: 2 Companies Listing
 TRIGGER:PT30M
 END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 国民技术 (02701) [主板]\n   📅 IPO周期: 2026-03-13 至 2026-03-23\n⏰ 申购截止: 2026-03-18\n💰 价格区间: 10.80\n📊 发行股数: 6.78亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 飞速创新 (03355) [主板]\n   📅 IPO周期: 2026-03-13 至 2026-03-23\n⏰ 申购截止: 2026-03-18\n💰 价格区间: 35.20-41.6\n📊 发行股数: 4.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260313T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:20872180-96f4-4729-8681-23b0361f74f0@2087.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
 DESCRIPTION:共2家公司上市:\n1. 泽景股份 (02632) [主板]\n   📅 IPO周期: 2026-03-16 至 2026-03-24\n⏰ 申购截止: 2026-03-19\n💰 价格区间: 42-48\n📊 发行股数: 1.23亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰海通\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 凯乐士科技 (02729) [主板]\n   📅 IPO周期: 2026-03-16 至 2026-03-24\n⏰ 申购截止: 2026-03-19\n💰 价格区间: 16.4-20.4\n📊 发行股数: 4.27亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
 DTSTART:20260316T000000Z
 SUMMARY:HK IPO Day: 2 Companies Listing
-UID:09c73856-81b7-4205-b122-afcd3f517f48@09c7.org
+UID:81399930-2786-4be0-8112-0394f4552671@8139.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -29,18 +41,6 @@ DESCRIPTION:📅 IPO周期: 2026-03-12 至 2026-03-20\n⏰ 申购截止: 2026-03
 DURATION:P1D
 DTSTART:20260312T000000Z
 SUMMARY:HK IPO: 广合科技 (01989) [主板]
-UID:cece2b09-1a84-4263-a520-af9ee5c93e0b@cece.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 国民技术 (02701) [主板]\n   📅 IPO周期: 2026-03-13 至 2026-03-23\n⏰ 申购截止: 2026-03-18\n💰 价格区间: 10.80\n📊 发行股数: 6.78亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 飞速创新 (03355) [主板]\n   📅 IPO周期: 2026-03-13 至 2026-03-23\n⏰ 申购截止: 2026-03-18\n💰 价格区间: 35.20-41.6\n📊 发行股数: 4.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260313T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:e9362c91-a033-426a-a52d-03e6eff94abb@e936.org
+UID:78c2f21c-23a9-477d-ad98-14ba1ccd9af4@78c2.org
 END:VEVENT
 END:VCALENDAR

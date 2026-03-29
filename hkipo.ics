@@ -4,18 +4,6 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 铜师傅 (00664) [主板]\n   📅 IPO周期: 2026-03-23 至 2026-03-31\n⏰ 申购截止: 2026-03-26\n💰 价格区间: 60-68\n📊 发行股数: 0.64亿股\n🏢 市场: 主板\n🏛️ 保荐人: 招银国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 傅里叶 (03625) [主板]\n   📅 IPO周期: 2026-03-23 至 2026-03-31\n⏰ 申购截止: 2026-03-26\n💰 价格区间: 40-50\n📊 发行股数: 1.12亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰君安\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260323T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:aac1e138-5531-4116-b8c8-da580e3068dc@aac1.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
 DESCRIPTION:HK IPO Day: 5 Companies Listing
 TRIGGER:PT30M
 END:VALARM
@@ -23,6 +11,18 @@ DESCRIPTION:共5家公司上市:\n1. 华沿机器人 (01021) [主板]\n   📅 I
 DURATION:P1D
 DTSTART:20260320T000000Z
 SUMMARY:HK IPO Day: 5 Companies Listing
-UID:4a12db8e-59a3-4766-8efa-60374378c1bd@4a12.org
+UID:7a1d493a-47d2-4b73-a32c-4b7d965a69dc@7a1d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 铜师傅 (00664) [主板]\n   📅 IPO周期: 2026-03-23 至 2026-03-31\n⏰ 申购截止: 2026-03-26\n💰 价格区间: 60-68\n📊 发行股数: 0.64亿股\n🏢 市场: 主板\n🏛️ 保荐人: 招银国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 傅里叶 (03625) [主板]\n   📅 IPO周期: 2026-03-23 至 2026-03-31\n⏰ 申购截止: 2026-03-26\n💰 价格区间: 40-50\n📊 发行股数: 1.12亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰君安\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260323T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:a5233605-27c9-4277-97f3-2a7c1e5c9fb0@a523.org
 END:VEVENT
 END:VCALENDAR

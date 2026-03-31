@@ -4,25 +4,13 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 4 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共4家公司上市:\n1. 华沿机器人 (01021) [主板]\n   📅 IPO周期: 2026-03-20 至 2026-03-30\n⏰ 申购截止: 2026-03-25\n💰 价格区间: 17\n💵 发行价: 17.000\n📊 发行股数: 5.31亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 机器人\n🟢 绿鞋: 86.00%\n2. 德适-B (02526) [主板]\n   📅 IPO周期: 2026-03-20 至 2026-03-30\n⏰ 申购截止: 2026-03-25\n💰 价格区间: 95.6-112.5\n💵 发行价: 99.000\n📊 发行股数: 0.89亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: 威高骨科\n3. 瀚天天成 (02726) [主板]\n   📅 IPO周期: 2026-03-20 至 2026-03-30\n⏰ 申购截止: 2026-03-25\n💰 价格区间: 76.26\n💵 发行价: 76.260\n📊 发行股数: 4.25亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 天岳先进\n4. 极视角 (06636) [主板]\n   📅 IPO周期: 2026-03-20 至 2026-03-30\n⏰ 申购截止: 2026-03-25\n💰 价格区间: 40\n💵 发行价: 40.000\n📊 发行股数: 1.12亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: MINIMAX-WP
-DURATION:P1D
-DTSTART:20260320T000000Z
-SUMMARY:HK IPO Day: 4 Companies Listing
-UID:88adcb21-7d8d-430a-9f97-f8ebd7041a06@88ad.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
 DESCRIPTION:HK IPO Day: 2 Companies Listing
 TRIGGER:PT30M
 END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 铜师傅 (00664) [主板]\n   📅 IPO周期: 2026-03-23 至 2026-03-31\n⏰ 申购截止: 2026-03-26\n💰 价格区间: 60-68\n📊 发行股数: 0.64亿股\n🏢 市场: 主板\n🏛️ 保荐人: 招银国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 傅里叶 (03625) [主板]\n   📅 IPO周期: 2026-03-23 至 2026-03-31\n⏰ 申购截止: 2026-03-26\n💰 价格区间: 40-50\n📊 发行股数: 1.12亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰君安\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:共2家公司上市:\n1. 铜师傅 (00664) [主板]\n   📅 IPO周期: 2026-03-23 至 2026-03-31\n⏰ 申购截止: 2026-03-26\n💰 价格区间: 60-68\n💵 发行价: 60.000\n📊 发行股数: 0.64亿股\n🏢 市场: 主板\n🏛️ 保荐人: 招银国际\n🔗 参考公司: 元隆雅图\n2. 傅里叶 (03625) [主板]\n   📅 IPO周期: 2026-03-23 至 2026-03-31\n⏰ 申购截止: 2026-03-26\n💰 价格区间: 40-50\n💵 发行价: 40.000\n📊 发行股数: 1.12亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰君安\n🔗 参考公司: 闻泰科技
 DURATION:P1D
 DTSTART:20260323T000000Z
 SUMMARY:HK IPO Day: 2 Companies Listing
-UID:2e3b41d5-ac15-41bd-bc28-63de33d72dd1@2e3b.org
+UID:ab619972-16b2-45a3-b773-6872e5c86ab2@ab61.org
 END:VEVENT
 END:VCALENDAR

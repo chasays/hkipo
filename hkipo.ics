@@ -4,13 +4,19 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
+DESCRIPTION:提醒: HK IPO: 思格新能 (06656) [主板] 明天开始
+TRIGGER:P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO: 思格新能 (06656) [主板]
 TRIGGER:PT30M
 END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 铜师傅 (00664) [主板]\n   📅 IPO周期: 2026-03-23 至 2026-03-31\n⏰ 申购截止: 2026-03-26\n💰 价格区间: 60-68\n💵 发行价: 60.000\n📊 发行股数: 0.64亿股\n🏢 市场: 主板\n🏛️ 保荐人: 招银国际\n🔗 参考公司: 元隆雅图\n2. 傅里叶 (03625) [主板]\n   📅 IPO周期: 2026-03-23 至 2026-03-31\n⏰ 申购截止: 2026-03-26\n💰 价格区间: 40-50\n💵 发行价: 40.000\n📊 发行股数: 1.12亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰君安\n🔗 参考公司: 闻泰科技
+CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-04-08 至 2026-04-16\n⏰ 申购截止: 2026-04-13\n💰 价格区间: 324.20\n📊 发行股数: 2.46亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
-DTSTART:20260323T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:ab619972-16b2-45a3-b773-6872e5c86ab2@ab61.org
+DTSTART:20260408T000000Z
+SUMMARY:HK IPO: 思格新能 (06656) [主板]
+UID:627c2d9a-f421-4d2b-a713-a2ca1e29de55@627c.org
 END:VEVENT
 END:VCALENDAR

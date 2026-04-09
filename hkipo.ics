@@ -17,6 +17,18 @@ DESCRIPTION:📅 IPO周期: 2026-04-08 至 2026-04-16\n⏰ 申购截止: 2026-04
 DURATION:P1D
 DTSTART:20260408T000000Z
 SUMMARY:HK IPO: 思格新能 (06656) [主板]
-UID:627c2d9a-f421-4d2b-a713-a2ca1e29de55@627c.org
+UID:632511ca-f27f-4868-b9d3-01d21f7481e1@6325.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. MANYCORE TECH (00068) [主板]\n   📅 IPO周期: 2026-04-09 至 2026-04-17\n⏰ 申购截止: 2026-04-14\n💰 价格区间: 6.72-7.62\n📊 发行股数: 17.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 摩根大通\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 长光辰芯 (03277) [主板]\n   📅 IPO周期: 2026-04-09 至 2026-04-17\n⏰ 申购截止: 2026-04-14\n💰 价格区间: 39.88\n📊 发行股数: 4.35亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260409T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:2b60b835-827a-4f70-9684-aea639200ac9@2b60.org
 END:VEVENT
 END:VCALENDAR

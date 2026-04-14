@@ -17,19 +17,7 @@ DESCRIPTION:📅 IPO周期: 2026-04-08 至 2026-04-16\n⏰ 申购截止: 2026-04
 DURATION:P1D
 DTSTART:20260408T000000Z
 SUMMARY:HK IPO: 思格新能 (06656) [主板]
-UID:133acd54-5008-41cf-bdf2-148f7f8d97df@133a.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. MANYCORE TECH (00068) [主板]\n   📅 IPO周期: 2026-04-09 至 2026-04-17\n⏰ 申购截止: 2026-04-14\n💰 价格区间: 6.72-7.62\n📊 发行股数: 17.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 摩根大通\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 长光辰芯 (03277) [主板]\n   📅 IPO周期: 2026-04-09 至 2026-04-17\n⏰ 申购截止: 2026-04-14\n💰 价格区间: 39.88\n📊 发行股数: 4.35亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260409T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:6107b0dd-5e09-4397-b0a0-f26804de436a@6107.org
+UID:e0bbcb75-3c30-4c26-a4ee-47babe2f9d7b@e0bb.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -47,6 +35,18 @@ DESCRIPTION:📅 IPO周期: 2026-04-13 至 2026-04-21\n⏰ 申购截止: 2026-04
 DURATION:P1D
 DTSTART:20260413T000000Z
 SUMMARY:HK IPO: 胜宏科技 (02476) [主板]
-UID:a250eb1a-350b-4688-b6aa-72a224e8019b@a250.org
+UID:41fdd2e6-f51a-4afb-8453-d388afc83919@41fd.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. MANYCORE TECH (00068) [主板]\n   📅 IPO周期: 2026-04-09 至 2026-04-17\n⏰ 申购截止: 2026-04-14\n💰 价格区间: 6.72-7.62\n📊 发行股数: 17.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 摩根大通\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 长光辰芯 (03277) [主板]\n   📅 IPO周期: 2026-04-09 至 2026-04-17\n⏰ 申购截止: 2026-04-14\n💰 价格区间: 39.88\n📊 发行股数: 4.35亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260409T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:e299bfd0-5d77-4ce8-ab3f-ff7e286f84e6@e299.org
 END:VEVENT
 END:VCALENDAR

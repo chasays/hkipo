@@ -4,20 +4,20 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 思格新能 (06656) [主板] 明天开始
+DESCRIPTION:提醒: HK IPO: 华勤技术 (03296) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO: 思格新能 (06656) [主板]
+DESCRIPTION:HK IPO: 华勤技术 (03296) [主板]
 TRIGGER:PT30M
 END:VALARM
 CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2026-04-08 至 2026-04-16\n⏰ 申购截止: 2026-04-13\n💰 价格区间: 324.20\n📊 发行股数: 2.46亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:📅 IPO周期: 2026-04-15 至 2026-04-23\n⏰ 申购截止: 2026-04-20\n💰 价格区间: 77.70\n📊 发行股数: 10.74亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
-DTSTART:20260408T000000Z
-SUMMARY:HK IPO: 思格新能 (06656) [主板]
-UID:e0bbcb75-3c30-4c26-a4ee-47babe2f9d7b@e0bb.org
+DTSTART:20260415T000000Z
+SUMMARY:HK IPO: 华勤技术 (03296) [主板]
+UID:1bce61f5-60d1-4976-adca-61fd7d6672fa@1bce.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -35,7 +35,7 @@ DESCRIPTION:📅 IPO周期: 2026-04-13 至 2026-04-21\n⏰ 申购截止: 2026-04
 DURATION:P1D
 DTSTART:20260413T000000Z
 SUMMARY:HK IPO: 胜宏科技 (02476) [主板]
-UID:41fdd2e6-f51a-4afb-8453-d388afc83919@41fd.org
+UID:da20490b-4904-4f3e-9a54-15c28bcac155@da20.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -47,6 +47,24 @@ DESCRIPTION:共2家公司上市:\n1. MANYCORE TECH (00068) [主板]\n   📅 IPO
 DURATION:P1D
 DTSTART:20260409T000000Z
 SUMMARY:HK IPO Day: 2 Companies Listing
-UID:e299bfd0-5d77-4ce8-ab3f-ff7e286f84e6@e299.org
+UID:1663f7c7-a7af-4f5c-9b2c-b51ee1a97eeb@1663.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:提醒: HK IPO: 思格新能 (06656) [主板] 明天开始
+TRIGGER:P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO: 思格新能 (06656) [主板]
+TRIGGER:PT30M
+END:VALARM
+CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-04-08 至 2026-04-16\n⏰ 申购截止: 2026-04-13\n💰 价格区间: 324.20\n📊 发行股数: 2.46亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260408T000000Z
+SUMMARY:HK IPO: 思格新能 (06656) [主板]
+UID:8e94814f-4efb-488f-9732-0ec0c4fefd04@8e94.org
 END:VEVENT
 END:VCALENDAR

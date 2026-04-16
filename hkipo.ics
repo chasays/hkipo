@@ -17,7 +17,32 @@ DESCRIPTION:📅 IPO周期: 2026-04-15 至 2026-04-23\n⏰ 申购截止: 2026-04
 DURATION:P1D
 DTSTART:20260415T000000Z
 SUMMARY:HK IPO: 华勤技术 (03296) [主板]
-UID:1bce61f5-60d1-4976-adca-61fd7d6672fa@1bce.org
+UID:98f3b292-ae64-4afd-b556-367c8edc3bb1@98f3.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. MANYCORE TECH (00068) [主板]\n   📅 IPO周期: 2026-04-09 至 2026-04-17\n⏰ 申购截止: 2026-04-14\n💰 价格区间: 6.72-7.62\n📊 发行股数: 17.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 摩根大通\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 长光辰芯 (03277) [主板]\n   📅 IPO周期: 2026-04-09 至 2026-04-17\n⏰ 申购截止: 2026-04-14\n💰 价格区间: 39.88\n📊 发行股数: 4.35亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260409T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:52df2476-0f56-4bb1-9fd2-b396a14f4b1e@52df.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:今天: HK IPO: 思格新能 (06656) [主板]
+TRIGGER:PT30M
+END:VALARM
+CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-04-08 至 2026-04-16\n⏰ 申购截止: 2026-04-13\n💰 价格区间: 324.20\n💵 发行价: 324.200\n📊 发行股数: 2.46亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: 阳光电源\n🟢 绿鞋: 150.00%
+DURATION:P1D
+DTSTART:20260408T000000Z
+SUMMARY:HK IPO: 思格新能 (06656) [主板]
+UID:d2762fef-5e0e-471c-aa42-4e44edf7311a@d276.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -35,36 +60,6 @@ DESCRIPTION:📅 IPO周期: 2026-04-13 至 2026-04-21\n⏰ 申购截止: 2026-04
 DURATION:P1D
 DTSTART:20260413T000000Z
 SUMMARY:HK IPO: 胜宏科技 (02476) [主板]
-UID:da20490b-4904-4f3e-9a54-15c28bcac155@da20.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. MANYCORE TECH (00068) [主板]\n   📅 IPO周期: 2026-04-09 至 2026-04-17\n⏰ 申购截止: 2026-04-14\n💰 价格区间: 6.72-7.62\n📊 发行股数: 17.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 摩根大通\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 长光辰芯 (03277) [主板]\n   📅 IPO周期: 2026-04-09 至 2026-04-17\n⏰ 申购截止: 2026-04-14\n💰 价格区间: 39.88\n📊 发行股数: 4.35亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260409T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:1663f7c7-a7af-4f5c-9b2c-b51ee1a97eeb@1663.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 思格新能 (06656) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 思格新能 (06656) [主板]
-TRIGGER:PT30M
-END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2026-04-08 至 2026-04-16\n⏰ 申购截止: 2026-04-13\n💰 价格区间: 324.20\n📊 发行股数: 2.46亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260408T000000Z
-SUMMARY:HK IPO: 思格新能 (06656) [主板]
-UID:8e94814f-4efb-488f-9732-0ec0c4fefd04@8e94.org
+UID:7cb3cb5b-67a5-4df0-abba-198864bb539b@7cb3.org
 END:VEVENT
 END:VCALENDAR

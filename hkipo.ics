@@ -4,24 +4,6 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 胜宏科技 (02476) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 胜宏科技 (02476) [主板]
-TRIGGER:PT30M
-END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2026-04-13 至 2026-04-21\n⏰ 申购截止: 2026-04-16\n💰 价格区间: 209.88\n📊 发行股数: 9.55亿股\n🏢 市场: 主板\n🏛️ 保荐人: 摩根大通\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260413T000000Z
-SUMMARY:HK IPO: 胜宏科技 (02476) [主板]
-UID:d0e627d5-c07d-4dd6-9626-d43035987497@d0e6.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
 DESCRIPTION:提醒: HK IPO: 华勤技术 (03296) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
@@ -35,6 +17,36 @@ DESCRIPTION:📅 IPO周期: 2026-04-15 至 2026-04-23\n⏰ 申购截止: 2026-04
 DURATION:P1D
 DTSTART:20260415T000000Z
 SUMMARY:HK IPO: 华勤技术 (03296) [主板]
-UID:0526b6dc-635a-4d08-a811-5be0a324bf97@0526.org
+UID:70c4e851-e01e-41d7-b1d4-5548eb726d6e@70c4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:提醒: HK IPO: 胜宏科技 (02476) [主板] 明天开始
+TRIGGER:P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO: 胜宏科技 (02476) [主板]
+TRIGGER:PT30M
+END:VALARM
+CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-04-13 至 2026-04-21\n⏰ 申购截止: 2026-04-16\n💰 价格区间: 209.88\n📊 发行股数: 9.55亿股\n🏢 市场: 主板\n🏛️ 保荐人: 摩根大通\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260413T000000Z
+SUMMARY:HK IPO: 胜宏科技 (02476) [主板]
+UID:6299bea2-c185-4ed7-8010-64086f23dd7d@6299.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 曦智科技-P (01879) [主板]\n   📅 IPO周期: 2026-04-20 至 2026-04-28\n⏰ 申购截止: 2026-04-23\n💰 价格区间: 166.6-183.2\n📊 发行股数: 0.92亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 迈威生物-B (02493) [主板]\n   📅 IPO周期: 2026-04-20 至 2026-04-28\n⏰ 申购截止: 2026-04-23\n💰 价格区间: 27.64-30.71\n📊 发行股数: 4.46亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260420T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:e3bb899b-197c-4997-ac4e-fe799c65e2d4@e3bb.org
 END:VEVENT
 END:VCALENDAR

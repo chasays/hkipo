@@ -4,6 +4,18 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 曦智科技-P (01879) [主板]\n   📅 IPO周期: 2026-04-20 至 2026-04-28\n⏰ 申购截止: 2026-04-23\n💰 价格区间: 166.6-183.2\n📊 发行股数: 0.92亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 迈威生物-B (02493) [主板]\n   📅 IPO周期: 2026-04-20 至 2026-04-28\n⏰ 申购截止: 2026-04-23\n💰 价格区间: 27.64-30.71\n📊 发行股数: 4.46亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260420T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:9e03123d-5a79-45d5-a827-967a09a5a4aa@9e03.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
 DESCRIPTION:提醒: HK IPO: 华勤技术 (03296) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
@@ -17,19 +29,7 @@ DESCRIPTION:📅 IPO周期: 2026-04-15 至 2026-04-23\n⏰ 申购截止: 2026-04
 DURATION:P1D
 DTSTART:20260415T000000Z
 SUMMARY:HK IPO: 华勤技术 (03296) [主板]
-UID:112daa67-6f90-4d14-beed-17fe6e8a763d@112d.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 曦智科技-P (01879) [主板]\n   📅 IPO周期: 2026-04-20 至 2026-04-28\n⏰ 申购截止: 2026-04-23\n💰 价格区间: 166.6-183.2\n📊 发行股数: 0.92亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 迈威生物-B (02493) [主板]\n   📅 IPO周期: 2026-04-20 至 2026-04-28\n⏰ 申购截止: 2026-04-23\n💰 价格区间: 27.64-30.71\n📊 发行股数: 4.46亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260420T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:9f05495e-0062-4384-a042-4b53fd1dae4d@9f05.org
+UID:7b68d6df-fb54-4f3c-b8d0-ce0e1eee754b@7b68.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -47,19 +47,6 @@ DESCRIPTION:📅 IPO周期: 2026-04-21 至 2026-04-29\n⏰ 申购截止: 2026-04
 DURATION:P1D
 DTSTART:20260421T000000Z
 SUMMARY:HK IPO: 商米电子-W (06810) [主板]
-UID:a8c3651a-3661-472f-8e63-0c7539f27877@a8c3.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:今天: HK IPO: 胜宏科技 (02476) [主板]
-TRIGGER:PT30M
-END:VALARM
-CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2026-04-13 至 2026-04-21\n⏰ 申购截止: 2026-04-16\n💰 价格区间: 209.88\n💵 发行价: 209.880\n📊 发行股数: 9.55亿股\n🏢 市场: 主板\n🏛️ 保荐人: 摩根大通\n🔗 参考公司: 东山精密\n🟢 绿鞋: 172.00%
-DURATION:P1D
-DTSTART:20260413T000000Z
-SUMMARY:HK IPO: 胜宏科技 (02476) [主板]
-UID:59a31ef8-c7ff-4fe7-b6ad-45c27b4c3d50@59a3.org
+UID:2589d1cb-9f4f-4276-a474-2252c5fe8024@2589.org
 END:VEVENT
 END:VCALENDAR

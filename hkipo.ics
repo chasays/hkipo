@@ -4,36 +4,6 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 曦智科技-P (01879) [主板]\n   📅 IPO周期: 2026-04-20 至 2026-04-28\n⏰ 申购截止: 2026-04-23\n💰 价格区间: 166.6-183.2\n📊 发行股数: 0.92亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 迈威生物-B (02493) [主板]\n   📅 IPO周期: 2026-04-20 至 2026-04-28\n⏰ 申购截止: 2026-04-23\n💰 价格区间: 27.64-30.71\n📊 发行股数: 4.46亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260420T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:9e03123d-5a79-45d5-a827-967a09a5a4aa@9e03.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 华勤技术 (03296) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 华勤技术 (03296) [主板]
-TRIGGER:PT30M
-END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2026-04-15 至 2026-04-23\n⏰ 申购截止: 2026-04-20\n💰 价格区间: 77.70\n📊 发行股数: 10.74亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260415T000000Z
-SUMMARY:HK IPO: 华勤技术 (03296) [主板]
-UID:7b68d6df-fb54-4f3c-b8d0-ce0e1eee754b@7b68.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
 DESCRIPTION:提醒: HK IPO: 商米电子-W (06810) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
@@ -47,6 +17,49 @@ DESCRIPTION:📅 IPO周期: 2026-04-21 至 2026-04-29\n⏰ 申购截止: 2026-04
 DURATION:P1D
 DTSTART:20260421T000000Z
 SUMMARY:HK IPO: 商米电子-W (06810) [主板]
-UID:2589d1cb-9f4f-4276-a474-2252c5fe8024@2589.org
+UID:6613d0be-6205-4097-b54a-ab316ae1eb61@6613.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 曦智科技-P (01879) [主板]\n   📅 IPO周期: 2026-04-20 至 2026-04-28\n⏰ 申购截止: 2026-04-23\n💰 价格区间: 166.6-183.2\n📊 发行股数: 0.92亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 迈威生物-B (02493) [主板]\n   📅 IPO周期: 2026-04-20 至 2026-04-28\n⏰ 申购截止: 2026-04-23\n💰 价格区间: 27.64-30.71\n📊 发行股数: 4.46亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260420T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:0f4cddf8-4b63-45e1-9631-60974d11096f@0f4c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:提醒: HK IPO: 天星医疗 (01609) [主板] 明天开始
+TRIGGER:P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO: 天星医疗 (01609) [主板]
+TRIGGER:PT30M
+END:VALARM
+CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-04-24 至 2026-05-05\n⏰ 申购截止: 2026-04-29\n💰 价格区间: 98.5\n📊 发行股数: 0.55亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260424T000000Z
+SUMMARY:HK IPO: 天星医疗 (01609) [主板]
+UID:9a0da405-72b4-4c27-a0d8-8028c98d8018@9a0d.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:今天: HK IPO: 华勤技术 (03296) [主板]
+TRIGGER:PT30M
+END:VALARM
+CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-04-15 至 2026-04-23\n⏰ 申购截止: 2026-04-20\n💰 价格区间: 77.70\n💵 发行价: 77.700\n📊 发行股数: 10.74亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 杰美特\n🟢 绿鞋: 150.00%
+DURATION:P1D
+DTSTART:20260415T000000Z
+SUMMARY:HK IPO: 华勤技术 (03296) [主板]
+UID:374f3d00-3166-439a-bf0d-3e7658adca30@374f.org
 END:VEVENT
 END:VCALENDAR

@@ -4,6 +4,18 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 曦智科技-P (01879) [主板]\n   📅 IPO周期: 2026-04-20 至 2026-04-28\n⏰ 申购截止: 2026-04-23\n💰 价格区间: 166.6-183.2\n📊 发行股数: 0.92亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 迈威生物-B (02493) [主板]\n   📅 IPO周期: 2026-04-20 至 2026-04-28\n⏰ 申购截止: 2026-04-23\n💰 价格区间: 27.64-30.71\n📊 发行股数: 4.46亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260420T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:8448ce99-7cd4-4062-b790-f12b0e696689@8448.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
 DESCRIPTION:提醒: HK IPO: 商米电子-W (06810) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
@@ -17,19 +29,7 @@ DESCRIPTION:📅 IPO周期: 2026-04-21 至 2026-04-29\n⏰ 申购截止: 2026-04
 DURATION:P1D
 DTSTART:20260421T000000Z
 SUMMARY:HK IPO: 商米电子-W (06810) [主板]
-UID:3cdbcecd-06ff-4490-8961-e145f0d97223@3cdb.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 曦智科技-P (01879) [主板]\n   📅 IPO周期: 2026-04-20 至 2026-04-28\n⏰ 申购截止: 2026-04-23\n💰 价格区间: 166.6-183.2\n📊 发行股数: 0.92亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 迈威生物-B (02493) [主板]\n   📅 IPO周期: 2026-04-20 至 2026-04-28\n⏰ 申购截止: 2026-04-23\n💰 价格区间: 27.64-30.71\n📊 发行股数: 4.46亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260420T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:0268d596-e6ce-497e-95e5-470059740447@0268.org
+UID:2761ecf5-9c7d-4432-a70c-91dff6f29b58@2761.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -47,6 +47,6 @@ DESCRIPTION:📅 IPO周期: 2026-04-24 至 2026-05-05\n⏰ 申购截止: 2026-04
 DURATION:P1D
 DTSTART:20260424T000000Z
 SUMMARY:HK IPO: 天星医疗 (01609) [主板]
-UID:bcc83b87-6349-4807-adc8-9f4fff032415@bcc8.org
+UID:35c1b1d1-a374-4fe1-a9f9-a7a425aa3181@35c1.org
 END:VEVENT
 END:VCALENDAR

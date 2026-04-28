@@ -4,18 +4,6 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 曦智科技-P (01879) [主板]\n   📅 IPO周期: 2026-04-20 至 2026-04-28\n⏰ 申购截止: 2026-04-23\n💰 价格区间: 166.6-183.2\n💵 发行价: 183.200\n📊 发行股数: 0.92亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 光迅科技\n🟢 绿鞋: 75.00%\n2. 迈威生物-B (02493) [主板]\n   📅 IPO周期: 2026-04-20 至 2026-04-28\n⏰ 申购截止: 2026-04-23\n💰 价格区间: 27.64-30.71\n💵 发行价: 27.640\n📊 发行股数: 4.46亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: 德适-B
-DURATION:P1D
-DTSTART:20260420T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:3ca29ab7-a7f4-4266-ad2e-89409cc78f14@3ca2.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
 DESCRIPTION:提醒: HK IPO: 可孚医疗 (01187) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
@@ -29,7 +17,37 @@ DESCRIPTION:📅 IPO周期: 2026-04-27 至 2026-05-06\n⏰ 申购截止: 2026-04
 DURATION:P1D
 DTSTART:20260427T000000Z
 SUMMARY:HK IPO: 可孚医疗 (01187) [主板]
-UID:d25751ee-77b6-4709-81dd-4a7170778466@d257.org
+UID:fd19bbab-0cbc-4baa-8b52-0e6b48188156@fd19.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 曦智科技-P (01879) [主板]\n   📅 IPO周期: 2026-04-20 至 2026-04-28\n⏰ 申购截止: 2026-04-23\n💰 价格区间: 166.6-183.2\n💵 发行价: 183.200\n📊 发行股数: 0.92亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 光迅科技\n🟢 绿鞋: 75.00%\n2. 迈威生物-B (02493) [主板]\n   📅 IPO周期: 2026-04-20 至 2026-04-28\n⏰ 申购截止: 2026-04-23\n💰 价格区间: 27.64-30.71\n💵 发行价: 27.640\n📊 发行股数: 4.46亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: 德适-B
+DURATION:P1D
+DTSTART:20260420T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:30097269-5db4-41f3-b3e6-8aebdd66623d@3009.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:提醒: HK IPO: 商米电子-W (06810) [主板] 明天开始
+TRIGGER:P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO: 商米电子-W (06810) [主板]
+TRIGGER:PT30M
+END:VALARM
+CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-04-21 至 2026-04-29\n⏰ 申购截止: 2026-04-24\n💰 价格区间: 24.86\n💵 发行价: 24.860\n📊 发行股数: 4.02亿股\n🏢 市场: 主板\n🏛️ 保荐人: 德意志银行\n🔗 参考公司: 新大陆
+DURATION:P1D
+DTSTART:20260421T000000Z
+SUMMARY:HK IPO: 商米电子-W (06810) [主板]
+UID:b532ba93-9dc3-4be7-a55f-abbed3d8dc3d@b532.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -47,24 +65,6 @@ DESCRIPTION:📅 IPO周期: 2026-04-24 至 2026-05-05\n⏰ 申购截止: 2026-04
 DURATION:P1D
 DTSTART:20260424T000000Z
 SUMMARY:HK IPO: 天星医疗 (01609) [主板]
-UID:4a16adfd-b564-4379-b2ce-336391001e7a@4a16.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 商米电子-W (06810) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 商米电子-W (06810) [主板]
-TRIGGER:PT30M
-END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2026-04-21 至 2026-04-29\n⏰ 申购截止: 2026-04-24\n💰 价格区间: 24.86\n📊 发行股数: 4.02亿股\n🏢 市场: 主板\n🏛️ 保荐人: 德意志银行\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260421T000000Z
-SUMMARY:HK IPO: 商米电子-W (06810) [主板]
-UID:4abbccf6-8cef-48ab-b2ad-395c89d7b49c@4abb.org
+UID:45da5a9a-5b75-47f1-8ed5-8bc04d58424d@45da.org
 END:VEVENT
 END:VCALENDAR

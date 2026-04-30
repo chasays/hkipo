@@ -4,33 +4,20 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 天星医疗 (01609) [主板] 明天开始
+DESCRIPTION:提醒: HK IPO: 乐动机器人 (01236) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO: 天星医疗 (01609) [主板]
+DESCRIPTION:HK IPO: 乐动机器人 (01236) [主板]
 TRIGGER:PT30M
 END:VALARM
 CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2026-04-24 至 2026-05-05\n⏰ 申购截止: 2026-04-29\n💰 价格区间: 98.5\n📊 发行股数: 0.55亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:📅 IPO周期: 2026-04-30 至 2026-05-11\n⏰ 申购截止: 2026-05-06\n💰 价格区间: 24-30\n📊 发行股数: 3.33亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰海通\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
-DTSTART:20260424T000000Z
-SUMMARY:HK IPO: 天星医疗 (01609) [主板]
-UID:3f5d0b8b-0ae7-4d0a-8b08-f74f99610996@3f5d.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:今天: HK IPO: 商米电子-W (06810) [主板]
-TRIGGER:PT30M
-END:VALARM
-CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2026-04-21 至 2026-04-29\n⏰ 申购截止: 2026-04-24\n💰 价格区间: 24.86\n💵 发行价: 24.860\n📊 发行股数: 4.02亿股\n🏢 市场: 主板\n🏛️ 保荐人: 德意志银行\n🔗 参考公司: 新大陆
-DURATION:P1D
-DTSTART:20260421T000000Z
-SUMMARY:HK IPO: 商米电子-W (06810) [主板]
-UID:7447b2a0-605a-454f-a90e-e097a7dc7a28@7447.org
+DTSTART:20260430T000000Z
+SUMMARY:HK IPO: 乐动机器人 (01236) [主板]
+UID:cc167483-8f72-46ab-b2ad-dee86ffe85ec@cc16.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -48,6 +35,24 @@ DESCRIPTION:📅 IPO周期: 2026-04-27 至 2026-05-06\n⏰ 申购截止: 2026-04
 DURATION:P1D
 DTSTART:20260427T000000Z
 SUMMARY:HK IPO: 可孚医疗 (01187) [主板]
-UID:6df36c6c-f80b-4746-842d-66d42ac9b1c7@6df3.org
+UID:46e0712b-75e9-440d-877c-9df08ce25473@46e0.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:提醒: HK IPO: 天星医疗 (01609) [主板] 明天开始
+TRIGGER:P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO: 天星医疗 (01609) [主板]
+TRIGGER:PT30M
+END:VALARM
+CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-04-24 至 2026-05-05\n⏰ 申购截止: 2026-04-29\n💰 价格区间: 98.5\n📊 发行股数: 0.55亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260424T000000Z
+SUMMARY:HK IPO: 天星医疗 (01609) [主板]
+UID:565c3435-1dca-4627-aad0-de5db83a373a@565c.org
 END:VEVENT
 END:VCALENDAR

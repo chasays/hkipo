@@ -13,29 +13,11 @@ DESCRIPTION:HK IPO: 可孚医疗 (01187) [主板]
 TRIGGER:PT30M
 END:VALARM
 CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2026-04-27 至 2026-05-06\n⏰ 申购截止: 2026-04-30\n💰 价格区间: 39.33\n📊 发行股数: 2.35亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:📅 IPO周期: 2026-04-27 至 2026-05-06\n⏰ 申购截止: 2026-04-30\n💰 价格区间: 39.33\n💵 发行价: 39.330\n📊 发行股数: 2.35亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: 威高骨科
 DURATION:P1D
 DTSTART:20260427T000000Z
 SUMMARY:HK IPO: 可孚医疗 (01187) [主板]
-UID:e643e9fc-bf13-4781-92a5-063d6b86ce7b@e643.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 天星医疗 (01609) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 天星医疗 (01609) [主板]
-TRIGGER:PT30M
-END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2026-04-24 至 2026-05-05\n⏰ 申购截止: 2026-04-29\n💰 价格区间: 98.5\n📊 发行股数: 0.55亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260424T000000Z
-SUMMARY:HK IPO: 天星医疗 (01609) [主板]
-UID:2cb709e4-7dc6-473c-b710-a1c99cf6f6b7@2cb7.org
+UID:0fb839e9-4ad9-4278-90f6-8e7d5b5b2f92@0fb8.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -53,6 +35,31 @@ DESCRIPTION:📅 IPO周期: 2026-04-30 至 2026-05-11\n⏰ 申购截止: 2026-05
 DURATION:P1D
 DTSTART:20260430T000000Z
 SUMMARY:HK IPO: 乐动机器人 (01236) [主板]
-UID:ea717036-d40c-4b7e-958f-c67e89300f6a@ea71.org
+UID:9cdbcb1d-ec1d-4e26-b06a-7a971f7da447@9cdb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:今天: HK IPO: 天星医疗 (01609) [主板]
+TRIGGER:PT30M
+END:VALARM
+CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-04-24 至 2026-05-05\n⏰ 申购截止: 2026-04-29\n💰 价格区间: 98.5\n💵 发行价: 98.500\n📊 发行股数: 0.55亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: 威高骨科
+DURATION:P1D
+DTSTART:20260424T000000Z
+SUMMARY:HK IPO: 天星医疗 (01609) [主板]
+UID:8516827e-64b5-41da-902d-de1bd6f363a0@8516.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 英派药业-B (07630) [主板]\n   📅 IPO周期: 2026-05-05 至 2026-05-13\n⏰ 申购截止: 2026-05-08\n💰 价格区间: 19.75-21.75\n📊 发行股数: 2.76亿股\n🏢 市场: 主板\n🏛️ 保荐人: 高盛\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 剂泰科技-P (07666) [主板]\n   📅 IPO周期: 2026-05-05 至 2026-05-13\n⏰ 申购截止: 2026-05-08\n💰 价格区间: 10.5\n📊 发行股数: 11.52亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260505T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:927462e5-1368-4358-bf53-cab33cc04e61@9274.org
 END:VEVENT
 END:VCALENDAR

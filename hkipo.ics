@@ -4,6 +4,36 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 英派药业-B (07630) [主板]\n   📅 IPO周期: 2026-05-05 至 2026-05-13\n⏰ 申购截止: 2026-05-08\n💰 价格区间: 19.75-21.75\n📊 发行股数: 2.76亿股\n🏢 市场: 主板\n🏛️ 保荐人: 高盛\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 剂泰科技-P (07666) [主板]\n   📅 IPO周期: 2026-05-05 至 2026-05-13\n⏰ 申购截止: 2026-05-08\n💰 价格区间: 10.5\n📊 发行股数: 11.52亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260505T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:abba7746-97b3-4b61-a1f7-de3dc55f6edb@abba.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:提醒: HK IPO: 翼菲科技 (06871) [主板] 明天开始
+TRIGGER:P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO: 翼菲科技 (06871) [主板]
+TRIGGER:PT30M
+END:VALARM
+CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-05-08 至 2026-05-18\n⏰ 申购截止: 2026-05-13\n💰 价格区间: 30.50\n📊 发行股数: 2.44亿股\n🏢 市场: 主板\n🏛️ 保荐人: 农银国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260508T000000Z
+SUMMARY:HK IPO: 翼菲科技 (06871) [主板]
+UID:4dbabc80-7334-4a9f-9400-0979c437bf6e@4dba.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
 DESCRIPTION:提醒: HK IPO: 乐动机器人 (01236) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
@@ -17,18 +47,6 @@ DESCRIPTION:📅 IPO周期: 2026-04-30 至 2026-05-11\n⏰ 申购截止: 2026-05
 DURATION:P1D
 DTSTART:20260430T000000Z
 SUMMARY:HK IPO: 乐动机器人 (01236) [主板]
-UID:3adeca1e-f8b9-4d14-bb32-c5cbfd48afbe@3ade.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 英派药业-B (07630) [主板]\n   📅 IPO周期: 2026-05-05 至 2026-05-13\n⏰ 申购截止: 2026-05-08\n💰 价格区间: 19.75-21.75\n📊 发行股数: 2.76亿股\n🏢 市场: 主板\n🏛️ 保荐人: 高盛\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 剂泰科技-P (07666) [主板]\n   📅 IPO周期: 2026-05-05 至 2026-05-13\n⏰ 申购截止: 2026-05-08\n💰 价格区间: 10.5\n📊 发行股数: 11.52亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260505T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:b82679e1-3de1-429c-9a32-2b4d10de874d@b826.org
+UID:16c68cda-ecec-41b6-8f7c-a23b188f57d9@16c6.org
 END:VEVENT
 END:VCALENDAR

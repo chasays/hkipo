@@ -4,6 +4,18 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 英派药业-B (07630) [主板]\n   📅 IPO周期: 2026-05-05 至 2026-05-13\n⏰ 申购截止: 2026-05-08\n💰 价格区间: 19.75-21.75\n💵 发行价: 20.100\n📊 发行股数: 2.76亿股\n🏢 市场: 主板\n🏛️ 保荐人: 高盛\n🔗 参考公司: 华芢生物-B\n🟢 绿鞋: 150.00%\n2. 剂泰科技-P (07666) [主板]\n   📅 IPO周期: 2026-05-05 至 2026-05-13\n⏰ 申购截止: 2026-05-08\n💰 价格区间: 10.5\n💵 发行价: 10.500\n📊 发行股数: 11.52亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: 晶泰科技\n🟢 绿鞋: 75.00%
+DURATION:P1D
+DTSTART:20260505T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:e2fe5034-8cb9-4042-a985-ff5dec935ff5@e2fe.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
 DESCRIPTION:提醒: HK IPO: 翼菲科技 (06871) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
@@ -17,7 +29,7 @@ DESCRIPTION:📅 IPO周期: 2026-05-08 至 2026-05-18\n⏰ 申购截止: 2026-05
 DURATION:P1D
 DTSTART:20260508T000000Z
 SUMMARY:HK IPO: 翼菲科技 (06871) [主板]
-UID:f6a58b55-d6fe-4511-8d6b-4a4f5dae0500@f6a5.org
+UID:20ce2b8d-993a-43ee-90bd-9e987d24cc70@20ce.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -25,23 +37,10 @@ ACTION:DISPLAY
 DESCRIPTION:HK IPO Day: 2 Companies Listing
 TRIGGER:PT30M
 END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 英派药业-B (07630) [主板]\n   📅 IPO周期: 2026-05-05 至 2026-05-13\n⏰ 申购截止: 2026-05-08\n💰 价格区间: 19.75-21.75\n📊 发行股数: 2.76亿股\n🏢 市场: 主板\n🏛️ 保荐人: 高盛\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 剂泰科技-P (07666) [主板]\n   📅 IPO周期: 2026-05-05 至 2026-05-13\n⏰ 申购截止: 2026-05-08\n💰 价格区间: 10.5\n📊 发行股数: 11.52亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:共2家公司上市:\n1. 驭势科技 (01511) [主板]\n   📅 IPO周期: 2026-05-12 至 2026-05-20\n⏰ 申购截止: 2026-05-15\n💰 价格区间: 60.3\n📊 发行股数: 1.62亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 拓璞数控 (07688) [主板]\n   📅 IPO周期: 2026-05-12 至 2026-05-20\n⏰ 申购截止: 2026-05-15\n💰 价格区间: 26.39\n📊 发行股数: 4.09亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰海通\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
-DTSTART:20260505T000000Z
+DTSTART:20260512T000000Z
 SUMMARY:HK IPO Day: 2 Companies Listing
-UID:d9027b55-8c5e-4830-8caa-4bccf60428af@d902.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:今天: HK IPO: 乐动机器人 (01236) [主板]
-TRIGGER:PT30M
-END:VALARM
-CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2026-04-30 至 2026-05-11\n⏰ 申购截止: 2026-05-06\n💰 价格区间: 24-30\n💵 发行价: 26.360\n📊 发行股数: 3.33亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰海通\n🔗 参考公司: 科沃斯‌
-DURATION:P1D
-DTSTART:20260430T000000Z
-SUMMARY:HK IPO: 乐动机器人 (01236) [主板]
-UID:74219691-48c0-42c3-ba11-1c7fc0a29c5f@7421.org
+UID:edbd049c-ec32-4693-b647-410ee2cc1f08@edbd.org
 END:VEVENT
 END:VCALENDAR

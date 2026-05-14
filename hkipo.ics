@@ -4,14 +4,20 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
+DESCRIPTION:提醒: HK IPO: 丹诺医药-B (06872) [主板] 明天开始
+TRIGGER:P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO: 丹诺医药-B (06872) [主板]
 TRIGGER:PT30M
 END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 驭势科技 (01511) [主板]\n   📅 IPO周期: 2026-05-12 至 2026-05-20\n⏰ 申购截止: 2026-05-15\n💰 价格区间: 60.3\n📊 发行股数: 1.62亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 拓璞数控 (07688) [主板]\n   📅 IPO周期: 2026-05-12 至 2026-05-20\n⏰ 申购截止: 2026-05-15\n💰 价格区间: 26.39\n📊 发行股数: 4.09亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰海通\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-05-14 至 2026-05-22\n⏰ 申购截止: 2026-05-19\n💰 价格区间: 75.70\n📊 发行股数: 0.52亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
-DTSTART:20260512T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:d2d3611f-de01-4449-9a16-56e78c74fcf0@d2d3.org
+DTSTART:20260514T000000Z
+SUMMARY:HK IPO: 丹诺医药-B (06872) [主板]
+UID:e0999c3d-b0ff-4b39-8f33-1410daff4b8f@e099.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -29,7 +35,7 @@ DESCRIPTION:📅 IPO周期: 2026-05-08 至 2026-05-18\n⏰ 申购截止: 2026-05
 DURATION:P1D
 DTSTART:20260508T000000Z
 SUMMARY:HK IPO: 翼菲科技 (06871) [主板]
-UID:891d0b20-51ae-42a6-abea-e475f49b71db@891d.org
+UID:31af9679-aaf4-4fe0-894a-c5e30db48424@31af.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -37,10 +43,10 @@ ACTION:DISPLAY
 DESCRIPTION:HK IPO Day: 2 Companies Listing
 TRIGGER:PT30M
 END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 英派药业-B (07630) [主板]\n   📅 IPO周期: 2026-05-05 至 2026-05-13\n⏰ 申购截止: 2026-05-08\n💰 价格区间: 19.75-21.75\n💵 发行价: 20.100\n📊 发行股数: 2.76亿股\n🏢 市场: 主板\n🏛️ 保荐人: 高盛\n🔗 参考公司: 华芢生物-B\n🟢 绿鞋: 150.00%\n2. 剂泰科技-P (07666) [主板]\n   📅 IPO周期: 2026-05-05 至 2026-05-13\n⏰ 申购截止: 2026-05-08\n💰 价格区间: 10.5\n💵 发行价: 10.500\n📊 发行股数: 11.52亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: 晶泰科技\n🟢 绿鞋: 75.00%
+DESCRIPTION:共2家公司上市:\n1. 驭势科技 (01511) [主板]\n   📅 IPO周期: 2026-05-12 至 2026-05-20\n⏰ 申购截止: 2026-05-15\n💰 价格区间: 60.3\n📊 发行股数: 1.62亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 拓璞数控 (07688) [主板]\n   📅 IPO周期: 2026-05-12 至 2026-05-20\n⏰ 申购截止: 2026-05-15\n💰 价格区间: 26.39\n📊 发行股数: 4.09亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰海通\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
-DTSTART:20260505T000000Z
+DTSTART:20260512T000000Z
 SUMMARY:HK IPO Day: 2 Companies Listing
-UID:f89b9788-6eba-4ad2-8a51-4d2d689dd269@f89b.org
+UID:2b96ab75-1d43-4097-bce6-ce05d7750a6b@2b96.org
 END:VEVENT
 END:VCALENDAR

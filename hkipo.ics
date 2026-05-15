@@ -17,7 +17,19 @@ DESCRIPTION:📅 IPO周期: 2026-05-14 至 2026-05-22\n⏰ 申购截止: 2026-05
 DURATION:P1D
 DTSTART:20260514T000000Z
 SUMMARY:HK IPO: 丹诺医药-B (06872) [主板]
-UID:e0999c3d-b0ff-4b39-8f33-1410daff4b8f@e099.org
+UID:6183704d-5d84-45ad-bf87-1a65801ffade@6183.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 驭势科技 (01511) [主板]\n   📅 IPO周期: 2026-05-12 至 2026-05-20\n⏰ 申购截止: 2026-05-15\n💰 价格区间: 60.3\n📊 发行股数: 1.62亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 拓璞数控 (07688) [主板]\n   📅 IPO周期: 2026-05-12 至 2026-05-20\n⏰ 申购截止: 2026-05-15\n💰 价格区间: 26.39\n📊 发行股数: 4.09亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰海通\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260512T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:e6d4a355-bf94-41df-9711-aa574c5265a7@e6d4.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -35,18 +47,6 @@ DESCRIPTION:📅 IPO周期: 2026-05-08 至 2026-05-18\n⏰ 申购截止: 2026-05
 DURATION:P1D
 DTSTART:20260508T000000Z
 SUMMARY:HK IPO: 翼菲科技 (06871) [主板]
-UID:31af9679-aaf4-4fe0-894a-c5e30db48424@31af.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 驭势科技 (01511) [主板]\n   📅 IPO周期: 2026-05-12 至 2026-05-20\n⏰ 申购截止: 2026-05-15\n💰 价格区间: 60.3\n📊 发行股数: 1.62亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 拓璞数控 (07688) [主板]\n   📅 IPO周期: 2026-05-12 至 2026-05-20\n⏰ 申购截止: 2026-05-15\n💰 价格区间: 26.39\n📊 发行股数: 4.09亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰海通\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260512T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:2b96ab75-1d43-4097-bce6-ce05d7750a6b@2b96.org
+UID:fbc5b943-1ac6-4e61-b04c-7e87e62c0d18@fbc5.org
 END:VEVENT
 END:VCALENDAR

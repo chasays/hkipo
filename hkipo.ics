@@ -4,6 +4,31 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:今天: HK IPO: 创想三维 (03388) [主板]
+TRIGGER:PT30M
+END:VALARM
+CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-05-20 至 2026-05-29\n⏰ 申购截止: 2026-05-26\n💰 价格区间: 18.8\n💵 发行价: 18.800\n📊 发行股数: 4.66亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 铂力特\n🟢 绿鞋: 150.00%
+DURATION:P1D
+DTSTART:20260520T000000Z
+SUMMARY:HK IPO: 创想三维 (03388) [主板]
+UID:dbb5996d-4526-4f3f-ae29-3be4ed6c6b24@dbb5.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 3 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共3家公司上市:\n1. 大金重工 (01081) [主板]\n   📅 IPO周期: 2026-05-28 至 2026-06-05\n⏰ 申购截止: 2026-06-02\n💰 价格区间: 66.4\n📊 发行股数: 7.24亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 天辰生物-Ｂ (01779) [主板]\n   📅 IPO周期: 2026-05-28 至 2026-06-05\n⏰ 申购截止: 2026-06-02\n💰 价格区间: 96.06\n📊 发行股数: 0.74亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国金证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 龙丰集团 (02290) [主板]\n   📅 IPO周期: 2026-05-28 至 2026-06-05\n⏰ 申购截止: 2026-06-02\n💰 价格区间: 5.18-6.38\n📊 发行股数: 5.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 星展集团\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260528T000000Z
+SUMMARY:HK IPO Day: 3 Companies Listing
+UID:f4154c43-6a4f-40ca-bbd1-ee315fd2a49b@f415.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
 DESCRIPTION:提醒: HK IPO: 首钢朗泽 (02553) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
@@ -17,36 +42,6 @@ DESCRIPTION:📅 IPO周期: 2026-05-26 至 2026-06-03\n⏰ 申购截止: 2026-05
 DURATION:P1D
 DTSTART:20260526T000000Z
 SUMMARY:HK IPO: 首钢朗泽 (02553) [主板]
-UID:7128b563-def6-4cc7-a7e9-23e62f61477d@7128.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 3 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共3家公司上市:\n1. 华曦达 (00901) [主板]\n   📅 IPO周期: 2026-05-18 至 2026-05-27\n⏰ 申购截止: 2026-05-21\n💰 价格区间: 32.80\n💵 发行价: 32.800\n📊 发行股数: 2.09亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信建投\n🔗 参考公司: 创维数字\n2. 深演智能 (02723) [主板]\n   📅 IPO周期: 2026-05-18 至 2026-05-27\n⏰ 申购截止: 2026-05-21\n💰 价格区间: 43.5-55.5\n💵 发行价: 55.500\n📊 发行股数: 0.91亿股\n🏢 市场: 主板\n🏛️ 保荐人: 工银国际\n🔗 参考公司: 第四范式\n3. 云英谷科技 (03310) [主板]\n   📅 IPO周期: 2026-05-18 至 2026-05-27\n⏰ 申购截止: 2026-05-21\n💰 价格区间: 20.81\n💵 发行价: 20.810\n📊 发行股数: 4.27亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 汇顶科技\n🟢 绿鞋: 150.00%
-DURATION:P1D
-DTSTART:20260518T000000Z
-SUMMARY:HK IPO Day: 3 Companies Listing
-UID:3ba26fa4-b6a1-4662-84e6-6b0fd695081c@3ba2.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 创想三维 (03388) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 创想三维 (03388) [主板]
-TRIGGER:PT30M
-END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2026-05-20 至 2026-05-29\n⏰ 申购截止: 2026-05-26\n💰 价格区间: 18.8\n📊 发行股数: 4.66亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260520T000000Z
-SUMMARY:HK IPO: 创想三维 (03388) [主板]
-UID:ce3acd65-246a-4ff8-994f-7b171dea9d16@ce3a.org
+UID:5af457a7-035c-4f34-9467-ecaaaeec0c8e@5af4.org
 END:VEVENT
 END:VCALENDAR

@@ -4,18 +4,6 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 3 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共3家公司上市:\n1. 大金重工 (01081) [主板]\n   📅 IPO周期: 2026-05-28 至 2026-06-05\n⏰ 申购截止: 2026-06-02\n💰 价格区间: 66.4\n📊 发行股数: 7.24亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 天辰生物-Ｂ (01779) [主板]\n   📅 IPO周期: 2026-05-28 至 2026-06-05\n⏰ 申购截止: 2026-06-02\n💰 价格区间: 96.06\n📊 发行股数: 0.74亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国金证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 龙丰集团 (02290) [主板]\n   📅 IPO周期: 2026-05-28 至 2026-06-05\n⏰ 申购截止: 2026-06-02\n💰 价格区间: 5.18-6.38\n📊 发行股数: 5.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 星展集团\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260528T000000Z
-SUMMARY:HK IPO Day: 3 Companies Listing
-UID:60fee39f-1d91-42c5-9de2-6304c139716d@60fe.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
 DESCRIPTION:提醒: HK IPO: 首钢朗泽 (02553) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
@@ -29,6 +17,18 @@ DESCRIPTION:📅 IPO周期: 2026-05-26 至 2026-06-03\n⏰ 申购截止: 2026-05
 DURATION:P1D
 DTSTART:20260526T000000Z
 SUMMARY:HK IPO: 首钢朗泽 (02553) [主板]
-UID:59fd3264-c84b-446f-8a91-6a450ae4e1c6@59fd.org
+UID:262caecb-7ef9-4deb-89b8-d3fc0e1d496a@262c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 3 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共3家公司上市:\n1. 大金重工 (01081) [主板]\n   📅 IPO周期: 2026-05-28 至 2026-06-05\n⏰ 申购截止: 2026-06-02\n💰 价格区间: 66.4\n📊 发行股数: 7.24亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 天辰生物-Ｂ (01779) [主板]\n   📅 IPO周期: 2026-05-28 至 2026-06-05\n⏰ 申购截止: 2026-06-02\n💰 价格区间: 96.06\n📊 发行股数: 0.74亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国金证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 龙丰集团 (02290) [主板]\n   📅 IPO周期: 2026-05-28 至 2026-06-05\n⏰ 申购截止: 2026-06-02\n💰 价格区间: 5.18-6.38\n📊 发行股数: 5.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 星展集团\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260528T000000Z
+SUMMARY:HK IPO Day: 3 Companies Listing
+UID:2247abea-6837-4da8-be30-d4b299de48f2@2247.org
 END:VEVENT
 END:VCALENDAR

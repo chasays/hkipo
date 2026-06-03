@@ -4,20 +4,15 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 首钢朗泽 (02553) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 首钢朗泽 (02553) [主板]
+DESCRIPTION:今天: HK IPO: 首钢朗泽 (02553) [主板]
 TRIGGER:PT30M
 END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2026-05-26 至 2026-06-03\n⏰ 申购截止: 2026-05-29\n💰 价格区间: 14.6-17.1\n📊 发行股数: 4.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 越秀融资\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-05-26 至 2026-06-03\n⏰ 申购截止: 2026-05-29\n💰 价格区间: 14.6-17.1\n💵 发行价: 14.600\n📊 发行股数: 4.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 越秀融资\n🔗 参考公司: 龙净环保
 DURATION:P1D
 DTSTART:20260526T000000Z
 SUMMARY:HK IPO: 首钢朗泽 (02553) [主板]
-UID:262caecb-7ef9-4deb-89b8-d3fc0e1d496a@262c.org
+UID:10238f96-fc59-43a1-957e-feac1f221b19@1023.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -29,6 +24,6 @@ DESCRIPTION:共3家公司上市:\n1. 大金重工 (01081) [主板]\n   📅 IPO�
 DURATION:P1D
 DTSTART:20260528T000000Z
 SUMMARY:HK IPO Day: 3 Companies Listing
-UID:2247abea-6837-4da8-be30-d4b299de48f2@2247.org
+UID:6219144b-2697-486c-91dc-a654447d693e@6219.org
 END:VEVENT
 END:VCALENDAR

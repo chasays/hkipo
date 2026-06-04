@@ -4,13 +4,31 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:提醒: HK IPO: 溜溜梅 (06658) [主板] 明天开始
+TRIGGER:P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO: 溜溜梅 (06658) [主板]
+TRIGGER:PT30M
+END:VALARM
+CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-06-05 至 2026-06-15\n⏰ 申购截止: 2026-06-10\n💰 价格区间: 43.58\n📊 发行股数: 0.79亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260605T000000Z
+SUMMARY:HK IPO: 溜溜梅 (06658) [主板]
+UID:7d1ae842-18ba-48c3-b3eb-28152eedfd35@7d1a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
 DESCRIPTION:HK IPO Day: 3 Companies Listing
 TRIGGER:PT30M
 END:VALARM
-DESCRIPTION:共3家公司上市:\n1. 大金重工 (01081) [主板]\n   📅 IPO周期: 2026-05-28 至 2026-06-05\n⏰ 申购截止: 2026-06-02\n💰 价格区间: 66.4\n📊 发行股数: 7.24亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 天辰生物-Ｂ (01779) [主板]\n   📅 IPO周期: 2026-05-28 至 2026-06-05\n⏰ 申购截止: 2026-06-02\n💰 价格区间: 96.06\n📊 发行股数: 0.74亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国金证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 龙丰集团 (02290) [主板]\n   📅 IPO周期: 2026-05-28 至 2026-06-05\n⏰ 申购截止: 2026-06-02\n💰 价格区间: 5.18-6.38\n📊 发行股数: 5.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 星展集团\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:共3家公司上市:\n1. 大金重工 (01081) [主板]\n   📅 IPO周期: 2026-05-28 至 2026-06-05\n⏰ 申购截止: 2026-06-02\n💰 价格区间: 66.4\n💵 发行价: 66.400\n📊 发行股数: 7.24亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: 天能重工\n🟢 绿鞋: 172.00%\n2. 天辰生物-Ｂ (01779) [主板]\n   📅 IPO周期: 2026-05-28 至 2026-06-05\n⏰ 申购截止: 2026-06-02\n💰 价格区间: 96.06\n💵 发行价: 96.060\n📊 发行股数: 0.74亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国金证券\n🔗 参考公司: 映恩生物-Ｂ\n🟢 绿鞋: 150.00%\n3. 龙丰集团 (02290) [主板]\n   📅 IPO周期: 2026-05-28 至 2026-06-05\n⏰ 申购截止: 2026-06-02\n💰 价格区间: 5.18-6.38\n💵 发行价: 5.180\n📊 发行股数: 5.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 星展集团\n🔗 参考公司: 老百姓
 DURATION:P1D
 DTSTART:20260528T000000Z
 SUMMARY:HK IPO Day: 3 Companies Listing
-UID:38f3a8a6-3686-47c7-9593-07d7b1475e6d@38f3.org
+UID:da3818e0-dc12-49d3-9ccd-32a7ec55d4d9@da38.org
 END:VEVENT
 END:VCALENDAR

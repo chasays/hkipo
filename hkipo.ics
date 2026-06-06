@@ -17,18 +17,6 @@ DESCRIPTION:📅 IPO周期: 2026-06-05 至 2026-06-15\n⏰ 申购截止: 2026-06
 DURATION:P1D
 DTSTART:20260605T000000Z
 SUMMARY:HK IPO: 溜溜梅 (06658) [主板]
-UID:3b5ef8dd-e3a8-4ff5-ae94-42bc53298d9d@3b5e.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 3 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共3家公司上市:\n1. 大金重工 (01081) [主板]\n   📅 IPO周期: 2026-05-28 至 2026-06-05\n⏰ 申购截止: 2026-06-02\n💰 价格区间: 66.4\n💵 发行价: 66.400\n📊 发行股数: 7.24亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: 天能重工\n🟢 绿鞋: 172.00%\n2. 天辰生物-Ｂ (01779) [主板]\n   📅 IPO周期: 2026-05-28 至 2026-06-05\n⏰ 申购截止: 2026-06-02\n💰 价格区间: 96.06\n💵 发行价: 96.060\n📊 发行股数: 0.74亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国金证券\n🔗 参考公司: 映恩生物-Ｂ\n🟢 绿鞋: 150.00%\n3. 龙丰集团 (02290) [主板]\n   📅 IPO周期: 2026-05-28 至 2026-06-05\n⏰ 申购截止: 2026-06-02\n💰 价格区间: 5.18-6.38\n💵 发行价: 5.180\n📊 发行股数: 5.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 星展集团\n🔗 参考公司: 老百姓
-DURATION:P1D
-DTSTART:20260528T000000Z
-SUMMARY:HK IPO Day: 3 Companies Listing
-UID:9563ce36-9e16-4808-91fb-035b2f1a16c8@9563.org
+UID:90ca523d-ef4a-4ad4-b91e-7adc75ab2404@90ca.org
 END:VEVENT
 END:VCALENDAR

@@ -17,7 +17,7 @@ DESCRIPTION:📅 IPO周期: 2026-06-11 至 2026-06-22\n⏰ 申购截止: 2026-06
 DURATION:P1D
 DTSTART:20260611T000000Z
 SUMMARY:HK IPO: 海清智元 (01392) [主板]
-UID:e5af50d8-e9f2-47b6-bc68-bcc23f930d80@e5af.org
+UID:7ba7504b-6b48-4164-ac16-6706bdb55db1@7ba7.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -35,7 +35,19 @@ DESCRIPTION:📅 IPO周期: 2026-06-05 至 2026-06-15\n⏰ 申购截止: 2026-06
 DURATION:P1D
 DTSTART:20260605T000000Z
 SUMMARY:HK IPO: 溜溜梅 (06658) [主板]
-UID:cdce1ca6-f136-4d95-b6f3-2c9886d79ebf@cdce.org
+UID:751518e5-3d39-47c8-8abf-5550ea151598@7515.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 星源材质 (06067) [主板]\n   📅 IPO周期: 2026-06-12 至 2026-06-23\n⏰ 申购截止: 2026-06-17\n💰 价格区间: 8.98\n📊 发行股数: 14.95亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信建投\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 华健未来-B (06132) [主板]\n   📅 IPO周期: 2026-06-12 至 2026-06-23\n⏰ 申购截止: 2026-06-17\n💰 价格区间: 81.8\n📊 发行股数: 0.74亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260612T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:77ec8439-e339-4897-a262-08c9d0160df7@77ec.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -53,6 +65,6 @@ DESCRIPTION:📅 IPO周期: 2026-06-09 至 2026-06-17\n⏰ 申购截止: 2026-06
 DURATION:P1D
 DTSTART:20260609T000000Z
 SUMMARY:HK IPO: SENASIC (06675) [主板]
-UID:47cb4dc8-0816-429a-bcce-917ce97774a6@47cb.org
+UID:2be71950-ca23-406d-8906-9458a5911ce2@2be7.org
 END:VEVENT
 END:VCALENDAR

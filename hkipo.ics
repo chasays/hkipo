@@ -4,32 +4,20 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 海清智元 (01392) [主板] 明天开始
+DESCRIPTION:提醒: HK IPO: 溜溜梅 (06658) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO: 海清智元 (01392) [主板]
+DESCRIPTION:HK IPO: 溜溜梅 (06658) [主板]
 TRIGGER:PT30M
 END:VALARM
 CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2026-06-11 至 2026-06-22\n⏰ 申购截止: 2026-06-16\n💰 价格区间: 7.20\n📊 发行股数: 7.74亿股\n🏢 市场: 主板\n🏛️ 保荐人: 民银资本\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:📅 IPO周期: 2026-06-05 至 2026-06-15\n⏰ 申购截止: 2026-06-10\n💰 价格区间: 43.58\n📊 发行股数: 0.79亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
-DTSTART:20260611T000000Z
-SUMMARY:HK IPO: 海清智元 (01392) [主板]
-UID:0be2c01f-5293-4835-9c45-82e093642116@0be2.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 星源材质 (06067) [主板]\n   📅 IPO周期: 2026-06-12 至 2026-06-23\n⏰ 申购截止: 2026-06-17\n💰 价格区间: 8.98\n📊 发行股数: 14.95亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信建投\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 华健未来-B (06132) [主板]\n   📅 IPO周期: 2026-06-12 至 2026-06-23\n⏰ 申购截止: 2026-06-17\n💰 价格区间: 81.8\n📊 发行股数: 0.74亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260612T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:06ac296c-016a-44a8-ad5a-cfb8a83f82ab@06ac.org
+DTSTART:20260605T000000Z
+SUMMARY:HK IPO: 溜溜梅 (06658) [主板]
+UID:ab3e80f2-3840-4bfb-9e42-b9196fc149ed@ab3e.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -47,24 +35,36 @@ DESCRIPTION:📅 IPO周期: 2026-06-09 至 2026-06-17\n⏰ 申购截止: 2026-06
 DURATION:P1D
 DTSTART:20260609T000000Z
 SUMMARY:HK IPO: SENASIC (06675) [主板]
-UID:2d7ad6f9-56e2-4ac4-bc13-65b84503df68@2d7a.org
+UID:11914724-8a70-4c2a-9dc8-4e74e86e4fa7@1191.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 溜溜梅 (06658) [主板] 明天开始
+DESCRIPTION:提醒: HK IPO: 海清智元 (01392) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO: 溜溜梅 (06658) [主板]
+DESCRIPTION:HK IPO: 海清智元 (01392) [主板]
 TRIGGER:PT30M
 END:VALARM
 CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2026-06-05 至 2026-06-15\n⏰ 申购截止: 2026-06-10\n💰 价格区间: 43.58\n📊 发行股数: 0.79亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:📅 IPO周期: 2026-06-11 至 2026-06-22\n⏰ 申购截止: 2026-06-16\n💰 价格区间: 7.20\n📊 发行股数: 7.74亿股\n🏢 市场: 主板\n🏛️ 保荐人: 民银资本\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
-DTSTART:20260605T000000Z
-SUMMARY:HK IPO: 溜溜梅 (06658) [主板]
-UID:29743bc8-e87e-4962-aec1-d0774d8f7725@2974.org
+DTSTART:20260611T000000Z
+SUMMARY:HK IPO: 海清智元 (01392) [主板]
+UID:5497721a-1500-42f3-97a7-26936ee45bb9@5497.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 星源材质 (06067) [主板]\n   📅 IPO周期: 2026-06-12 至 2026-06-23\n⏰ 申购截止: 2026-06-17\n💰 价格区间: 8.98\n📊 发行股数: 14.95亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信建投\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 华健未来-B (06132) [主板]\n   📅 IPO周期: 2026-06-12 至 2026-06-23\n⏰ 申购截止: 2026-06-17\n💰 价格区间: 81.8\n📊 发行股数: 0.74亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260612T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:40cc4b62-de45-4b41-b0b5-319499577392@40cc.org
 END:VEVENT
 END:VCALENDAR

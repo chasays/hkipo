@@ -17,25 +17,7 @@ DESCRIPTION:📅 IPO周期: 2026-06-11 至 2026-06-22\n⏰ 申购截止: 2026-06
 DURATION:P1D
 DTSTART:20260611T000000Z
 SUMMARY:HK IPO: 海清智元 (01392) [主板]
-UID:7ba7504b-6b48-4164-ac16-6706bdb55db1@7ba7.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 溜溜梅 (06658) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 溜溜梅 (06658) [主板]
-TRIGGER:PT30M
-END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2026-06-05 至 2026-06-15\n⏰ 申购截止: 2026-06-10\n💰 价格区间: 43.58\n📊 发行股数: 0.79亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260605T000000Z
-SUMMARY:HK IPO: 溜溜梅 (06658) [主板]
-UID:751518e5-3d39-47c8-8abf-5550ea151598@7515.org
+UID:0be2c01f-5293-4835-9c45-82e093642116@0be2.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -47,7 +29,7 @@ DESCRIPTION:共2家公司上市:\n1. 星源材质 (06067) [主板]\n   📅 IPO�
 DURATION:P1D
 DTSTART:20260612T000000Z
 SUMMARY:HK IPO Day: 2 Companies Listing
-UID:77ec8439-e339-4897-a262-08c9d0160df7@77ec.org
+UID:06ac296c-016a-44a8-ad5a-cfb8a83f82ab@06ac.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -65,6 +47,24 @@ DESCRIPTION:📅 IPO周期: 2026-06-09 至 2026-06-17\n⏰ 申购截止: 2026-06
 DURATION:P1D
 DTSTART:20260609T000000Z
 SUMMARY:HK IPO: SENASIC (06675) [主板]
-UID:2be71950-ca23-406d-8906-9458a5911ce2@2be7.org
+UID:2d7ad6f9-56e2-4ac4-bc13-65b84503df68@2d7a.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:提醒: HK IPO: 溜溜梅 (06658) [主板] 明天开始
+TRIGGER:P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO: 溜溜梅 (06658) [主板]
+TRIGGER:PT30M
+END:VALARM
+CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-06-05 至 2026-06-15\n⏰ 申购截止: 2026-06-10\n💰 价格区间: 43.58\n📊 发行股数: 0.79亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260605T000000Z
+SUMMARY:HK IPO: 溜溜梅 (06658) [主板]
+UID:29743bc8-e87e-4962-aec1-d0774d8f7725@2974.org
 END:VEVENT
 END:VCALENDAR

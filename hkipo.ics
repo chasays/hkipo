@@ -4,24 +4,6 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 溜溜梅 (06658) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 溜溜梅 (06658) [主板]
-TRIGGER:PT30M
-END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2026-06-05 至 2026-06-15\n⏰ 申购截止: 2026-06-10\n💰 价格区间: 43.58\n📊 发行股数: 0.79亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260605T000000Z
-SUMMARY:HK IPO: 溜溜梅 (06658) [主板]
-UID:ab3e80f2-3840-4bfb-9e42-b9196fc149ed@ab3e.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
 DESCRIPTION:提醒: HK IPO: SENASIC (06675) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
@@ -35,7 +17,25 @@ DESCRIPTION:📅 IPO周期: 2026-06-09 至 2026-06-17\n⏰ 申购截止: 2026-06
 DURATION:P1D
 DTSTART:20260609T000000Z
 SUMMARY:HK IPO: SENASIC (06675) [主板]
-UID:11914724-8a70-4c2a-9dc8-4e74e86e4fa7@1191.org
+UID:0a7c9cf2-5e97-4614-a313-aef401fe6f81@0a7c.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:提醒: HK IPO: 仙工智能 (06106) [主板] 明天开始
+TRIGGER:P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO: 仙工智能 (06106) [主板]
+TRIGGER:PT30M
+END:VALARM
+CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-06-15 至 2026-06-24\n⏰ 申购截止: 2026-06-18\n💰 价格区间: 101.60\n📊 发行股数: 1.10亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260615T000000Z
+SUMMARY:HK IPO: 仙工智能 (06106) [主板]
+UID:d9024411-ffc9-4548-9f7a-1a85b0c38d67@d902.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -53,7 +53,7 @@ DESCRIPTION:📅 IPO周期: 2026-06-11 至 2026-06-22\n⏰ 申购截止: 2026-06
 DURATION:P1D
 DTSTART:20260611T000000Z
 SUMMARY:HK IPO: 海清智元 (01392) [主板]
-UID:5497721a-1500-42f3-97a7-26936ee45bb9@5497.org
+UID:449feeb0-193d-4aeb-bac4-0be4bf4ccf34@449f.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -65,6 +65,19 @@ DESCRIPTION:共2家公司上市:\n1. 星源材质 (06067) [主板]\n   📅 IPO�
 DURATION:P1D
 DTSTART:20260612T000000Z
 SUMMARY:HK IPO Day: 2 Companies Listing
-UID:40cc4b62-de45-4b41-b0b5-319499577392@40cc.org
+UID:e44feeb2-fd9e-4171-a54d-cc38a4a9e8ba@e44f.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:今天: HK IPO: 溜溜梅 (06658) [主板]
+TRIGGER:PT30M
+END:VALARM
+CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-06-05 至 2026-06-15\n⏰ 申购截止: 2026-06-10\n💰 价格区间: 43.58\n💵 发行价: 43.580\n📊 发行股数: 0.79亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: 三只松鼠‌
+DURATION:P1D
+DTSTART:20260605T000000Z
+SUMMARY:HK IPO: 溜溜梅 (06658) [主板]
+UID:1fdc6f0a-afd3-4e85-bbf8-55b439be5cc1@1fdc.org
 END:VEVENT
 END:VCALENDAR

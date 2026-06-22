@@ -4,26 +4,14 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
+DESCRIPTION:HK IPO Day: 6 Companies Listing
 TRIGGER:PT30M
 END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 星源材质 (06067) [主板]\n   📅 IPO周期: 2026-06-12 至 2026-06-23\n⏰ 申购截止: 2026-06-17\n💰 价格区间: 8.98\n📊 发行股数: 14.95亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信建投\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 华健未来-B (06132) [主板]\n   📅 IPO周期: 2026-06-12 至 2026-06-23\n⏰ 申购截止: 2026-06-17\n💰 价格区间: 81.8\n📊 发行股数: 0.74亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:共6家公司上市:\n1. 领益智造 (01688) [主板]\n   📅 IPO周期: 2026-06-17 至 2026-06-26\n⏰ 申购截止: 2026-06-23\n💰 价格区间: 10.18\n📊 发行股数: 81.20亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰海通\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 中科闻歌 (01956) [主板]\n   📅 IPO周期: 2026-06-17 至 2026-06-26\n⏰ 申购截止: 2026-06-23\n💰 价格区间: 60.70\n📊 发行股数: 1.73亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 科拓股份 (02272) [主板]\n   📅 IPO周期: 2026-06-17 至 2026-06-26\n⏰ 申购截止: 2026-06-23\n💰 价格区间: 39.55\n📊 发行股数: 1.01亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n4. 圣邦股份 (03661) [主板]\n   📅 IPO周期: 2026-06-17 至 2026-06-26\n⏰ 申购截止: 2026-06-23\n💰 价格区间: 85.2\n📊 发行股数: 6.75亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n5. MERDEKAGOLD-DRS (06228) [主板]\n   📅 IPO周期: 2026-06-17 至 2026-06-26\n⏰ 申购截止: 2026-06-23\n💰 价格区间: 26.60\n📊 发行股数: 147.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 瑞银\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n6. 芯碁微裝 (09630) [主板]\n   📅 IPO周期: 2026-06-17 至 2026-06-25\n⏰ 申购截止: 2026-06-23\n💰 价格区间: 240.09-252.73\n📊 发行股数: 1.44亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
-DTSTART:20260612T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:c8229aa0-9b21-4206-967d-23b8066a1c65@c822.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 3 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共3家公司上市:\n1. 海光芯正 (01191) [主板]\n   📅 IPO周期: 2026-06-18 至 2026-06-29\n⏰ 申购截止: 2026-06-24\n💰 价格区间: 114\n📊 发行股数: 0.90亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 白鸽在线 (02672) [主板]\n   📅 IPO周期: 2026-06-18 至 2026-06-29\n⏰ 申购截止: 2026-06-24\n💰 价格区间: 15.6-20.28\n📊 发行股数: 3.20亿股\n🏢 市场: 主板\n🏛️ 保荐人: 民银资本\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 礼邦医药-B (09637) [主板]\n   📅 IPO周期: 2026-06-18 至 2026-06-29\n⏰ 申购截止: 2026-06-24\n💰 价格区间: 22.6\n📊 发行股数: 3.39亿股\n🏢 市场: 主板\n🏛️ 保荐人: 美银美林\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260618T000000Z
-SUMMARY:HK IPO Day: 3 Companies Listing
-UID:42569b3d-c326-4356-98c5-b07a2e8804b2@4256.org
+DTSTART:20260617T000000Z
+SUMMARY:HK IPO Day: 6 Companies Listing
+UID:a3456af0-251c-4e65-99c6-1525a705bc82@a345.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -35,7 +23,7 @@ DESCRIPTION:共2家公司上市:\n1. 麦科医药-B (02335) [主板]\n   📅 IP
 DURATION:P1D
 DTSTART:20260615T000000Z
 SUMMARY:HK IPO Day: 2 Companies Listing
-UID:76f824b3-1a56-4eea-8808-edc1e243ad7b@76f8.org
+UID:0d60dfee-bbfe-457e-a3bc-5eb85e82d391@0d60.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -48,18 +36,60 @@ DESCRIPTION:📅 IPO周期: 2026-06-11 至 2026-06-22\n⏰ 申购截止: 2026-06
 DURATION:P1D
 DTSTART:20260611T000000Z
 SUMMARY:HK IPO: 海清智元 (01392) [主板]
-UID:1c38b53e-e733-44e4-81b2-2bd9188b38e1@1c38.org
+UID:b4bbf725-6d2a-4485-8ae8-d952bd230004@b4bb.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 6 Companies Listing
+DESCRIPTION:HK IPO Day: 2 Companies Listing
 TRIGGER:PT30M
 END:VALARM
-DESCRIPTION:共6家公司上市:\n1. 领益智造 (01688) [主板]\n   📅 IPO周期: 2026-06-17 至 2026-06-26\n⏰ 申购截止: 2026-06-23\n💰 价格区间: 10.18\n📊 发行股数: 81.20亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰海通\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 中科闻歌 (01956) [主板]\n   📅 IPO周期: 2026-06-17 至 2026-06-26\n⏰ 申购截止: 2026-06-23\n💰 价格区间: 60.70\n📊 发行股数: 1.73亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 科拓股份 (02272) [主板]\n   📅 IPO周期: 2026-06-17 至 2026-06-26\n⏰ 申购截止: 2026-06-23\n💰 价格区间: 39.55\n📊 发行股数: 1.01亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n4. 圣邦股份 (03661) [主板]\n   📅 IPO周期: 2026-06-17 至 2026-06-26\n⏰ 申购截止: 2026-06-23\n💰 价格区间: 85.2\n📊 发行股数: 6.75亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n5. MERDEKAGOLD-DRS (06228) [主板]\n   📅 IPO周期: 2026-06-17 至 2026-06-26\n⏰ 申购截止: 2026-06-23\n💰 价格区间: 26.60\n📊 发行股数: 147.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 瑞银\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n6. 芯碁微裝 (09630) [主板]\n   📅 IPO周期: 2026-06-17 至 2026-06-25\n⏰ 申购截止: 2026-06-23\n💰 价格区间: 240.09-252.73\n📊 发行股数: 1.44亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:共2家公司上市:\n1. 星源材质 (06067) [主板]\n   📅 IPO周期: 2026-06-12 至 2026-06-23\n⏰ 申购截止: 2026-06-17\n💰 价格区间: 8.98\n💵 发行价: 8.980\n📊 发行股数: 14.95亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信建投\n🔗 参考公司: 天华新能\n2. 华健未来-B (06132) [主板]\n   📅 IPO周期: 2026-06-12 至 2026-06-23\n⏰ 申购截止: 2026-06-17\n💰 价格区间: 81.8\n💵 发行价: 81.800\n📊 发行股数: 0.74亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: 英派药业-B\n🟢 绿鞋: 150.00%
 DURATION:P1D
-DTSTART:20260617T000000Z
-SUMMARY:HK IPO Day: 6 Companies Listing
-UID:f5085a79-1e00-4ba3-8d31-0175b8bbec7b@f508.org
+DTSTART:20260612T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:91d42a7a-2469-45d8-9331-1111cedd7af8@91d4.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 4 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共4家公司上市:\n1. 真健康医疗-B (02697) [主板]\n   📅 IPO周期: 2026-06-22 至 2026-06-30\n⏰ 申购截止: 2026-06-25\n💰 价格区间: 119.3-135.4\n📊 发行股数: 0.36亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 来福谐波 (03952) [主板]\n   📅 IPO周期: 2026-06-22 至 2026-06-30\n⏰ 申购截止: 2026-06-25\n💰 价格区间: 77-85.5\n📊 发行股数: 1.03亿股\n🏢 市场: 主板\n🏛️ 保荐人: 照银国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 鲟龙科技 (06715) [主板]\n   📅 IPO周期: 2026-06-22 至 2026-06-30\n⏰ 申购截止: 2026-06-25\n💰 价格区间: 75.50\n📊 发行股数: 1.09亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n4. 江西生物 (06915) [主板]\n   📅 IPO周期: 2026-06-22 至 2026-06-30\n⏰ 申购截止: 2026-06-25\n💰 价格区间: 9.33-13.06\n📊 发行股数: 3.08亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260622T000000Z
+SUMMARY:HK IPO Day: 4 Companies Listing
+UID:1e691dc8-a8ad-4b88-9c23-2163d4dc5a50@1e69.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 3 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共3家公司上市:\n1. 海光芯正 (01191) [主板]\n   📅 IPO周期: 2026-06-18 至 2026-06-29\n⏰ 申购截止: 2026-06-24\n💰 价格区间: 114\n📊 发行股数: 0.90亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 白鸽在线 (02672) [主板]\n   📅 IPO周期: 2026-06-18 至 2026-06-29\n⏰ 申购截止: 2026-06-24\n💰 价格区间: 15.6-20.28\n📊 发行股数: 3.20亿股\n🏢 市场: 主板\n🏛️ 保荐人: 民银资本\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 礼邦医药-B (09637) [主板]\n   📅 IPO周期: 2026-06-18 至 2026-06-29\n⏰ 申购截止: 2026-06-24\n💰 价格区间: 22.6\n📊 发行股数: 3.39亿股\n🏢 市场: 主板\n🏛️ 保荐人: 美银美林\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260618T000000Z
+SUMMARY:HK IPO Day: 3 Companies Listing
+UID:38191b73-2442-478b-80d0-c79e55e4d1ec@3819.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:提醒: HK IPO: 安克创新 (00668) [主板] 明天开始
+TRIGGER:P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO: 安克创新 (00668) [主板]
+TRIGGER:PT30M
+END:VALARM
+CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-06-23 至 2026-07-02\n⏰ 申购截止: 2026-06-26\n💰 价格区间: 99.32\n📊 发行股数: 5.83亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260623T000000Z
+SUMMARY:HK IPO: 安克创新 (00668) [主板]
+UID:5712ca87-f425-4299-bdd8-da70cd12e8d0@5712.org
 END:VEVENT
 END:VCALENDAR

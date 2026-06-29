@@ -4,14 +4,38 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 4 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共4家公司上市:\n1. 真健康医疗-B (02697) [主板]\n   📅 IPO周期: 2026-06-22 至 2026-06-30\n⏰ 申购截止: 2026-06-25\n💰 价格区间: 119.3-135.4\n📊 发行股数: 0.36亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 来福谐波 (03952) [主板]\n   📅 IPO周期: 2026-06-22 至 2026-06-30\n⏰ 申购截止: 2026-06-25\n💰 价格区间: 77-85.5\n📊 发行股数: 1.03亿股\n🏢 市场: 主板\n🏛️ 保荐人: 招银国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 鲟龙科技 (06715) [主板]\n   📅 IPO周期: 2026-06-22 至 2026-06-30\n⏰ 申购截止: 2026-06-25\n💰 价格区间: 75.50\n📊 发行股数: 1.09亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n4. 江西生物 (06915) [主板]\n   📅 IPO周期: 2026-06-22 至 2026-06-30\n⏰ 申购截止: 2026-06-25\n💰 价格区间: 9.33-13.06\n📊 发行股数: 3.08亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260622T000000Z
+SUMMARY:HK IPO Day: 4 Companies Listing
+UID:2481a2c2-eb72-4de3-b834-2afae1c253fd@2481.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. MOMENTA-W (06880) [主板]\n   📅 IPO周期: 2026-06-29 至 2026-07-08\n⏰ 申购截止: 2026-07-03\n💰 价格区间: 295.60\n📊 发行股数: 2.35亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 基本半导体 (09971) [主板]\n   📅 IPO周期: 2026-06-29 至 2026-07-08\n⏰ 申购截止: 2026-07-03\n💰 价格区间: 27.49-31.62\n📊 发行股数: 3.04亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国金证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260629T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:a9ed0782-b3e4-4d2a-94a6-6a1ff4abce6d@a9ed.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
 DESCRIPTION:HK IPO Day: 3 Companies Listing
 TRIGGER:PT30M
 END:VALARM
-DESCRIPTION:共3家公司上市:\n1. 海光芯正 (01191) [主板]\n   📅 IPO周期: 2026-06-18 至 2026-06-29\n⏰ 申购截止: 2026-06-24\n💰 价格区间: 114\n📊 发行股数: 0.90亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 白鸽在线 (02672) [主板]\n   📅 IPO周期: 2026-06-18 至 2026-06-29\n⏰ 申购截止: 2026-06-24\n💰 价格区间: 15.6-20.28\n📊 发行股数: 3.20亿股\n🏢 市场: 主板\n🏛️ 保荐人: 民银资本\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 礼邦医药-B (09637) [主板]\n   📅 IPO周期: 2026-06-18 至 2026-06-29\n⏰ 申购截止: 2026-06-24\n💰 价格区间: 22.6\n📊 发行股数: 3.39亿股\n🏢 市场: 主板\n🏛️ 保荐人: 美银美林\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:共3家公司上市:\n1. 海光芯正 (01191) [主板]\n   📅 IPO周期: 2026-06-18 至 2026-06-29\n⏰ 申购截止: 2026-06-24\n💰 价格区间: 114\n💵 发行价: 114.000\n📊 发行股数: 0.90亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: 中际旭创\n🟢 绿鞋: 150.00%\n2. 白鸽在线 (02672) [主板]\n   📅 IPO周期: 2026-06-18 至 2026-06-29\n⏰ 申购截止: 2026-06-24\n💰 价格区间: 15.6-20.28\n💵 发行价: 15.600\n📊 发行股数: 3.20亿股\n🏢 市场: 主板\n🏛️ 保荐人: 民银资本\n🔗 参考公司: 众安在线\n3. 礼邦医药-B (09637) [主板]\n   📅 IPO周期: 2026-06-18 至 2026-06-29\n⏰ 申购截止: 2026-06-24\n💰 价格区间: 22.6\n💵 发行价: 22.600\n📊 发行股数: 3.39亿股\n🏢 市场: 主板\n🏛️ 保荐人: 美银美林\n🔗 参考公司: 映恩生物-Ｂ\n🟢 绿鞋: 150.00%
 DURATION:P1D
 DTSTART:20260618T000000Z
 SUMMARY:HK IPO Day: 3 Companies Listing
-UID:fd86dbc3-e99b-4320-acbb-8be470e88d70@fd86.org
+UID:78e9a9a0-6ca1-41ed-b205-957c2ea66ba9@78e9.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -29,7 +53,7 @@ DESCRIPTION:📅 IPO周期: 2026-06-23 至 2026-07-02\n⏰ 申购截止: 2026-06
 DURATION:P1D
 DTSTART:20260623T000000Z
 SUMMARY:HK IPO: 安克创新 (00668) [主板]
-UID:b7034447-c325-498e-a675-4a6c926c082b@b703.org
+UID:a21f5936-e413-4a63-a685-6c8ea1460005@a21f.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -47,18 +71,6 @@ DESCRIPTION:📅 IPO周期: 2026-06-26 至 2026-07-07\n⏰ 申购截止: 2026-07
 DURATION:P1D
 DTSTART:20260626T000000Z
 SUMMARY:HK IPO: 同仁堂医养 (02667) [主板]
-UID:1b458fa6-20f7-44ee-94c5-71d09b3ea60a@1b45.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 4 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共4家公司上市:\n1. 真健康医疗-B (02697) [主板]\n   📅 IPO周期: 2026-06-22 至 2026-06-30\n⏰ 申购截止: 2026-06-25\n💰 价格区间: 119.3-135.4\n📊 发行股数: 0.36亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 来福谐波 (03952) [主板]\n   📅 IPO周期: 2026-06-22 至 2026-06-30\n⏰ 申购截止: 2026-06-25\n💰 价格区间: 77-85.5\n📊 发行股数: 1.03亿股\n🏢 市场: 主板\n🏛️ 保荐人: 招银国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n3. 鲟龙科技 (06715) [主板]\n   📅 IPO周期: 2026-06-22 至 2026-06-30\n⏰ 申购截止: 2026-06-25\n💰 价格区间: 75.50\n📊 发行股数: 1.09亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n4. 江西生物 (06915) [主板]\n   📅 IPO周期: 2026-06-22 至 2026-06-30\n⏰ 申购截止: 2026-06-25\n💰 价格区间: 9.33-13.06\n📊 发行股数: 3.08亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260622T000000Z
-SUMMARY:HK IPO Day: 4 Companies Listing
-UID:e9ed629f-36ed-492f-8ece-cacd3d4eee58@e9ed.org
+UID:9beabb73-3ea9-44fb-aa58-2dcb79e58c9d@9bea.org
 END:VEVENT
 END:VCALENDAR

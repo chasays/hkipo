@@ -4,13 +4,19 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 3 Companies Listing
+DESCRIPTION:提醒: HK IPO: 永康控股 (02523) [主板] 明天开始
+TRIGGER:P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO: 永康控股 (02523) [主板]
 TRIGGER:PT30M
 END:VALARM
-DESCRIPTION:共3家公司上市:\n1. 永康控股 (02523) [主板]\n   📅 IPO周期: 2026-06-30 至 2026-07-13\n⏰ 申购截止: 2026-07-08\n💰 价格区间: 2.68\n📊 发行股数: 4.38亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华富建业\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 晶合集成 (02249) [主板]\n   📅 IPO周期: 2026-06-30 至 2026-07-10\n⏰ 申购截止: 2026-07-07\n💰 价格区间: 30-32.3\n💵 发行价: 32.300\n📊 发行股数: 22.23亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中金公司\n🔗 参考公司: 华润微\n🟢 绿鞋: 150.00%\n3. 滨化股份 (06745) [主板]\n   📅 IPO周期: 2026-06-30 至 2026-07-10\n⏰ 申购截止: 2026-07-07\n💰 价格区间: 3.05-3.59\n💵 发行价: 3.480\n📊 发行股数: 24.08亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: 华塑股份
+CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-06-30 至 2026-07-13\n⏰ 申购截止: 2026-07-08\n💰 价格区间: 2.68\n📊 发行股数: 4.38亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华富建业\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
 DTSTART:20260630T000000Z
-SUMMARY:HK IPO Day: 3 Companies Listing
-UID:ec4615b1-7388-47e0-9523-67aefa667ba1@ec46.org
+SUMMARY:HK IPO: 永康控股 (02523) [主板]
+UID:b2b36e9e-3de8-4571-957e-49871ecd4c43@b2b3.org
 END:VEVENT
 END:VCALENDAR

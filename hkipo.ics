@@ -4,14 +4,19 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:今天: HK IPO: 拿森科技 (02261) [主板]
+DESCRIPTION:提醒: HK IPO: 君正股份 (03223) [主板] 明天开始
+TRIGGER:P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO: 君正股份 (03223) [主板]
 TRIGGER:PT30M
 END:VALARM
-CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2026-07-30 至 2026-08-07\n⏰ 申购截止: 2026-08-04\n💰 价格区间: 10.42-11.18\n💵 发行价: 10.420\n📊 发行股数: 5.95亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰海通\n🔗 参考公司: MOMENTA-W
+CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-08-17 至 2026-08-25\n⏰ 申购截止: 2026-08-20\n💰 价格区间: 102.80\n📊 发行股数: 5.15亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰海通\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
-DTSTART:20260730T000000Z
-SUMMARY:HK IPO: 拿森科技 (02261) [主板]
-UID:96250ca3-aa09-43d6-a81d-ee57408b7aa1@9625.org
+DTSTART:20260817T000000Z
+SUMMARY:HK IPO: 君正股份 (03223) [主板]
+UID:e6e9190c-7216-41de-8885-1dedf64838cb@e6e9.org
 END:VEVENT
 END:VCALENDAR

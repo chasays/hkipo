@@ -4,18 +4,6 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 希音-W (00625) [主板]\n   📅 IPO周期: 2026-08-24 至 2026-09-01\n⏰ 申购截止: 2026-08-27\n💰 价格区间: 47.60-49.5\n📊 发行股数: 42.46亿股\n🏢 市场: 主板\n🏛️ 保荐人: 高盛\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 梅卡曼德机器人 (09615) [主板]\n   📅 IPO周期: 2026-08-24 至 2026-09-01\n⏰ 申购截止: 2026-08-27\n💰 价格区间: 95.30-101.70\n📊 发行股数: 1.25亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260824T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:2b8373e4-c406-4e9b-80eb-1bb3a76d4328@2b83.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
 DESCRIPTION:提醒: HK IPO: 麦科田 (02041) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
@@ -29,6 +17,18 @@ DESCRIPTION:📅 IPO周期: 2026-08-28 至 2026-09-07\n⏰ 申购截止: 2026-09
 DURATION:P1D
 DTSTART:20260828T000000Z
 SUMMARY:HK IPO: 麦科田 (02041) [主板]
-UID:b81fe6a0-69a3-43a6-a182-34800a64265f@b81f.org
+UID:e2976d38-657f-44c6-bc1c-f47a3227d3a8@e297.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 希音-W (00625) [主板]\n   📅 IPO周期: 2026-08-24 至 2026-09-01\n⏰ 申购截止: 2026-08-27\n💰 价格区间: 47.60-49.5\n📊 发行股数: 42.46亿股\n🏢 市场: 主板\n🏛️ 保荐人: 高盛\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 梅卡曼德机器人 (09615) [主板]\n   📅 IPO周期: 2026-08-24 至 2026-09-01\n⏰ 申购截止: 2026-08-27\n💰 价格区间: 95.30-101.70\n📊 发行股数: 1.25亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260824T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:396d194f-654d-4497-9aea-8f0ae360540d@396d.org
 END:VEVENT
 END:VCALENDAR

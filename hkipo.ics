@@ -11,7 +11,7 @@ DESCRIPTION:共2家公司上市:\n1. 优地机器人 (03231) [主板]\n   📅 I
 DURATION:P1D
 DTSTART:20260831T000000Z
 SUMMARY:HK IPO Day: 2 Companies Listing
-UID:6935ea62-1c17-456e-ba20-cb2e1c6a82da@6935.org
+UID:6699dc76-05b9-42e6-b4e5-062c5e90369a@6699.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -19,11 +19,11 @@ ACTION:DISPLAY
 DESCRIPTION:HK IPO Day: 2 Companies Listing
 TRIGGER:PT30M
 END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 希音-W (00625) [主板]\n   📅 IPO周期: 2026-08-24 至 2026-09-01\n⏰ 申购截止: 2026-08-27\n💰 价格区间: 47.60-49.5\n📊 发行股数: 42.46亿股\n🏢 市场: 主板\n🏛️ 保荐人: 高盛\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 梅卡曼德机器人 (09615) [主板]\n   📅 IPO周期: 2026-08-24 至 2026-09-01\n⏰ 申购截止: 2026-08-27\n💰 价格区间: 95.30-101.70\n📊 发行股数: 1.25亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DESCRIPTION:共2家公司上市:\n1. 希音-W (00625) [主板]\n   📅 IPO周期: 2026-08-24 至 2026-09-01\n⏰ 申购截止: 2026-08-27\n💰 价格区间: 47.60-49.5\n💵 发行价: 48.560\n📊 发行股数: 42.46亿股\n🏢 市场: 主板\n🏛️ 保荐人: 高盛\n🔗 参考公司: 拼多多\n🟢 绿鞋: 150.00%\n2. 梅卡曼德机器人 (09615) [主板]\n   📅 IPO周期: 2026-08-24 至 2026-09-01\n⏰ 申购截止: 2026-08-27\n💰 价格区间: 95.30-101.70\n💵 发行价: 101.700\n📊 发行股数: 1.25亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: 宇树科技\n🟢 绿鞋: 75.00%
 DURATION:P1D
 DTSTART:20260824T000000Z
 SUMMARY:HK IPO Day: 2 Companies Listing
-UID:310d2c62-5477-4235-a519-748b924f50a7@310d.org
+UID:2ff85888-98be-43c1-aa71-3034cbb31d6a@2ff8.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -41,6 +41,6 @@ DESCRIPTION:📅 IPO周期: 2026-08-28 至 2026-09-07\n⏰ 申购截止: 2026-09
 DURATION:P1D
 DTSTART:20260828T000000Z
 SUMMARY:HK IPO: 麦科田 (02041) [主板]
-UID:6dece76d-6bea-494c-823e-1bd3236e6816@6dec.org
+UID:aafba998-90f6-448f-89cd-b1b2940d5f59@aafb.org
 END:VEVENT
 END:VCALENDAR

@@ -4,6 +4,18 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 优地机器人 (03231) [主板]\n   📅 IPO周期: 2026-08-31 至 2026-09-09\n⏰ 申购截止: 2026-09-04\n💰 价格区间: 14.45-19.55\n📊 发行股数: 4.16亿股\n🏢 市场: 主板\n🏛️ 保荐人: 银丰\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 江波龙 (09976) [主板]\n   📅 IPO周期: 2026-08-31 至 2026-09-08\n⏰ 申购截止: 2026-09-03\n💰 价格区间: 240.60\n📊 发行股数: 4.55亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260831T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:f498f3f2-dbb2-46dc-a8a7-49dc83a899c3@f498.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
 DESCRIPTION:提醒: HK IPO: 麦科田 (02041) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
@@ -17,18 +29,6 @@ DESCRIPTION:📅 IPO周期: 2026-08-28 至 2026-09-07\n⏰ 申购截止: 2026-09
 DURATION:P1D
 DTSTART:20260828T000000Z
 SUMMARY:HK IPO: 麦科田 (02041) [主板]
-UID:eb4e554a-81e2-49e5-a3af-47eaeec258a6@eb4e.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 优地机器人 (03231) [主板]\n   📅 IPO周期: 2026-08-31 至 2026-09-09\n⏰ 申购截止: 2026-09-04\n💰 价格区间: 14.45-19.55\n📊 发行股数: 4.16亿股\n🏢 市场: 主板\n🏛️ 保荐人: 银丰\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 江波龙 (09976) [主板]\n   📅 IPO周期: 2026-08-31 至 2026-09-08\n⏰ 申购截止: 2026-09-03\n💰 价格区间: 240.60\n📊 发行股数: 4.55亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260831T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:f696f4ec-58a2-475f-8214-35f48958aa69@f696.org
+UID:2f02426a-bbff-4c1a-9c48-2afa36a9c416@2f02.org
 END:VEVENT
 END:VCALENDAR

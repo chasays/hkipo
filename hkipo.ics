@@ -4,14 +4,19 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:今天: HK IPO: 优地机器人 (03231) [主板]
+DESCRIPTION:提醒: HK IPO: 星环科技 (06727) [主板] 明天开始
+TRIGGER:P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:HK IPO: 星环科技 (06727) [主板]
 TRIGGER:PT30M
 END:VALARM
-CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2026-08-31 至 2026-09-09\n⏰ 申购截止: 2026-09-04\n💰 价格区间: 14.45-19.55\n💵 发行价: 14.450\n📊 发行股数: 4.16亿股\n🏢 市场: 主板\n🏛️ 保荐人: 银丰\n🔗 参考公司: 梅卡曼德机器人
+CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-09-11 至 2026-09-21\n⏰ 申购截止: 2026-09-16\n💰 价格区间: 49-61\n📊 发行股数: 1.35亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰海通\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
 DURATION:P1D
-DTSTART:20260831T000000Z
-SUMMARY:HK IPO: 优地机器人 (03231) [主板]
-UID:9655ff1d-e639-4b91-9051-3b9c0a86f747@9655.org
+DTSTART:20260911T000000Z
+SUMMARY:HK IPO: 星环科技 (06727) [主板]
+UID:18f9b993-854b-459a-89a1-a0ec6f9abb72@18f9.org
 END:VEVENT
 END:VCALENDAR

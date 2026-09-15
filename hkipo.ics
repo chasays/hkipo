@@ -4,6 +4,18 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 四方精创 (06700) [主板]\n   📅 IPO周期: 2026-09-14 至 2026-09-22\n⏰ 申购截止: 2026-09-17\n💰 价格区间: 16\n📊 发行股数: 5.89亿股\n🏢 市场: 主板\n🏛️ 保荐人: 招银国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 纳真科技 (09856) [主板]\n   📅 IPO周期: 2026-09-14 至 2026-09-22\n⏰ 申购截止: 2026-09-17\n💰 价格区间: 32.96\n📊 发行股数: 9.83亿股\n🏢 市场: 主板\n🏛️ 保荐人: 花旗\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20260914T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:2c239255-85db-485e-baae-8117782c4a28@2c23.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
 DESCRIPTION:提醒: HK IPO: 星环科技 (06727) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
@@ -17,24 +29,6 @@ DESCRIPTION:📅 IPO周期: 2026-09-11 至 2026-09-21\n⏰ 申购截止: 2026-09
 DURATION:P1D
 DTSTART:20260911T000000Z
 SUMMARY:HK IPO: 星环科技 (06727) [主板]
-UID:eaf6c11a-3548-4bbf-9e81-f5f39a592425@eaf6.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 四方精创 (06700) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 四方精创 (06700) [主板]
-TRIGGER:PT30M
-END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2026-09-14 至 2026-09-22\n⏰ 申购截止: 2026-09-17\n🏢 市场: 主板\n🏛️ 保荐人: 招银国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20260914T000000Z
-SUMMARY:HK IPO: 四方精创 (06700) [主板]
-UID:014a4239-74b1-48d2-b323-01cea0583597@014a.org
+UID:dadbe1a3-c605-4e75-88ed-19ffecdd6d1e@dadb.org
 END:VEVENT
 END:VCALENDAR

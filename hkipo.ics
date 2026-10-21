@@ -4,6 +4,18 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 东山精密 (02384) [主板]\n   📅 IPO周期: 2026-10-20 至 2026-10-28\n⏰ 申购截止: 2026-10-23\n💰 价格区间: 93.80\n📊 发行股数: 19.45亿股\n🏢 市场: 主板\n🏛️ 保荐人: 瑞银\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 微億智造 (03275) [主板]\n   📅 IPO周期: 2026-10-20 至 2026-10-28\n⏰ 申购截止: 2026-10-23\n💰 价格区间: 16.63-21.46\n📊 发行股数: 3.72亿股\n🏢 市场: 主板\n🏛️ 保荐人: 东方证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20261020T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:e6642639-61e5-4d03-bfd3-5c780e928f39@e664.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
 DESCRIPTION:提醒: HK IPO: 瘦西湖文旅 (06157) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
@@ -17,18 +29,6 @@ DESCRIPTION:📅 IPO周期: 2026-10-14 至 2026-10-23\n⏰ 申购截止: 2026-10
 DURATION:P1D
 DTSTART:20261014T000000Z
 SUMMARY:HK IPO: 瘦西湖文旅 (06157) [主板]
-UID:6d227112-fa08-4065-bfb9-0506738ee14e@6d22.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 东山精密 (02384) [主板]\n   📅 IPO周期: 2026-10-20 至 2026-10-28\n⏰ 申购截止: 2026-10-23\n💰 价格区间: 93.80\n📊 发行股数: 19.45亿股\n🏢 市场: 主板\n🏛️ 保荐人: 瑞银\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 微億智造 (03275) [主板]\n   📅 IPO周期: 2026-10-20 至 2026-10-28\n⏰ 申购截止: 2026-10-23\n💰 价格区间: 16.63-21.46\n📊 发行股数: 3.72亿股\n🏢 市场: 主板\n🏛️ 保荐人: 东方证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20261020T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:bbbef476-5ca4-41e5-9128-d7e4c3600624@bbbe.org
+UID:331043a8-2fc0-45d2-a8c3-992a9e4db822@3310.org
 END:VEVENT
 END:VCALENDAR

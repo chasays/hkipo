@@ -4,13 +4,14 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
+DESCRIPTION:今天: HK IPO: 东山精密 (02384) [主板]
 TRIGGER:PT30M
 END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 东山精密 (02384) [主板]\n   📅 IPO周期: 2026-10-20 至 2026-10-28\n⏰ 申购截止: 2026-10-23\n💰 价格区间: 93.80\n📊 发行股数: 19.45亿股\n🏢 市场: 主板\n🏛️ 保荐人: 瑞银\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 微億智造 (03275) [主板]\n   📅 IPO周期: 2026-10-20 至 2026-10-28\n⏰ 申购截止: 2026-10-23\n💰 价格区间: 16.63-21.46\n📊 发行股数: 3.72亿股\n🏢 市场: 主板\n🏛️ 保荐人: 东方证券\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-10-20 至 2026-10-28\n⏰ 申购截止: 2026-10-23\n💰 价格区间: 93.80\n💵 发行价: 86.800\n📊 发行股数: 19.45亿股\n🏢 市场: 主板\n🏛️ 保荐人: 瑞银\n🔗 参考公司: 澳弘电子\n🟢 绿鞋: 289.00%
 DURATION:P1D
 DTSTART:20261020T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:4c1fe30b-f1db-4278-b46c-05ab6b7acaae@4c1f.org
+SUMMARY:HK IPO: 东山精密 (02384) [主板]
+UID:a9eddfed-7804-4768-b899-0ea07163ab96@a9ed.org
 END:VEVENT
 END:VCALENDAR

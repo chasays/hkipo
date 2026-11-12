@@ -4,14 +4,15 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
+DESCRIPTION:今天: HK IPO: 一微科技 (02065) [主板]
 TRIGGER:PT30M
 END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 宏芯宇 (02681) [主板]\n   📅 IPO周期: 2026-10-30 至 2026-11-12\n⏰ 申购截止: 2026-11-09\n💰 价格区间: 72.29-82.90\n📊 发行股数: 4.82亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信建投\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 新荷花 (02206) [主板]\n   📅 IPO周期: 2026-10-30 至 2026-11-11\n⏰ 申购截止: 2026-11-06\n💰 价格区间: 40.20-50.55\n💵 发行价: 40.200\n📊 发行股数: 0.65亿股\n🏢 市场: 主板\n🏛️ 保荐人: 广发证券\n🔗 参考公司: 同仁堂医养
+CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-10-31 至 2026-11-12\n⏰ 申购截止: 2026-11-09\n💰 价格区间: 9.27-11.58\n💵 发行价: 9.900\n📊 发行股数: 4.31亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信建投\n🔗 参考公司: 宇树科技
 DURATION:P1D
-DTSTART:20261030T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:c27aebd9-7014-412e-903d-f5c76aa3dd67@c27a.org
+DTSTART:20261031T000000Z
+SUMMARY:HK IPO: 一微科技 (02065) [主板]
+UID:3d144310-416f-4ce8-ae92-10cf84ac2618@3d14.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
@@ -29,24 +30,19 @@ DESCRIPTION:📅 IPO周期: 2026-11-05 至 2026-11-13\n⏰ 申购截止: 2026-11
 DURATION:P1D
 DTSTART:20261105T000000Z
 SUMMARY:HK IPO: 国星宇航 (06935) [主板]
-UID:1e4ec943-06c9-402e-a4e5-6972783ca961@1e4e.org
+UID:a8a2da3a-e4a3-4756-aa22-164663bcdba2@a8a2.org
 END:VEVENT
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:提醒: HK IPO: 一微科技 (02065) [主板] 明天开始
-TRIGGER:P1D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO: 一微科技 (02065) [主板]
+DESCRIPTION:今天: HK IPO: 宏芯宇 (02681) [主板]
 TRIGGER:PT30M
 END:VALARM
-CATEGORIES:UPCOMING_LISTING,Hong Kong IPO,主板
-DESCRIPTION:📅 IPO周期: 2026-10-31 至 2026-11-12\n⏰ 申购截止: 2026-11-09\n💰 价格区间: 9.27-11.58\n📊 发行股数: 4.31亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信建投\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+CATEGORIES:TODAY_LISTING,Hong Kong IPO,主板
+DESCRIPTION:📅 IPO周期: 2026-10-30 至 2026-11-12\n⏰ 申购截止: 2026-11-09\n💰 价格区间: 72.29-82.90\n💵 发行价: 72.830\n📊 发行股数: 4.82亿股\n🏢 市场: 主板\n🏛️ 保荐人: 中信建投\n🔗 参考公司: 长鑫科技\n🟢 绿鞋: 150.00%
 DURATION:P1D
-DTSTART:20261031T000000Z
-SUMMARY:HK IPO: 一微科技 (02065) [主板]
-UID:38fcaccf-29ad-413b-ad8a-7aac5c9f2610@38fc.org
+DTSTART:20261030T000000Z
+SUMMARY:HK IPO: 宏芯宇 (02681) [主板]
+UID:346c4190-a7be-4783-bbd3-c89cf09f5aef@346c.org
 END:VEVENT
 END:VCALENDAR

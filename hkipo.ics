@@ -4,6 +4,18 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 BEGIN:VALARM
 ACTION:DISPLAY
+DESCRIPTION:HK IPO Day: 2 Companies Listing
+TRIGGER:PT30M
+END:VALARM
+DESCRIPTION:共2家公司上市:\n1. 袁记食品 (03364) [主板]\n   📅 IPO周期: 2026-11-27 至 2026-12-07\n⏰ 申购截止: 2026-12-02\n💰 价格区间: 23-28\n📊 发行股数: 1.34亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 贝斯特材 (03707) [主板]\n   📅 IPO周期: 2026-11-27 至 2026-12-07\n⏰ 申购截止: 2026-12-02\n💰 价格区间: 6-7\n📊 发行股数: 4.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰海通\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
+DURATION:P1D
+DTSTART:20261127T000000Z
+SUMMARY:HK IPO Day: 2 Companies Listing
+UID:5afbcb15-4eb3-4751-9a2f-be0495e249eb@5afb.org
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+ACTION:DISPLAY
 DESCRIPTION:提醒: HK IPO: 微亿智造 (03275) [主板] 明天开始
 TRIGGER:P1D
 END:VALARM
@@ -17,18 +29,6 @@ DESCRIPTION:📅 IPO周期: 2026-11-23 至 2026-12-04\n⏰ 申购截止: 2026-12
 DURATION:P1D
 DTSTART:20261123T000000Z
 SUMMARY:HK IPO: 微亿智造 (03275) [主板]
-UID:82faa4c1-3fc0-46c2-9b55-9b80c126b5df@82fa.org
-END:VEVENT
-BEGIN:VEVENT
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:HK IPO Day: 2 Companies Listing
-TRIGGER:PT30M
-END:VALARM
-DESCRIPTION:共2家公司上市:\n1. 袁记食品 (03364) [主板]\n   📅 IPO周期: 2026-11-27 至 2026-12-07\n⏰ 申购截止: 2026-12-02\n💰 价格区间: 23-28\n📊 发行股数: 1.34亿股\n🏢 市场: 主板\n🏛️ 保荐人: 华泰国际\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>\n2. 贝斯特材 (03707) [主板]\n   📅 IPO周期: 2026-11-27 至 2026-12-07\n⏰ 申购截止: 2026-12-02\n💰 价格区间: 6-7\n📊 发行股数: 4.00亿股\n🏢 市场: 主板\n🏛️ 保荐人: 国泰海通\n🔗 参考公司: <a href="/setting/member/">会员</>\n🟢 绿鞋: <a href="/setting/member/">会员</>
-DURATION:P1D
-DTSTART:20261127T000000Z
-SUMMARY:HK IPO Day: 2 Companies Listing
-UID:63b682d9-ec19-4f52-b1fc-8775d7aae514@63b6.org
+UID:10226978-0f91-4f72-be9b-d3fd38d5f4fd@1022.org
 END:VEVENT
 END:VCALENDAR
